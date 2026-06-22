@@ -26,7 +26,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei
 .chart-box{background:#fff;border-radius:10px;padding:12px;box-shadow:0 1px 3px rgba(0,0,0,.04)}
 .chart-box h3{font-size:13px;color:#333;margin-bottom:6px;padding-bottom:6px;border-bottom:2px solid #e8ecf1}
 .chart-box canvas{max-height:260px}
-.chart-box canvas.tall{max-height:380px}
+.chart-box canvas.tall{min-height:400px;max-height:none}
 .toolbar{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:8px;align-items:center}
 .toolbar input,.toolbar select{padding:6px 10px;border:1px solid #d0d5dd;border-radius:6px;font-size:12px;font-family:inherit;outline:none;background:#fff}
 .toolbar input{flex:1;min-width:140px}
@@ -202,21 +202,24 @@ function updateCharts(meta){
   var s=['#3b82f6','#f59e0b','#10b981','#ef4444','#8b5cf6','#ec4899','#06b6d4','#84cc16','#6366f1','#f97316','#e11d48'];
   if(charts.monthly)charts.monthly.destroy();
   var ctx=document.getElementById('chMonthly');if(ctx)charts.monthly=new Chart(ctx,{type:'bar',data:{labels:meta.monthly.map(function(m){return m.month.substring(5)+'月'}),datasets:[{label:'数量',data:meta.monthly.map(function(m){return m.count}),backgroundColor:'#3b82f6',borderRadius:4}]},options:{responsive:true,plugins:{legend:{display:false}},scales:{y:{beginAtZero:true,ticks:{stepSize:100}}}}});
-  // City chart - show all cities with explicit bar thickness
+  // City chart - show all cities, dynamically size canvas
   if(charts.city)charts.city.destroy();
   var cc=meta.cities.filter(function(c){return c.name!=='未知'&&c.name!=='省级'});
   var cityColors=['#3b82f6','#f59e0b','#10b981','#ef4444','#8b5cf6','#ec4899','#06b6d4','#84cc16','#6366f1','#f97316','#e11d48','#0ea5e9','#14b8a6','#d946ef','#64748b'];
-  charts.city=new Chart(document.getElementById('chCity'),{type:'bar',data:{labels:cc.map(function(x){return x.name}),datasets:[{label:'数量',data:cc.map(function(x){return x.count}),backgroundColor:cc.map(function(_,i){return cityColors[i%cityColors.length]}),barThickness:16}]},options:{indexAxis:'y',responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false}},scales:{x:{beginAtZero:true}}}});
+  (function(){var el=document.getElementById('chCity');el.style.height=Math.max(400,cc.length*28+40)+'px';})();
+  charts.city=new Chart(document.getElementById('chCity'),{type:'bar',data:{labels:cc.map(function(x){return x.name}),datasets:[{label:'数量',data:cc.map(function(x){return x.count}),backgroundColor:cc.map(function(_,i){return cityColors[i%cityColors.length]}),barThickness:18}]},options:{indexAxis:'y',responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false}},scales:{x:{beginAtZero:true},y:{ticks:{font:{size:12}}}}}});
   if(charts.sector)charts.sector.destroy();
   var sc=meta.sectors.slice(0,11);
-  charts.sector=new Chart(document.getElementById('chSector'),{type:'bar',data:{labels:sc.map(function(x){return x.name}),datasets:[{label:'数量',data:sc.map(function(x){return x.count}),backgroundColor:sc.map(function(_,i){return s[i]}),barThickness:16}]},options:{indexAxis:'y',responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false}},scales:{x:{beginAtZero:true}}}});
+  (function(){var el=document.getElementById('chSector');el.style.height=Math.max(350,sc.length*30+40)+'px';})();
+  charts.sector=new Chart(document.getElementById('chSector'),{type:'bar',data:{labels:sc.map(function(x){return x.name}),datasets:[{label:'数量',data:sc.map(function(x){return x.count}),backgroundColor:sc.map(function(_,i){return s[i]}),barThickness:20}]},options:{indexAxis:'y',responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false}},scales:{x:{beginAtZero:true},y:{ticks:{font:{size:12}}}}}});
   if(charts.type)charts.type.destroy();
   var tp=meta.types.slice(0,15);
   charts.type=new Chart(document.getElementById('chType'),{type:'bar',data:{labels:tp.map(function(x){return x.name}),datasets:[{label:'数量',data:tp.map(function(x){return x.count}),backgroundColor:'#60a5fa'}]},options:{indexAxis:'y',responsive:true,plugins:{legend:{display:false}}}});
   // District chart
   if(charts.district)charts.district.destroy();
   var dt=meta.districts.slice(0,20);
-  charts.district=new Chart(document.getElementById('chDistrict'),{type:'bar',data:{labels:dt.map(function(x){var parts=x.name.split('-');return parts[1]||x.name}),datasets:[{label:'数量',data:dt.map(function(x){return x.count}),backgroundColor:'#f59e0b',barThickness:14}]},options:{indexAxis:'y',responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false}},scales:{x:{beginAtZero:true}}}});
+  (function(){var el=document.getElementById('chDistrict');el.style.height=Math.max(400,dt.length*26+40)+'px';})();
+  charts.district=new Chart(document.getElementById('chDistrict'),{type:'bar',data:{labels:dt.map(function(x){var parts=x.name.split('-');return parts[1]||x.name}),datasets:[{label:'数量',data:dt.map(function(x){return x.count}),backgroundColor:'#f59e0b',barThickness:16}]},options:{indexAxis:'y',responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false}},scales:{x:{beginAtZero:true},y:{ticks:{font:{size:11}}}}}});
   var ts=meta.sectors[0],tt=meta.types[0];
   var tc=meta.cities.filter(function(c){return c.name!=='未知'&&c.name!=='省级'})[0];
   document.getElementById('insights').innerHTML=[
