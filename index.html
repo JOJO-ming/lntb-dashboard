@@ -178,13 +178,16 @@ function loadTabData(tab){
   });
   // Populate city/district filters
   var cities=meta.cities.map(function(c){return c.name});
-  var districts=meta.districts.map(function(d){return d.name});
+  var allDistricts=meta.districts.map(function(d){return d.name});
   var cs=document.getElementById('cityFilter');
   cs.innerHTML='<option value="">全部城市</option>';
   cities.forEach(function(v){if(v!=='未知'&&v!=='省级'){var o=document.createElement('option');o.value=v;o.textContent=v;cs.appendChild(o)}});
+  // Store all districts globally for cascade filtering
+  window._allDistricts=allDistricts;
+  // Initially show all districts
   var ds=document.getElementById('districtFilter');
   ds.innerHTML='<option value="">全部区县</option>';
-  districts.forEach(function(v){var o=document.createElement('option');o.value=v;o.textContent=v;ds.appendChild(o)});
+  allDistricts.forEach(function(v){var o=document.createElement('option');o.value=v;o.textContent=v;ds.appendChild(o)});
   var peak=meta.monthly.reduce(function(a,b){return a.count>b.count?a:b},{month:'',count:0});
   document.getElementById('kpi').innerHTML=[
     {l:'总公告数',v:meta.total+'条',s:'2026.01-06'},
@@ -320,6 +323,27 @@ function renderStatsView(){
 ['searchInput','sectorFilter','typeFilter','cityFilter','districtFilter','monthFilter'].forEach(function(id){
   var el=document.getElementById(id);if(!el)return;
   el.addEventListener('input',applyFilters);el.addEventListener('change',applyFilters);
+});
+
+// City → District cascade
+document.getElementById('cityFilter').addEventListener('change',function(){
+  var city=this.value;
+  var ds=document.getElementById('districtFilter');
+  var prev=ds.value;
+  ds.innerHTML='<option value="">全部区县</option>';
+  if(city&&window._allDistricts){
+    window._allDistricts.forEach(function(d){
+      if(d.indexOf(city+'-')===0){
+        var o=document.createElement('option');o.value=d;o.textContent=d.replace(city+'-','');ds.appendChild(o);
+      }
+    });
+  }else if(window._allDistricts){
+    window._allDistricts.forEach(function(d){
+      var o=document.createElement('option');o.value=d;o.textContent=d;ds.appendChild(o);
+    });
+  }
+  // Try to restore previous district selection
+  if(prev)ds.value=prev;
 });
 loadTabData('tenders');
 </script>
