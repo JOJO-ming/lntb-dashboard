@@ -180,6 +180,96 @@
     "sixNetwork": null
   },
   {
+    "bidSectionName": "东北财经大学科教创新楼项目-施工",
+    "titlePre": "施工",
+    "tenderAgentLegalName": "大连壹方项目管理咨询有限公司",
+    "tenderProjectCode": "202621020090166294",
+    "id": 58218,
+    "time": "2026-07-03",
+    "bidSectionCode": "202621020090166294001",
+    "title": "东北财经大学科教创新楼项目-施工",
+    "type": "notice",
+    "tenderProjectName": "东北财经大学科教创新楼项目",
+    "city": "大连",
+    "district": "",
+    "sector": "房屋建筑（房建）",
+    "totalInvestment": 12178,
+    "totalInvestmentText": "12178万元",
+    "sixNetwork": null
+  },
+  {
+    "bidSectionName": "建平县2026年深井镇设施农业暖棚项目",
+    "titlePre": "施工",
+    "tenderAgentLegalName": "辽宁海禄工程咨询有限公司",
+    "tenderProjectCode": "202621132290925786",
+    "id": 58256,
+    "time": "2026-07-03",
+    "bidSectionCode": "202621132290925786001",
+    "title": "建平县2026年深井镇设施农业暖棚项目",
+    "type": "notice",
+    "tenderProjectName": "建平县2026年深井镇设施农业暖棚项目",
+    "city": "朝阳",
+    "district": "建平县",
+    "sector": "其他工程",
+    "totalInvestment": 170,
+    "totalInvestmentText": "170万元",
+    "sixNetwork": null
+  },
+  {
+    "bidSectionName": "建平县2026年榆树林子镇设施农业暖棚项目",
+    "titlePre": "施工",
+    "tenderAgentLegalName": "辽宁海禄工程咨询有限公司",
+    "tenderProjectCode": "202621132290766794",
+    "id": 58260,
+    "time": "2026-07-03",
+    "bidSectionCode": "202621132290766794001",
+    "title": "建平县2026年榆树林子镇设施农业暖棚项目",
+    "type": "notice",
+    "tenderProjectName": "建平县2026年榆树林子镇设施农业暖棚项目",
+    "city": "朝阳",
+    "district": "建平县",
+    "sector": "其他工程",
+    "totalInvestment": 200,
+    "totalInvestmentText": "200万元",
+    "sixNetwork": null
+  },
+  {
+    "bidSectionName": "朝阳县六家子实验中学食宿楼建设项目监理",
+    "titlePre": "监理",
+    "tenderAgentLegalName": "辽宁明正项目管理有限公司",
+    "tenderProjectCode": "202621130031894692",
+    "id": 58255,
+    "time": "2026-07-03",
+    "bidSectionCode": "202621130031894692001",
+    "title": "朝阳县六家子实验中学食宿楼建设项目监理",
+    "type": "notice",
+    "tenderProjectName": "朝阳县六家子实验中学食宿楼建设项目",
+    "city": "朝阳",
+    "district": "朝阳县",
+    "sector": "房屋建筑（房建）",
+    "totalInvestment": 587.79,
+    "totalInvestmentText": "587.79万元",
+    "sixNetwork": null
+  },
+  {
+    "bidSectionName": "朝阳县六家子实验中学食宿楼建设项目",
+    "titlePre": "施工",
+    "tenderAgentLegalName": "辽宁明正项目管理有限公司",
+    "tenderProjectCode": "202621130031919078",
+    "id": 58252,
+    "time": "2026-07-03",
+    "bidSectionCode": "202621130031919078001",
+    "title": "朝阳县六家子实验中学食宿楼建设项目",
+    "type": "notice",
+    "tenderProjectName": "朝阳县六家子实验中学食宿楼建设项目",
+    "city": "朝阳",
+    "district": "朝阳县",
+    "sector": "房屋建筑（房建）",
+    "totalInvestment": 587.79,
+    "totalInvestmentText": "587.79万元",
+    "sixNetwork": null
+  },
+  {
     "bidSectionName": "阜新市防灾减灾公共消防水源建设项目工程总承包（EPC）",
     "titlePre": "工程总承包（EPC）",
     "tenderAgentLegalName": "辽宁德鑫项目管理有限公司",
@@ -9911,9 +10001,9 @@
     "city": "葫芦岛",
     "district": "建昌县",
     "sector": "供排水及污水处理",
-    "sixNetwork": null,
     "totalInvestment": 1653.5,
-    "totalInvestmentText": "1653.5万元"
+    "totalInvestmentText": "1653.5万元",
+    "sixNetwork": null
   },
   {
     "id": "57579",
@@ -35525,9 +35615,9 @@
     "city": "朝阳",
     "district": "喀左县",
     "sector": "其他工程",
-    "sixNetwork": null,
     "totalInvestment": 554.91,
-    "totalInvestmentText": "554.91万元"
+    "totalInvestmentText": "554.91万元",
+    "sixNetwork": null
   },
   {
     "id": "55957",
@@ -37365,9 +37455,9 @@
     "city": "葫芦岛",
     "district": "南票区",
     "sector": "供排水及污水处理",
-    "sixNetwork": null,
     "totalInvestment": 2393.03,
-    "totalInvestmentText": "2393.03万元"
+    "totalInvestmentText": "2393.03万元",
+    "sixNetwork": null
   },
   {
     "id": "55806",
@@ -40454,9 +40544,9 @@
     "city": "朝阳",
     "district": "朝阳县",
     "sector": "供排水及污水处理",
-    "sixNetwork": null,
     "totalInvestment": 62270.52,
-    "totalInvestmentText": "62270.52万元"
+    "totalInvestmentText": "62270.52万元",
+    "sixNetwork": null
   },
   {
     "id": "55614",
@@ -40604,9 +40694,9 @@
     "city": "朝阳",
     "district": "朝阳县",
     "sector": "供排水及污水处理",
-    "sixNetwork": null,
     "totalInvestment": 62270.52,
-    "totalInvestmentText": "62270.52万元"
+    "totalInvestmentText": "62270.52万元",
+    "sixNetwork": null
   },
   {
     "id": "55579",
@@ -42229,9 +42319,9 @@
     "city": "朝阳",
     "district": "朝阳县",
     "sector": "市政道路 & 园区基建",
-    "sixNetwork": null,
     "totalInvestment": 6498.7,
-    "totalInvestmentText": "6498.7万元"
+    "totalInvestmentText": "6498.7万元",
+    "sixNetwork": null
   },
   {
     "id": "55510",
@@ -42244,9 +42334,9 @@
     "city": "朝阳",
     "district": "朝阳县",
     "sector": "市政道路 & 园区基建",
-    "sixNetwork": null,
     "totalInvestment": 6498.7,
-    "totalInvestmentText": "6498.7万元"
+    "totalInvestmentText": "6498.7万元",
+    "sixNetwork": null
   },
   {
     "id": "55513",
@@ -43743,7 +43833,9 @@
     "city": "大连",
     "district": "长海县",
     "sector": "其他工程",
-    "sixNetwork": null
+    "sixNetwork": null,
+    "totalInvestment": 21370.49,
+    "totalInvestmentText": "21370.49万元"
   },
   {
     "id": "55432",
@@ -45059,7 +45151,9 @@
     "city": "大连",
     "district": "长兴岛",
     "sector": "市政道路 & 园区基建",
-    "sixNetwork": "物流网"
+    "sixNetwork": "物流网",
+    "totalInvestment": 134791,
+    "totalInvestmentText": "134791万元"
   },
   {
     "id": "55361",
@@ -48428,7 +48522,9 @@
     "city": "鞍山",
     "district": "立山区",
     "sector": "城市更新 & 老旧改造",
-    "sixNetwork": null
+    "sixNetwork": null,
+    "totalInvestment": 117.62,
+    "totalInvestmentText": "117.62万元"
   },
   {
     "id": "55142",
@@ -48696,9 +48792,9 @@
     "city": "沈阳",
     "district": "",
     "sector": "供排水及污水处理",
-    "sixNetwork": null,
     "totalInvestment": 46878.76,
-    "totalInvestmentText": "46878.76万元"
+    "totalInvestmentText": "46878.76万元",
+    "sixNetwork": null
   },
   {
     "id": "55129",
@@ -48906,9 +49002,9 @@
     "city": "丹东",
     "district": "",
     "sector": "电力 & 能源工程",
-    "sixNetwork": null,
     "totalInvestment": 525000.5995,
-    "totalInvestmentText": "525000.5995万元"
+    "totalInvestmentText": "525000.5995万元",
+    "sixNetwork": null
   },
   {
     "id": "55105",
@@ -49056,9 +49152,9 @@
     "city": "本溪",
     "district": "",
     "sector": "市政道路 & 园区基建",
-    "sixNetwork": null,
     "totalInvestment": 1815956.1872,
-    "totalInvestmentText": "1815956.1872万元"
+    "totalInvestmentText": "1815956.1872万元",
+    "sixNetwork": null
   },
   {
     "id": "55094",
@@ -49221,7 +49317,9 @@
     "city": "沈阳",
     "district": "",
     "sector": "供排水及污水处理",
-    "sixNetwork": null
+    "sixNetwork": null,
+    "totalInvestment": 46878.76,
+    "totalInvestmentText": "46878.76万元"
   },
   {
     "id": "55069",
@@ -49309,9 +49407,9 @@
     "city": "沈阳",
     "district": "",
     "sector": "房屋建筑（房建）",
-    "sixNetwork": null,
     "totalInvestment": 6230,
-    "totalInvestmentText": "6230万元"
+    "totalInvestmentText": "6230万元",
+    "sixNetwork": null
   },
   {
     "id": "55086",
@@ -49324,9 +49422,9 @@
     "city": "省级",
     "district": "",
     "sector": "市政道路 & 园区基建",
-    "sixNetwork": null,
     "totalInvestment": 15700,
-    "totalInvestmentText": "15700万元"
+    "totalInvestmentText": "15700万元",
+    "sixNetwork": null
   },
   {
     "id": "55078",
@@ -49354,7 +49452,9 @@
     "city": "鞍山",
     "district": "海城市",
     "sector": "其他工程",
-    "sixNetwork": null
+    "sixNetwork": null,
+    "totalInvestment": 8504.34,
+    "totalInvestmentText": "8504.34万元"
   },
   {
     "id": "55085",
@@ -49367,9 +49467,9 @@
     "city": "沈抚",
     "district": "示范区",
     "sector": "城市更新 & 老旧改造",
-    "sixNetwork": null,
     "totalInvestment": 74536.5,
-    "totalInvestmentText": "74536.5万元"
+    "totalInvestmentText": "74536.5万元",
+    "sixNetwork": null
   },
   {
     "id": "55083",
@@ -49382,9 +49482,9 @@
     "city": "沈抚",
     "district": "示范区",
     "sector": "城市更新 & 老旧改造",
-    "sixNetwork": null,
     "totalInvestment": 74536.5,
-    "totalInvestmentText": "74536.5万元"
+    "totalInvestmentText": "74536.5万元",
+    "sixNetwork": null
   },
   {
     "id": "55067",
@@ -49860,9 +49960,9 @@
     "city": "抚顺",
     "district": "清原满族自治县",
     "sector": "供排水及污水处理",
-    "sixNetwork": null,
     "totalInvestment": 954,
-    "totalInvestmentText": "954万元"
+    "totalInvestmentText": "954万元",
+    "sixNetwork": null
   },
   {
     "id": "55046",
@@ -50474,9 +50574,9 @@
     "city": "大连",
     "district": "长兴岛",
     "sector": "供排水及污水处理",
-    "sixNetwork": null,
     "totalInvestment": 157023,
-    "totalInvestmentText": "157023万元"
+    "totalInvestmentText": "157023万元",
+    "sixNetwork": null
   },
   {
     "id": "54999",
@@ -50849,7 +50949,9 @@
     "city": "沈阳",
     "district": "",
     "sector": "电力 & 能源工程",
-    "sixNetwork": "物流网"
+    "sixNetwork": "物流网",
+    "totalInvestment": 2100,
+    "totalInvestmentText": "2100万元"
   },
   {
     "id": "54995",
@@ -50862,7 +50964,9 @@
     "city": "沈阳",
     "district": "",
     "sector": "电力 & 能源工程",
-    "sixNetwork": "物流网"
+    "sixNetwork": "物流网",
+    "totalInvestment": 2100,
+    "totalInvestmentText": "2100万元"
   },
   {
     "id": "54993",
@@ -51150,7 +51254,9 @@
     "city": "朝阳",
     "district": "",
     "sector": "城市更新 & 老旧改造",
-    "sixNetwork": null
+    "sixNetwork": null,
+    "totalInvestment": 19187,
+    "totalInvestmentText": "19187万元"
   },
   {
     "id": "54971",
@@ -51208,7 +51314,9 @@
     "city": "沈阳",
     "district": "",
     "sector": "其他工程",
-    "sixNetwork": null
+    "sixNetwork": null,
+    "totalInvestment": 11293.4,
+    "totalInvestmentText": "11293.4万元"
   },
   {
     "id": "54970",
@@ -51236,7 +51344,9 @@
     "city": "省级",
     "district": "",
     "sector": "其他工程",
-    "sixNetwork": null
+    "sixNetwork": null,
+    "totalInvestment": 2500,
+    "totalInvestmentText": "2500万元"
   },
   {
     "id": "54960",
@@ -51264,7 +51374,9 @@
     "city": "大连",
     "district": "",
     "sector": "房屋建筑（房建）",
-    "sixNetwork": null
+    "sixNetwork": null,
+    "totalInvestment": 23290,
+    "totalInvestmentText": "23290万元"
   },
   {
     "id": "54932",
@@ -51307,7 +51419,9 @@
     "city": "沈阳",
     "district": "新民市",
     "sector": "其他工程",
-    "sixNetwork": null
+    "sixNetwork": null,
+    "totalInvestment": 52590.36,
+    "totalInvestmentText": "52590.36万元"
   },
   {
     "id": "54965",
@@ -51320,7 +51434,9 @@
     "city": "铁岭",
     "district": "",
     "sector": "其他工程",
-    "sixNetwork": null
+    "sixNetwork": null,
+    "totalInvestment": 258.5,
+    "totalInvestmentText": "258.5万元"
   },
   {
     "id": "54808",
@@ -53733,7 +53849,9 @@
     "city": "沈阳",
     "district": "",
     "sector": "市政道路 & 园区基建",
-    "sixNetwork": null
+    "sixNetwork": null,
+    "totalInvestment": 860000,
+    "totalInvestmentText": "860000万元"
   },
   {
     "id": "54823",
