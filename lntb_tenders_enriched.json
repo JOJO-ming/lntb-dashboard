@@ -1,5 +1,95 @@
 [
   {
+    "bidSectionName": "金星镇南安村、西新庄村、刘屯村光伏项目及充电桩项目施工",
+    "titlePre": "施工",
+    "tenderAgentLegalName": "辽宁德信项目管理有限公司",
+    "tenderProjectCode": "202621140420393454",
+    "id": 58299,
+    "time": "2026-07-06",
+    "bidSectionCode": "202621140420393454001",
+    "title": "金星镇南安村、西新庄村、刘屯村光伏项目及充电桩项目施工",
+    "type": "notice",
+    "tenderProjectName": "金星镇南安村、西新庄村、刘屯村光伏项目及充电桩项目",
+    "city": "",
+    "district": "",
+    "sector": "电力 & 能源工程",
+    "sixNetwork": "新型电网",
+    "totalInvestment": 300,
+    "totalInvestmentText": "300万元"
+  },
+  {
+    "bidSectionName": "万海能源开发(海城)有限公司背压机组扩建工程—建筑工程EPC总承包项目",
+    "titlePre": "工程总承包（EPC）",
+    "tenderAgentLegalName": "辽宁金建工程咨询有限公司",
+    "tenderProjectCode": "202621038190448012",
+    "id": 58232,
+    "time": "2026-07-06",
+    "bidSectionCode": "202621038190448012001",
+    "title": "万海能源开发(海城)有限公司背压机组扩建工程—建筑工程EPC总承包项目",
+    "type": "notice",
+    "tenderProjectName": "万海能源开发(海城)有限公司背压机组扩建工程",
+    "city": "",
+    "district": "",
+    "sector": "其他工程",
+    "sixNetwork": null,
+    "totalInvestment": 121660.33,
+    "totalInvestmentText": "121660.33万元"
+  },
+  {
+    "bidSectionName": "辽宁省葫芦岛市茨梅花村新能源有限责任公司180千瓦分布式光伏电站项目及充电站项目施工",
+    "titlePre": "施工",
+    "tenderAgentLegalName": "辽宁鸿飞项目管理咨询有限公司",
+    "tenderProjectCode": "202621140420155244",
+    "id": 58298,
+    "time": "2026-07-06",
+    "bidSectionCode": "202621140420155244001",
+    "title": "辽宁省葫芦岛市茨梅花村新能源有限责任公司180千瓦分布式光伏电站项目及充电站项目施工",
+    "type": "notice",
+    "tenderProjectName": "辽宁省葫芦岛市茨梅花村新能源有限责任公司180千瓦分布式光伏电站项目及充电站项目",
+    "city": "葫芦岛",
+    "district": "",
+    "sector": "电力 & 能源工程",
+    "sixNetwork": "新型电网",
+    "totalInvestment": 100,
+    "totalInvestmentText": "100万元"
+  },
+  {
+    "bidSectionName": "沈阳市和平区2026年清洁供暖提升改造项目—南昌中学长白岛校区（沈阳市第二十三中学）设备采购",
+    "titlePre": "材料设备采购",
+    "tenderAgentLegalName": "辽宁阜康招投标有限公司",
+    "tenderProjectCode": "202621010062570236",
+    "id": 58275,
+    "time": "2026-07-06",
+    "bidSectionCode": "202621010062570236001",
+    "title": "沈阳市和平区2026年清洁供暖提升改造项目—南昌中学长白岛校区（沈阳市第二十三中学）设备采购",
+    "type": "notice",
+    "tenderProjectName": "沈阳市和平区2026年清洁供暖提升改造项目",
+    "city": "沈阳",
+    "district": "和平区",
+    "sector": "房屋建筑（房建）",
+    "sixNetwork": "城市地下管网",
+    "totalInvestment": 20500.72,
+    "totalInvestmentText": "20500.72万元"
+  },
+  {
+    "bidSectionName": "中国航发燃气轮机有限公司制造装试中心（二期）建设项目监理",
+    "titlePre": "监理",
+    "tenderAgentLegalName": "中招工业发展（北京）有限公司",
+    "tenderProjectCode": "202621010010999577",
+    "id": 58295,
+    "time": "2026-07-06",
+    "bidSectionCode": "202621010010999577001",
+    "title": "中国航发燃气轮机有限公司制造装试中心（二期）建设项目监理",
+    "type": "notice",
+    "tenderProjectName": "中国航发燃气轮机有限公司制造装试中心（二期）建设项目",
+    "city": "",
+    "district": "",
+    "sector": "燃气工程",
+    "sixNetwork": null,
+    "totalInvestment": 22000,
+    "totalInvestmentText": "22000万元"
+  },
+  {
     "bidSectionName": "东北财经大学科教创新楼项目-施工",
     "titlePre": "施工",
     "tenderAgentLegalName": "大连壹方项目管理咨询有限公司",
@@ -43833,9 +43923,9 @@
     "city": "大连",
     "district": "长海县",
     "sector": "其他工程",
-    "sixNetwork": null,
     "totalInvestment": 21370.49,
-    "totalInvestmentText": "21370.49万元"
+    "totalInvestmentText": "21370.49万元",
+    "sixNetwork": null
   },
   {
     "id": "55432",
@@ -48522,9 +48612,9 @@
     "city": "鞍山",
     "district": "立山区",
     "sector": "城市更新 & 老旧改造",
-    "sixNetwork": null,
     "totalInvestment": 117.62,
-    "totalInvestmentText": "117.62万元"
+    "totalInvestmentText": "117.62万元",
+    "sixNetwork": null
   },
   {
     "id": "55142",
@@ -49317,9 +49407,9 @@
     "city": "沈阳",
     "district": "",
     "sector": "供排水及污水处理",
-    "sixNetwork": null,
     "totalInvestment": 46878.76,
-    "totalInvestmentText": "46878.76万元"
+    "totalInvestmentText": "46878.76万元",
+    "sixNetwork": null
   },
   {
     "id": "55069",
@@ -49452,9 +49542,9 @@
     "city": "鞍山",
     "district": "海城市",
     "sector": "其他工程",
-    "sixNetwork": null,
     "totalInvestment": 8504.34,
-    "totalInvestmentText": "8504.34万元"
+    "totalInvestmentText": "8504.34万元",
+    "sixNetwork": null
   },
   {
     "id": "55085",
@@ -51254,9 +51344,9 @@
     "city": "朝阳",
     "district": "",
     "sector": "城市更新 & 老旧改造",
-    "sixNetwork": null,
     "totalInvestment": 19187,
-    "totalInvestmentText": "19187万元"
+    "totalInvestmentText": "19187万元",
+    "sixNetwork": null
   },
   {
     "id": "54971",
@@ -51314,9 +51404,9 @@
     "city": "沈阳",
     "district": "",
     "sector": "其他工程",
-    "sixNetwork": null,
     "totalInvestment": 11293.4,
-    "totalInvestmentText": "11293.4万元"
+    "totalInvestmentText": "11293.4万元",
+    "sixNetwork": null
   },
   {
     "id": "54970",
@@ -51344,9 +51434,9 @@
     "city": "省级",
     "district": "",
     "sector": "其他工程",
-    "sixNetwork": null,
     "totalInvestment": 2500,
-    "totalInvestmentText": "2500万元"
+    "totalInvestmentText": "2500万元",
+    "sixNetwork": null
   },
   {
     "id": "54960",
@@ -51374,9 +51464,9 @@
     "city": "大连",
     "district": "",
     "sector": "房屋建筑（房建）",
-    "sixNetwork": null,
     "totalInvestment": 23290,
-    "totalInvestmentText": "23290万元"
+    "totalInvestmentText": "23290万元",
+    "sixNetwork": null
   },
   {
     "id": "54932",
@@ -51419,9 +51509,9 @@
     "city": "沈阳",
     "district": "新民市",
     "sector": "其他工程",
-    "sixNetwork": null,
     "totalInvestment": 52590.36,
-    "totalInvestmentText": "52590.36万元"
+    "totalInvestmentText": "52590.36万元",
+    "sixNetwork": null
   },
   {
     "id": "54965",
@@ -51434,9 +51524,9 @@
     "city": "铁岭",
     "district": "",
     "sector": "其他工程",
-    "sixNetwork": null,
     "totalInvestment": 258.5,
-    "totalInvestmentText": "258.5万元"
+    "totalInvestmentText": "258.5万元",
+    "sixNetwork": null
   },
   {
     "id": "54808",
@@ -53849,9 +53939,9 @@
     "city": "沈阳",
     "district": "",
     "sector": "市政道路 & 园区基建",
-    "sixNetwork": null,
     "totalInvestment": 860000,
-    "totalInvestmentText": "860000万元"
+    "totalInvestmentText": "860000万元",
+    "sixNetwork": null
   },
   {
     "id": "54823",
