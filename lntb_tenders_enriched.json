@@ -1,5 +1,97 @@
 [
   {
+    "bidSectionName": "沈阳桃仙机场供电设备设施改造工程机场66kV变电所GIS改造与维护项目",
+    "titlePre": "施工",
+    "tenderAgentLegalName": "上海远菁管理咨询有限公司",
+    "tenderProjectCode": "202621990031995304",
+    "id": 58409,
+    "time": "2026-07-09",
+    "bidSectionCode": "202621990031995304001",
+    "title": "沈阳桃仙机场供电设备设施改造工程机场66kV变电所GIS改造与维护项目",
+    "type": "notice",
+    "tenderProjectName": "沈阳桃仙机场供电设备设施改造工程机场66kV变电所GIS改造与维护项目",
+    "city": "沈阳",
+    "district": "",
+    "sector": "电力 & 能源工程",
+    "sixNetwork": "新型电网",
+    "totalInvestment": 54,
+    "totalInvestmentText": "54万元"
+  },
+  {
+    "bidSectionName": "沈阳桃仙国际机场第二跑道项目机场工程临时路工程施工",
+    "titlePre": "施工",
+    "tenderAgentLegalName": "辽宁工程招标有限公司",
+    "tenderProjectCode": "202621010019634674",
+    "id": 58401,
+    "time": "2026-07-09",
+    "bidSectionCode": "202621010019634674001",
+    "title": "沈阳桃仙国际机场第二跑道项目机场工程临时路工程",
+    "type": "notice",
+    "tenderProjectName": "沈阳桃仙国际机场第二跑道项目机场工程临时路工程",
+    "city": "沈阳",
+    "district": "",
+    "sector": "其他工程",
+    "sixNetwork": null,
+    "totalInvestment": 700588,
+    "totalInvestmentText": "700588万元"
+  },
+  {
+    "bidSectionName": "康平县东关街道梁家村排水工程",
+    "titlePre": "施工",
+    "tenderAgentLegalName": "沈阳卓泰项目管理咨询有限公司",
+    "tenderProjectCode": "202621010010900675",
+    "id": 58408,
+    "time": "2026-07-09",
+    "bidSectionCode": "202621010010900675001",
+    "title": "康平县东关街道梁家村排水工程施工",
+    "type": "notice",
+    "tenderProjectName": "康平县东关街道梁家村排水工程",
+    "city": "沈阳",
+    "district": "康平县",
+    "sector": "供排水及污水处理",
+    "sixNetwork": null,
+    "totalInvestment": 262.02,
+    "totalInvestmentText": "262.02万元"
+  },
+  {
+    "bidSectionName": "凌海市2025年高标准农田建设项目（第二批）施工四标段",
+    "titlePre": "施工",
+    "tenderAgentLegalName": "辽宁天一工程咨询有限公司",
+    "tenderProjectCode": "202621070001818677",
+    "id": 58367,
+    "time": "2026-07-09",
+    "bidSectionCode": "202621070001818677001",
+    "title": "凌海市2025年高标准农田建设项目（第二批）施工四标段",
+    "type": "notice",
+    "tenderProjectName": "凌海市2025年高标准农田建设项目",
+    "city": "锦州",
+    "district": "凌海市",
+    "sector": "生态环保 & 农林水利",
+    "sixNetwork": "水网",
+    "totalInvestment": 73264,
+    "totalInvestmentText": "73264万元"
+  },
+  {
+    "bidSectionName": "辽宁科技大学校园电力扩容改造项目配电设施采购项目",
+    "titlePre": "材料设备采购",
+    "twiceFlag": 2,
+    "tenderAgentLegalName": "辽宁宏成工程咨询有限公司",
+    "tenderProjectCode": "202621030420606366",
+    "id": 58378,
+    "time": "2026-07-09",
+    "bidSectionCode": "202621030420606366001",
+    "title": "辽宁科技大学校园电力扩容改造项目配电设施采购项目",
+    "type": "notice",
+    "tenderProjectName": "辽宁科技大学校园电力扩容改造项目",
+    "twiceCount": 1,
+    "city": "鞍山",
+    "district": "",
+    "sector": "房屋建筑（房建）",
+    "sixNetwork": "新型电网",
+    "totalInvestment": 2375,
+    "totalInvestmentText": "2375万元"
+  },
+  {
     "bidSectionName": "葫芦岛市建筑垃圾综合利用中心项目建筑垃圾处理设备采购",
     "titlePre": "材料设备采购",
     "tenderAgentLegalName": "葫芦岛市海达工程招标有限责任公司",
@@ -13,9 +105,9 @@
     "city": "葫芦岛",
     "district": "",
     "sector": "其他工程",
-    "sixNetwork": null,
     "totalInvestment": 4779.31,
-    "totalInvestmentText": "4779.31万元"
+    "totalInvestmentText": "4779.31万元",
+    "sixNetwork": null
   },
   {
     "bidSectionName": "辽宁师范大学体育教育实训中心项目-施工总承包",
@@ -31,9 +123,9 @@
     "city": "大连",
     "district": "",
     "sector": "房屋建筑（房建）",
-    "sixNetwork": null,
     "totalInvestment": 12059,
-    "totalInvestmentText": "12059万元"
+    "totalInvestmentText": "12059万元",
+    "sixNetwork": null
   },
   {
     "bidSectionName": "辽宁师范大学体育教育实训中心项目-10KV变电所及电力外线工程",
@@ -49,9 +141,9 @@
     "city": "大连",
     "district": "",
     "sector": "房屋建筑（房建）",
-    "sixNetwork": null,
     "totalInvestment": 12059,
-    "totalInvestmentText": "12059万元"
+    "totalInvestmentText": "12059万元",
+    "sixNetwork": null
   },
   {
     "bidSectionName": "2022年大连市燃气管道等老化更新(片区二)项目-燃气表接头、自闭阀采购项目",
@@ -86,9 +178,9 @@
     "city": "本溪",
     "district": "桓仁满族自治县",
     "sector": "房屋建筑（房建）",
-    "sixNetwork": null,
     "totalInvestment": 7499.21,
-    "totalInvestmentText": "7499.21万元"
+    "totalInvestmentText": "7499.21万元",
+    "sixNetwork": null
   },
   {
     "bidSectionName": "辽阳县2026年高标准农田建设项目施工三标段,辽阳县2026年高标准农田建设项目施工四标段",
