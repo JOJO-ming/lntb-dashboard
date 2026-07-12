@@ -14,7 +14,10 @@
     "city": "大连",
     "district": "金州区",
     "sector": "房屋建筑（房建）",
-    "sixNetwork": null
+    "sixNetwork": null,
+    "winner": "大连汇泰建设工程有限公司",
+    "winningPrice": 30721629.43,
+    "winningPriceText": "30,721,629.43元"
   },
   {
     "bidSectionName": "于洪区招商瑞园配建租赁住房改造项目施工",
@@ -31,10 +34,10 @@
     "city": "沈阳",
     "district": "于洪区",
     "sector": "其他工程",
-    "sixNetwork": null,
     "winner": "辽宁亿邦建筑有限公司",
     "winningPrice": 283699.5,
-    "winningPriceText": "283,699.50元"
+    "winningPriceText": "283,699.50元",
+    "sixNetwork": null
   },
   {
     "bidSectionName": "盘山县2026年农村公路建设养护工程项目监理",
@@ -51,10 +54,10 @@
     "city": "盘锦",
     "district": "盘山县",
     "sector": "市政道路 & 园区基建",
-    "sixNetwork": null,
     "winner": "辽宁省公路工程监理咨询有限公司",
     "winningPrice": 310000,
-    "winningPriceText": "310,000.00元"
+    "winningPriceText": "310,000.00元",
+    "sixNetwork": null
   },
   {
     "bidSectionName": "2025年直管公房改造工程-计划工程-施工三标段",
@@ -71,10 +74,10 @@
     "city": "",
     "district": "",
     "sector": "其他工程",
-    "sixNetwork": null,
     "winner": "辽宁际乔建设工程有限公司",
     "winningPrice": 3725472.04,
-    "winningPriceText": "3,725,472.04元"
+    "winningPriceText": "3,725,472.04元",
+    "sixNetwork": null
   },
   {
     "bidSectionName": "2025年直管公房改造工程-计划工程-施工二标段",
@@ -91,10 +94,10 @@
     "city": "",
     "district": "",
     "sector": "其他工程",
-    "sixNetwork": null,
     "winner": "华跃建工有限公司",
     "winningPrice": 3715226.09,
-    "winningPriceText": "3,715,226.09元"
+    "winningPriceText": "3,715,226.09元",
+    "sixNetwork": null
   },
   {
     "bidSectionName": "本溪市群众运动空间扩容建设项目施工图设计",

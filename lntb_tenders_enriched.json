@@ -50,9 +50,9 @@
     "city": "",
     "district": "",
     "sector": "其他工程",
-    "sixNetwork": null,
     "totalInvestment": 1200,
-    "totalInvestmentText": "1200万元"
+    "totalInvestmentText": "1200万元",
+    "sixNetwork": null
   },
   {
     "bidSectionName": "于洪区城中村非拆迁区域大兴村等21个村基础设施改造工程-设计",
@@ -68,9 +68,9 @@
     "city": "沈阳",
     "district": "于洪区",
     "sector": "城市更新 & 老旧改造",
-    "sixNetwork": null,
     "totalInvestment": 7559.85,
-    "totalInvestmentText": "7559.85万元"
+    "totalInvestmentText": "7559.85万元",
+    "sixNetwork": null
   },
   {
     "bidSectionName": "2026-2027年度煤炭采购（滨海热源厂发热量4500千卡/千克煤炭）",
@@ -88,9 +88,9 @@
     "city": "大连",
     "district": "",
     "sector": "供热工程",
-    "sixNetwork": null,
     "totalInvestment": 8437.5,
-    "totalInvestmentText": "8437.5万元"
+    "totalInvestmentText": "8437.5万元",
+    "sixNetwork": null
   },
   {
     "bidSectionName": "沈阳桃仙机场供电设备设施改造工程机场66kV变电所GIS改造与维护项目",
