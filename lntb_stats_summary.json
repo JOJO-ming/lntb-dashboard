@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-28 09:29:22",
+  "generatedAt": "2026-07-28 14:41:56",
   "overview": {
-    "tenderTotal": 4079,
+    "tenderTotal": 4134,
     "bidderTotal": 4493,
-    "total": 8572,
+    "total": 8627,
     "cityCount": 15,
-    "totalInvestment": 29660.4,
-    "todayNew": 8,
-    "tendersWithInvest": 4072,
+    "totalInvestment": 29880.2,
+    "todayNew": 15,
+    "tendersWithInvest": 4127,
     "biddersWithPrice": 3805,
     "investCoverage": 99.8,
     "priceCoverage": 84.7
@@ -60,45 +60,45 @@
     },
     {
       "month": "2026-07",
-      "tenderCount": 413,
+      "tenderCount": 468,
       "bidderCount": 449
     }
   ],
   "sectorDist": [
     {
       "name": "其他工程",
-      "count": 1830,
-      "pct": 21.3
+      "count": 1847,
+      "pct": 21.4
     },
     {
       "name": "市政道路 & 园区基建",
-      "count": 1716,
+      "count": 1726,
       "pct": 20.0
     },
     {
       "name": "供排水及污水处理",
-      "count": 1632,
+      "count": 1636,
       "pct": 19.0
     },
     {
       "name": "城市更新 & 老旧改造",
-      "count": 1187,
+      "count": 1190,
       "pct": 13.8
     },
     {
       "name": "房屋建筑（房建）",
-      "count": 901,
-      "pct": 10.5
+      "count": 911,
+      "pct": 10.6
     },
     {
       "name": "生态环保 & 农林水利",
-      "count": 544,
+      "count": 546,
       "pct": 6.3
     },
     {
       "name": "电力 & 能源工程",
-      "count": 303,
-      "pct": 3.5
+      "count": 307,
+      "pct": 3.6
     },
     {
       "name": "供热工程",
@@ -106,19 +106,19 @@
       "pct": 2.0
     },
     {
+      "name": "智能化 & 城市安全",
+      "count": 117,
+      "pct": 1.4
+    },
+    {
       "name": "燃气工程",
       "count": 113,
       "pct": 1.3
     },
     {
-      "name": "智能化 & 城市安全",
-      "count": 113,
-      "pct": 1.3
-    },
-    {
       "name": "文旅 & 公服配套",
-      "count": 64,
-      "pct": 0.7
+      "count": 65,
+      "pct": 0.8
     }
   ],
   "sixNetDist": [
@@ -243,57 +243,57 @@
   "cityDist": [
     {
       "name": "沈阳",
-      "count": 2267,
+      "count": 2280,
       "pct": 27.0
     },
     {
       "name": "大连",
-      "count": 1135,
+      "count": 1141,
       "pct": 13.5
     },
     {
       "name": "未知",
-      "count": 726,
+      "count": 735,
       "pct": 8.7
     },
     {
       "name": "朝阳",
-      "count": 720,
+      "count": 723,
       "pct": 8.6
     },
     {
       "name": "锦州",
-      "count": 529,
+      "count": 530,
       "pct": 6.3
     },
     {
       "name": "丹东",
-      "count": 445,
+      "count": 446,
       "pct": 5.3
     },
     {
       "name": "葫芦岛",
-      "count": 440,
+      "count": 442,
       "pct": 5.2
     },
     {
       "name": "铁岭",
-      "count": 390,
+      "count": 391,
       "pct": 4.6
     },
     {
       "name": "本溪",
-      "count": 313,
+      "count": 315,
       "pct": 3.7
     },
     {
       "name": "抚顺",
-      "count": 301,
+      "count": 306,
       "pct": 3.6
     },
     {
       "name": "鞍山",
-      "count": 295,
+      "count": 296,
       "pct": 3.5
     },
     {
@@ -303,55 +303,55 @@
     },
     {
       "name": "辽阳",
-      "count": 217,
+      "count": 218,
       "pct": 2.6
     },
     {
       "name": "省级",
-      "count": 184,
+      "count": 189,
       "pct": 2.2
     },
     {
       "name": "盘锦",
-      "count": 150,
+      "count": 151,
       "pct": 1.8
     }
   ],
   "typeDist": [
     {
       "name": "施工",
-      "count": 1988,
-      "pct": 49.0
+      "count": 2022,
+      "pct": 49.2
     },
     {
       "name": "监理",
-      "count": 623,
-      "pct": 15.4
+      "count": 629,
+      "pct": 15.3
     },
     {
       "name": "设计",
-      "count": 349,
-      "pct": 8.6
+      "count": 351,
+      "pct": 8.5
     },
     {
       "name": "工程总承包（EPC）",
-      "count": 289,
+      "count": 292,
       "pct": 7.1
     },
     {
       "name": "材料设备采购",
-      "count": 252,
+      "count": 254,
       "pct": 6.2
     },
     {
       "name": "其他",
-      "count": 159,
+      "count": 162,
       "pct": 3.9
     },
     {
       "name": "检验检测",
-      "count": 123,
-      "pct": 3.0
+      "count": 127,
+      "pct": 3.1
     },
     {
       "name": "勘察",
@@ -360,7 +360,7 @@
     },
     {
       "name": "造价咨询",
-      "count": 61,
+      "count": 62,
       "pct": 1.5
     },
     {
@@ -397,7 +397,7 @@
   "districtDist": [
     {
       "name": "铁西区",
-      "count": 258,
+      "count": 259,
       "pct": 12.1
     },
     {
@@ -407,26 +407,26 @@
     },
     {
       "name": "和平区",
-      "count": 169,
+      "count": 170,
       "pct": 7.9
     },
     {
       "name": "朝阳县",
-      "count": 166,
+      "count": 167,
       "pct": 7.8
     },
     {
       "name": "皇姑区",
-      "count": 155,
+      "count": 156,
       "pct": 7.3
     },
     {
-      "name": "大东区",
-      "count": 128,
+      "name": "建昌县",
+      "count": 129,
       "pct": 6.0
     },
     {
-      "name": "建昌县",
+      "name": "大东区",
       "count": 128,
       "pct": 6.0
     },
@@ -438,12 +438,12 @@
     {
       "name": "宽甸县",
       "count": 125,
-      "pct": 5.9
+      "pct": 5.8
     },
     {
       "name": "普兰店区",
       "count": 125,
-      "pct": 5.9
+      "pct": 5.8
     },
     {
       "name": "金普新区",
@@ -451,17 +451,17 @@
       "pct": 5.7
     },
     {
+      "name": "瓦房店市",
+      "count": 115,
+      "pct": 5.4
+    },
+    {
       "name": "长兴岛",
-      "count": 114,
-      "pct": 5.3
+      "count": 115,
+      "pct": 5.4
     },
     {
       "name": "凤城市",
-      "count": 114,
-      "pct": 5.3
-    },
-    {
-      "name": "瓦房店市",
       "count": 114,
       "pct": 5.3
     },
