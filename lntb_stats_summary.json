@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-07-31 09:27:43",
+  "generatedAt": "2026-08-01 09:28:12",
   "overview": {
     "tenderTotal": 4161,
-    "bidderTotal": 4584,
-    "total": 8745,
+    "bidderTotal": 4612,
+    "total": 8773,
     "cityCount": 15,
     "totalInvestment": 30098.6,
-    "todayNew": 10,
+    "todayNew": 0,
     "tendersWithInvest": 4154,
-    "biddersWithPrice": 3895,
+    "biddersWithPrice": 3919,
     "investCoverage": 99.8,
     "priceCoverage": 85.0
   },
@@ -61,53 +61,53 @@
     {
       "month": "2026-07",
       "tenderCount": 495,
-      "bidderCount": 540
+      "bidderCount": 568
     }
   ],
   "sectorDist": [
     {
       "name": "其他工程",
-      "count": 1872,
+      "count": 1877,
       "pct": 21.4
     },
     {
       "name": "市政道路 & 园区基建",
-      "count": 1752,
+      "count": 1754,
       "pct": 20.0
     },
     {
       "name": "供排水及污水处理",
-      "count": 1649,
-      "pct": 18.9
+      "count": 1652,
+      "pct": 18.8
     },
     {
       "name": "城市更新 & 老旧改造",
-      "count": 1191,
+      "count": 1197,
       "pct": 13.6
     },
     {
       "name": "房屋建筑（房建）",
-      "count": 928,
+      "count": 929,
       "pct": 10.6
     },
     {
       "name": "生态环保 & 农林水利",
-      "count": 566,
+      "count": 570,
       "pct": 6.5
     },
     {
       "name": "电力 & 能源工程",
-      "count": 311,
+      "count": 313,
       "pct": 3.6
     },
     {
       "name": "供热工程",
-      "count": 171,
+      "count": 175,
       "pct": 2.0
     },
     {
       "name": "智能化 & 城市安全",
-      "count": 121,
+      "count": 122,
       "pct": 1.4
     },
     {
@@ -124,28 +124,28 @@
   "sixNetDist": [
     {
       "name": "非六张网",
-      "count": 3426,
-      "pct": 74.7
+      "count": 3440,
+      "pct": 74.6
     },
     {
       "name": "水网",
-      "count": 517,
-      "pct": 11.3
+      "count": 524,
+      "pct": 11.4
     },
     {
       "name": "城市地下管网",
-      "count": 502,
+      "count": 506,
       "pct": 11.0
     },
     {
       "name": "新型电网",
-      "count": 84,
-      "pct": 1.8
+      "count": 86,
+      "pct": 1.9
     },
     {
       "name": "物流网",
-      "count": 34,
-      "pct": 0.7
+      "count": 35,
+      "pct": 0.8
     },
     {
       "name": "算力网",
@@ -180,12 +180,12 @@
       "count": 19
     },
     {
-      "name": "辽宁紫光建筑工程有限公司",
+      "name": "辽宁中天建设（集团）有限公司",
       "count": 18
     },
     {
-      "name": "辽宁中天建设（集团）有限公司",
-      "count": 17
+      "name": "辽宁紫光建筑工程有限公司",
+      "count": 18
     },
     {
       "name": "沈阳市给排水勘察设计研究院有限公司",
@@ -202,6 +202,10 @@
     {
       "name": "辽宁辽河水利工程有限公司",
       "count": 16
+    },
+    {
+      "name": "辽宁方圆建设项目管理有限公司",
+      "count": 15
     },
     {
       "name": "辽宁恒旺建设工程有限公司",
@@ -234,31 +238,27 @@
     {
       "name": "沈阳市工程监理咨询有限公司",
       "count": 14
-    },
-    {
-      "name": "辽宁方圆建设项目管理有限公司",
-      "count": 14
     }
   ],
   "cityDist": [
     {
       "name": "沈阳",
-      "count": 2316,
-      "pct": 27.1
+      "count": 2320,
+      "pct": 27.0
     },
     {
       "name": "大连",
-      "count": 1150,
-      "pct": 13.4
+      "count": 1157,
+      "pct": 13.5
     },
     {
       "name": "未知",
-      "count": 747,
-      "pct": 8.7
+      "count": 752,
+      "pct": 8.8
     },
     {
       "name": "朝阳",
-      "count": 733,
+      "count": 737,
       "pct": 8.6
     },
     {
@@ -268,12 +268,12 @@
     },
     {
       "name": "丹东",
-      "count": 456,
+      "count": 457,
       "pct": 5.3
     },
     {
       "name": "葫芦岛",
-      "count": 448,
+      "count": 450,
       "pct": 5.2
     },
     {
@@ -288,7 +288,7 @@
     },
     {
       "name": "抚顺",
-      "count": 308,
+      "count": 309,
       "pct": 3.6
     },
     {
@@ -303,8 +303,8 @@
     },
     {
       "name": "辽阳",
-      "count": 224,
-      "pct": 2.6
+      "count": 228,
+      "pct": 2.7
     },
     {
       "name": "省级",
@@ -402,8 +402,8 @@
     },
     {
       "name": "于洪区",
-      "count": 180,
-      "pct": 8.3
+      "count": 182,
+      "pct": 8.4
     },
     {
       "name": "和平区",
@@ -441,13 +441,13 @@
       "pct": 5.8
     },
     {
-      "name": "普兰店区",
+      "name": "金普新区",
       "count": 125,
       "pct": 5.8
     },
     {
-      "name": "金普新区",
-      "count": 124,
+      "name": "普兰店区",
+      "count": 125,
       "pct": 5.8
     },
     {
@@ -457,18 +457,18 @@
     },
     {
       "name": "瓦房店市",
-      "count": 116,
+      "count": 117,
       "pct": 5.4
     },
     {
       "name": "凤城市",
-      "count": 114,
+      "count": 115,
       "pct": 5.3
     },
     {
       "name": "北票市",
-      "count": 111,
-      "pct": 5.1
+      "count": 115,
+      "pct": 5.3
     }
   ]
 }
