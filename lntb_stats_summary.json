@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-08-01 09:28:12",
+  "generatedAt": "2026-08-02 10:04:52",
   "overview": {
     "tenderTotal": 4161,
-    "bidderTotal": 4612,
-    "total": 8773,
+    "bidderTotal": 4615,
+    "total": 8776,
     "cityCount": 15,
     "totalInvestment": 30098.6,
     "todayNew": 0,
     "tendersWithInvest": 4154,
-    "biddersWithPrice": 3919,
+    "biddersWithPrice": 3925,
     "investCoverage": 99.8,
     "priceCoverage": 85.0
   },
@@ -61,7 +61,7 @@
     {
       "month": "2026-07",
       "tenderCount": 495,
-      "bidderCount": 568
+      "bidderCount": 571
     }
   ],
   "sectorDist": [
@@ -72,12 +72,12 @@
     },
     {
       "name": "市政道路 & 园区基建",
-      "count": 1754,
+      "count": 1755,
       "pct": 20.0
     },
     {
       "name": "供排水及污水处理",
-      "count": 1652,
+      "count": 1653,
       "pct": 18.8
     },
     {
@@ -87,7 +87,7 @@
     },
     {
       "name": "房屋建筑（房建）",
-      "count": 929,
+      "count": 930,
       "pct": 10.6
     },
     {
@@ -124,7 +124,7 @@
   "sixNetDist": [
     {
       "name": "非六张网",
-      "count": 3440,
+      "count": 3443,
       "pct": 74.6
     },
     {
@@ -243,12 +243,12 @@
   "cityDist": [
     {
       "name": "沈阳",
-      "count": 2320,
+      "count": 2321,
       "pct": 27.0
     },
     {
       "name": "大连",
-      "count": 1157,
+      "count": 1158,
       "pct": 13.5
     },
     {
@@ -283,7 +283,7 @@
     },
     {
       "name": "本溪",
-      "count": 317,
+      "count": 318,
       "pct": 3.7
     },
     {
