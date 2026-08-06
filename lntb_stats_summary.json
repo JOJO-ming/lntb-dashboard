@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-08-05 10:11:12",
+  "generatedAt": "2026-08-06 09:28:21",
   "overview": {
     "tenderTotal": 4231,
-    "bidderTotal": 4679,
-    "total": 8910,
+    "bidderTotal": 4707,
+    "total": 8938,
     "cityCount": 15,
     "totalInvestment": 31134.9,
     "todayNew": 0,
     "tendersWithInvest": 4224,
-    "biddersWithPrice": 3990,
+    "biddersWithPrice": 4018,
     "investCoverage": 99.8,
-    "priceCoverage": 85.3
+    "priceCoverage": 85.4
   },
   "monthlyTrend": [
     {
@@ -66,18 +66,18 @@
     {
       "month": "2026-08",
       "tenderCount": 35,
-      "bidderCount": 64
+      "bidderCount": 92
     }
   ],
   "sectorDist": [
     {
       "name": "其他工程",
-      "count": 1913,
+      "count": 1923,
       "pct": 21.5
     },
     {
       "name": "市政道路 & 园区基建",
-      "count": 1782,
+      "count": 1784,
       "pct": 20.0
     },
     {
@@ -87,22 +87,22 @@
     },
     {
       "name": "城市更新 & 老旧改造",
-      "count": 1202,
+      "count": 1205,
       "pct": 13.5
     },
     {
       "name": "房屋建筑（房建）",
-      "count": 946,
+      "count": 950,
       "pct": 10.6
     },
     {
       "name": "生态环保 & 农林水利",
-      "count": 589,
-      "pct": 6.6
+      "count": 596,
+      "pct": 6.7
     },
     {
       "name": "电力 & 能源工程",
-      "count": 313,
+      "count": 314,
       "pct": 3.5
     },
     {
@@ -112,7 +112,7 @@
     },
     {
       "name": "智能化 & 城市安全",
-      "count": 124,
+      "count": 125,
       "pct": 1.4
     },
     {
@@ -129,13 +129,13 @@
   "sixNetDist": [
     {
       "name": "非六张网",
-      "count": 3483,
+      "count": 3500,
       "pct": 74.4
     },
     {
       "name": "水网",
-      "count": 541,
-      "pct": 11.6
+      "count": 549,
+      "pct": 11.7
     },
     {
       "name": "城市地下管网",
@@ -144,7 +144,7 @@
     },
     {
       "name": "新型电网",
-      "count": 88,
+      "count": 91,
       "pct": 1.9
     },
     {
@@ -193,6 +193,10 @@
       "count": 18
     },
     {
+      "name": "辽宁方圆建设项目管理有限公司",
+      "count": 17
+    },
+    {
       "name": "沈阳东启公路工程有限公司",
       "count": 17
     },
@@ -210,10 +214,6 @@
     },
     {
       "name": "北京兴电国际工程管理有限公司",
-      "count": 15
-    },
-    {
-      "name": "辽宁方圆建设项目管理有限公司",
       "count": 15
     },
     {
@@ -248,47 +248,47 @@
   "cityDist": [
     {
       "name": "沈阳",
-      "count": 2347,
+      "count": 2355,
       "pct": 26.9
     },
     {
       "name": "大连",
-      "count": 1179,
+      "count": 1180,
       "pct": 13.5
     },
     {
       "name": "未知",
-      "count": 767,
+      "count": 771,
       "pct": 8.8
     },
     {
       "name": "朝阳",
-      "count": 743,
+      "count": 744,
       "pct": 8.5
     },
     {
       "name": "锦州",
-      "count": 551,
+      "count": 554,
       "pct": 6.3
     },
     {
       "name": "葫芦岛",
-      "count": 463,
+      "count": 466,
       "pct": 5.3
     },
     {
       "name": "丹东",
-      "count": 462,
+      "count": 465,
       "pct": 5.3
     },
     {
       "name": "铁岭",
       "count": 397,
-      "pct": 4.6
+      "pct": 4.5
     },
     {
       "name": "本溪",
-      "count": 319,
+      "count": 320,
       "pct": 3.7
     },
     {
@@ -298,18 +298,18 @@
     },
     {
       "name": "鞍山",
-      "count": 301,
+      "count": 303,
       "pct": 3.5
     },
     {
       "name": "阜新",
-      "count": 285,
+      "count": 286,
       "pct": 3.3
     },
     {
       "name": "辽阳",
       "count": 240,
-      "pct": 2.8
+      "pct": 2.7
     },
     {
       "name": "省级",
@@ -318,7 +318,7 @@
     },
     {
       "name": "盘锦",
-      "count": 157,
+      "count": 158,
       "pct": 1.8
     }
   ],
@@ -402,8 +402,8 @@
   "districtDist": [
     {
       "name": "铁西区",
-      "count": 262,
-      "pct": 12.0
+      "count": 265,
+      "pct": 12.1
     },
     {
       "name": "于洪区",
@@ -443,7 +443,7 @@
     {
       "name": "浑南区",
       "count": 128,
-      "pct": 5.9
+      "pct": 5.8
     },
     {
       "name": "宽甸县",
@@ -466,14 +466,14 @@
       "pct": 5.3
     },
     {
-      "name": "凤城市",
-      "count": 115,
+      "name": "北票市",
+      "count": 116,
       "pct": 5.3
     },
     {
-      "name": "北票市",
+      "name": "凤城市",
       "count": 115,
-      "pct": 5.3
+      "pct": 5.2
     }
   ]
 }
