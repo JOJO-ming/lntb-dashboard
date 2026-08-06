@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-08-06 15:12:26",
+  "generatedAt": "2026-08-06 16:31:08",
   "overview": {
     "tenderTotal": 4293,
-    "bidderTotal": 4718,
-    "total": 9011,
+    "bidderTotal": 4726,
+    "total": 9019,
     "cityCount": 15,
     "totalInvestment": 31441.1,
-    "todayNew": 26,
+    "todayNew": 34,
     "tendersWithInvest": 4286,
-    "biddersWithPrice": 4029,
+    "biddersWithPrice": 4037,
     "investCoverage": 99.8,
     "priceCoverage": 85.4
   },
@@ -66,19 +66,19 @@
     {
       "month": "2026-08",
       "tenderCount": 75,
-      "bidderCount": 103
+      "bidderCount": 111
     }
   ],
   "sectorDist": [
     {
       "name": "其他工程",
-      "count": 1935,
+      "count": 1937,
       "pct": 21.5
     },
     {
       "name": "市政道路 & 园区基建",
-      "count": 1814,
-      "pct": 20.1
+      "count": 1818,
+      "pct": 20.2
     },
     {
       "name": "供排水及污水处理",
@@ -97,8 +97,8 @@
     },
     {
       "name": "生态环保 & 农林水利",
-      "count": 599,
-      "pct": 6.6
+      "count": 600,
+      "pct": 6.7
     },
     {
       "name": "电力 & 能源工程",
@@ -112,7 +112,7 @@
     },
     {
       "name": "智能化 & 城市安全",
-      "count": 127,
+      "count": 128,
       "pct": 1.4
     },
     {
@@ -129,7 +129,7 @@
   "sixNetDist": [
     {
       "name": "非六张网",
-      "count": 3509,
+      "count": 3517,
       "pct": 74.4
     },
     {
@@ -193,6 +193,10 @@
       "count": 18
     },
     {
+      "name": "辽宁辽河水利工程有限公司",
+      "count": 17
+    },
+    {
       "name": "辽宁方圆建设项目管理有限公司",
       "count": 17
     },
@@ -207,10 +211,6 @@
     {
       "name": "辽宁润泽建设工程有限公司",
       "count": 17
-    },
-    {
-      "name": "辽宁辽河水利工程有限公司",
-      "count": 16
     },
     {
       "name": "北京兴电国际工程管理有限公司",
@@ -248,17 +248,17 @@
   "cityDist": [
     {
       "name": "沈阳",
-      "count": 2370,
-      "pct": 26.9
+      "count": 2371,
+      "pct": 26.8
     },
     {
       "name": "大连",
-      "count": 1191,
+      "count": 1192,
       "pct": 13.5
     },
     {
       "name": "未知",
-      "count": 779,
+      "count": 781,
       "pct": 8.8
     },
     {
@@ -293,8 +293,8 @@
     },
     {
       "name": "抚顺",
-      "count": 313,
-      "pct": 3.5
+      "count": 314,
+      "pct": 3.6
     },
     {
       "name": "鞍山",
@@ -313,12 +313,12 @@
     },
     {
       "name": "省级",
-      "count": 199,
+      "count": 201,
       "pct": 2.3
     },
     {
       "name": "盘锦",
-      "count": 158,
+      "count": 159,
       "pct": 1.8
     }
   ],
