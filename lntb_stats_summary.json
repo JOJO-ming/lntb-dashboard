@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-08-06 16:31:08",
+  "generatedAt": "2026-08-07 09:31:50",
   "overview": {
     "tenderTotal": 4293,
-    "bidderTotal": 4726,
-    "total": 9019,
+    "bidderTotal": 4729,
+    "total": 9022,
     "cityCount": 15,
     "totalInvestment": 31441.1,
-    "todayNew": 34,
+    "todayNew": 3,
     "tendersWithInvest": 4286,
-    "biddersWithPrice": 4037,
+    "biddersWithPrice": 4040,
     "investCoverage": 99.8,
     "priceCoverage": 85.4
   },
@@ -66,7 +66,7 @@
     {
       "month": "2026-08",
       "tenderCount": 75,
-      "bidderCount": 111
+      "bidderCount": 114
     }
   ],
   "sectorDist": [
@@ -92,12 +92,12 @@
     },
     {
       "name": "房屋建筑（房建）",
-      "count": 957,
+      "count": 958,
       "pct": 10.6
     },
     {
       "name": "生态环保 & 农林水利",
-      "count": 600,
+      "count": 602,
       "pct": 6.7
     },
     {
@@ -129,12 +129,12 @@
   "sixNetDist": [
     {
       "name": "非六张网",
-      "count": 3517,
+      "count": 3518,
       "pct": 74.4
     },
     {
       "name": "水网",
-      "count": 551,
+      "count": 553,
       "pct": 11.7
     },
     {
@@ -248,7 +248,7 @@
   "cityDist": [
     {
       "name": "沈阳",
-      "count": 2371,
+      "count": 2372,
       "pct": 26.8
     },
     {
@@ -273,7 +273,7 @@
     },
     {
       "name": "丹东",
-      "count": 470,
+      "count": 472,
       "pct": 5.3
     },
     {
