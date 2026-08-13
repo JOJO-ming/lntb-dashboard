@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-08-12 16:40:47",
+  "generatedAt": "2026-08-13 09:29:35",
   "overview": {
-    "tenderTotal": 4382,
-    "bidderTotal": 4849,
-    "total": 9231,
+    "tenderTotal": 4393,
+    "bidderTotal": 4850,
+    "total": 9243,
     "cityCount": 15,
-    "totalInvestment": 32166.0,
-    "todayNew": 25,
-    "tendersWithInvest": 4375,
-    "biddersWithPrice": 4160,
+    "totalInvestment": 32197.6,
+    "todayNew": 0,
+    "tendersWithInvest": 4386,
+    "biddersWithPrice": 4161,
     "investCoverage": 99.8,
     "priceCoverage": 85.8
   },
@@ -65,29 +65,29 @@
     },
     {
       "month": "2026-08",
-      "tenderCount": 164,
-      "bidderCount": 234
+      "tenderCount": 175,
+      "bidderCount": 235
     }
   ],
   "sectorDist": [
     {
       "name": "其他工程",
-      "count": 1985,
+      "count": 1988,
       "pct": 21.5
     },
     {
       "name": "市政道路 & 园区基建",
-      "count": 1854,
+      "count": 1859,
       "pct": 20.1
     },
     {
       "name": "供排水及污水处理",
-      "count": 1719,
+      "count": 1722,
       "pct": 18.6
     },
     {
       "name": "城市更新 & 老旧改造",
-      "count": 1211,
+      "count": 1212,
       "pct": 13.1
     },
     {
@@ -129,7 +129,7 @@
   "sixNetDist": [
     {
       "name": "非六张网",
-      "count": 3591,
+      "count": 3592,
       "pct": 74.1
     },
     {
@@ -248,32 +248,32 @@
   "cityDist": [
     {
       "name": "沈阳",
-      "count": 2415,
+      "count": 2417,
       "pct": 26.7
     },
     {
       "name": "大连",
-      "count": 1216,
+      "count": 1217,
       "pct": 13.5
     },
     {
       "name": "未知",
-      "count": 806,
+      "count": 808,
       "pct": 8.9
     },
     {
       "name": "朝阳",
-      "count": 764,
+      "count": 765,
       "pct": 8.5
     },
     {
       "name": "锦州",
-      "count": 570,
+      "count": 571,
       "pct": 6.3
     },
     {
       "name": "丹东",
-      "count": 487,
+      "count": 488,
       "pct": 5.4
     },
     {
@@ -283,7 +283,7 @@
     },
     {
       "name": "铁岭",
-      "count": 406,
+      "count": 409,
       "pct": 4.5
     },
     {
@@ -293,7 +293,7 @@
     },
     {
       "name": "抚顺",
-      "count": 319,
+      "count": 320,
       "pct": 3.5
     },
     {
@@ -325,12 +325,12 @@
   "typeDist": [
     {
       "name": "施工",
-      "count": 2135,
-      "pct": 49.0
+      "count": 2143,
+      "pct": 49.1
     },
     {
       "name": "监理",
-      "count": 669,
+      "count": 671,
       "pct": 15.4
     },
     {
@@ -350,13 +350,13 @@
     },
     {
       "name": "其他",
-      "count": 174,
+      "count": 175,
       "pct": 4.0
     },
     {
       "name": "检验检测",
       "count": 133,
-      "pct": 3.1
+      "pct": 3.0
     },
     {
       "name": "勘察",
@@ -403,7 +403,7 @@
     {
       "name": "铁西区",
       "count": 266,
-      "pct": 12.0
+      "pct": 11.9
     },
     {
       "name": "于洪区",
@@ -423,12 +423,17 @@
     {
       "name": "皇姑区",
       "count": 157,
-      "pct": 7.1
+      "pct": 7.0
     },
     {
       "name": "浑南区",
-      "count": 133,
+      "count": 134,
       "pct": 6.0
+    },
+    {
+      "name": "金普新区",
+      "count": 132,
+      "pct": 5.9
     },
     {
       "name": "大东区",
@@ -438,11 +443,6 @@
     {
       "name": "建昌县",
       "count": 132,
-      "pct": 5.9
-    },
-    {
-      "name": "金普新区",
-      "count": 131,
       "pct": 5.9
     },
     {
@@ -461,12 +461,12 @@
       "pct": 5.6
     },
     {
-      "name": "瓦房店市",
-      "count": 119,
-      "pct": 5.3
+      "name": "凤城市",
+      "count": 120,
+      "pct": 5.4
     },
     {
-      "name": "凤城市",
+      "name": "瓦房店市",
       "count": 119,
       "pct": 5.3
     },
