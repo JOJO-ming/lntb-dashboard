@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-19 16:35:32",
+  "generatedAt": "2026-08-20 09:28:19",
   "overview": {
-    "tenderTotal": 4530,
+    "tenderTotal": 4538,
     "bidderTotal": 4995,
-    "total": 9525,
+    "total": 9533,
     "cityCount": 15,
-    "totalInvestment": 33094.8,
-    "todayNew": 19,
-    "tendersWithInvest": 4523,
+    "totalInvestment": 33437.1,
+    "todayNew": 0,
+    "tendersWithInvest": 4531,
     "biddersWithPrice": 4306,
     "investCoverage": 99.8,
     "priceCoverage": 86.2
@@ -65,19 +65,19 @@
     },
     {
       "month": "2026-08",
-      "tenderCount": 312,
+      "tenderCount": 320,
       "bidderCount": 380
     }
   ],
   "sectorDist": [
     {
       "name": "其他工程",
-      "count": 2034,
-      "pct": 21.4
+      "count": 2035,
+      "pct": 21.3
     },
     {
       "name": "市政道路 & 园区基建",
-      "count": 1912,
+      "count": 1913,
       "pct": 20.1
     },
     {
@@ -87,12 +87,12 @@
     },
     {
       "name": "城市更新 & 老旧改造",
-      "count": 1230,
+      "count": 1234,
       "pct": 12.9
     },
     {
       "name": "房屋建筑（房建）",
-      "count": 1029,
+      "count": 1030,
       "pct": 10.8
     },
     {
@@ -102,7 +102,7 @@
     },
     {
       "name": "电力 & 能源工程",
-      "count": 331,
+      "count": 332,
       "pct": 3.5
     },
     {
@@ -248,7 +248,7 @@
   "cityDist": [
     {
       "name": "沈阳",
-      "count": 2477,
+      "count": 2478,
       "pct": 26.6
     },
     {
@@ -258,7 +258,7 @@
     },
     {
       "name": "未知",
-      "count": 849,
+      "count": 851,
       "pct": 9.1
     },
     {
@@ -284,7 +284,7 @@
     {
       "name": "铁岭",
       "count": 415,
-      "pct": 4.5
+      "pct": 4.4
     },
     {
       "name": "本溪",
@@ -293,7 +293,7 @@
     },
     {
       "name": "抚顺",
-      "count": 326,
+      "count": 330,
       "pct": 3.5
     },
     {
@@ -317,20 +317,20 @@
       "pct": 2.2
     },
     {
-      "name": "营口",
-      "count": 166,
+      "name": "盘锦",
+      "count": 167,
       "pct": 1.8
     }
   ],
   "typeDist": [
     {
       "name": "施工",
-      "count": 2212,
+      "count": 2216,
       "pct": 49.1
     },
     {
       "name": "监理",
-      "count": 693,
+      "count": 697,
       "pct": 15.4
     },
     {
