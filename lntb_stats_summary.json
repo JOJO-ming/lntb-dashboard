@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-08-21 09:30:19",
+  "generatedAt": "2026-08-21 16:38:44",
   "overview": {
-    "tenderTotal": 4566,
-    "bidderTotal": 5003,
-    "total": 9569,
+    "tenderTotal": 4572,
+    "bidderTotal": 5012,
+    "total": 9584,
     "cityCount": 15,
-    "totalInvestment": 33533.1,
-    "todayNew": 5,
-    "tendersWithInvest": 4559,
-    "biddersWithPrice": 4314,
+    "totalInvestment": 33550.5,
+    "todayNew": 20,
+    "tendersWithInvest": 4565,
+    "biddersWithPrice": 4321,
     "investCoverage": 99.8,
     "priceCoverage": 86.2
   },
@@ -65,24 +65,24 @@
     },
     {
       "month": "2026-08",
-      "tenderCount": 348,
-      "bidderCount": 388
+      "tenderCount": 354,
+      "bidderCount": 397
     }
   ],
   "sectorDist": [
     {
       "name": "其他工程",
-      "count": 2038,
+      "count": 2043,
       "pct": 21.3
     },
     {
       "name": "市政道路 & 园区基建",
-      "count": 1925,
+      "count": 1926,
       "pct": 20.1
     },
     {
       "name": "供排水及污水处理",
-      "count": 1773,
+      "count": 1774,
       "pct": 18.5
     },
     {
@@ -92,8 +92,8 @@
     },
     {
       "name": "房屋建筑（房建）",
-      "count": 1036,
-      "pct": 10.8
+      "count": 1040,
+      "pct": 10.9
     },
     {
       "name": "生态环保 & 农林水利",
@@ -107,7 +107,7 @@
     },
     {
       "name": "供热工程",
-      "count": 198,
+      "count": 200,
       "pct": 2.1
     },
     {
@@ -122,14 +122,14 @@
     },
     {
       "name": "文旅 & 公服配套",
-      "count": 76,
+      "count": 78,
       "pct": 0.8
     }
   ],
   "sixNetDist": [
     {
       "name": "非六张网",
-      "count": 3666,
+      "count": 3674,
       "pct": 73.3
     },
     {
@@ -149,8 +149,8 @@
     },
     {
       "name": "物流网",
-      "count": 37,
-      "pct": 0.7
+      "count": 38,
+      "pct": 0.8
     },
     {
       "name": "算力网",
@@ -166,7 +166,7 @@
   "winnerRanking": [
     {
       "name": "大连泛华建设咨询管理有限公司",
-      "count": 43
+      "count": 44
     },
     {
       "name": "辽宁城建设计院有限公司",
@@ -248,32 +248,32 @@
   "cityDist": [
     {
       "name": "沈阳",
-      "count": 2486,
+      "count": 2487,
       "pct": 26.5
     },
     {
       "name": "大连",
-      "count": 1241,
+      "count": 1245,
       "pct": 13.3
     },
     {
       "name": "未知",
-      "count": 852,
+      "count": 853,
       "pct": 9.1
     },
     {
       "name": "朝阳",
       "count": 782,
-      "pct": 8.4
+      "pct": 8.3
     },
     {
       "name": "锦州",
-      "count": 595,
+      "count": 598,
       "pct": 6.4
     },
     {
       "name": "丹东",
-      "count": 521,
+      "count": 522,
       "pct": 5.6
     },
     {
@@ -283,7 +283,7 @@
     },
     {
       "name": "铁岭",
-      "count": 415,
+      "count": 416,
       "pct": 4.4
     },
     {
@@ -293,12 +293,12 @@
     },
     {
       "name": "抚顺",
-      "count": 332,
-      "pct": 3.5
+      "count": 334,
+      "pct": 3.6
     },
     {
       "name": "鞍山",
-      "count": 317,
+      "count": 318,
       "pct": 3.4
     },
     {
@@ -318,7 +318,7 @@
     },
     {
       "name": "营口",
-      "count": 168,
+      "count": 169,
       "pct": 1.8
     }
   ],
@@ -326,21 +326,21 @@
     {
       "name": "施工",
       "count": 2230,
-      "pct": 49.1
+      "pct": 49.0
     },
     {
       "name": "监理",
-      "count": 704,
+      "count": 707,
       "pct": 15.5
     },
     {
       "name": "设计",
-      "count": 376,
+      "count": 377,
       "pct": 8.3
     },
     {
       "name": "工程总承包（EPC）",
-      "count": 321,
+      "count": 322,
       "pct": 7.1
     },
     {
@@ -350,7 +350,7 @@
     },
     {
       "name": "其他",
-      "count": 181,
+      "count": 182,
       "pct": 4.0
     },
     {
@@ -452,7 +452,7 @@
     },
     {
       "name": "长兴岛",
-      "count": 127,
+      "count": 128,
       "pct": 5.6
     },
     {
