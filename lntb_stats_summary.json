@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-08-20 16:34:29",
+  "generatedAt": "2026-08-21 09:30:19",
   "overview": {
-    "tenderTotal": 4558,
-    "bidderTotal": 4998,
-    "total": 9556,
+    "tenderTotal": 4566,
+    "bidderTotal": 5003,
+    "total": 9569,
     "cityCount": 15,
-    "totalInvestment": 33503.8,
-    "todayNew": 23,
-    "tendersWithInvest": 4551,
-    "biddersWithPrice": 4309,
+    "totalInvestment": 33533.1,
+    "todayNew": 5,
+    "tendersWithInvest": 4559,
+    "biddersWithPrice": 4314,
     "investCoverage": 99.8,
     "priceCoverage": 86.2
   },
@@ -65,24 +65,24 @@
     },
     {
       "month": "2026-08",
-      "tenderCount": 340,
-      "bidderCount": 383
+      "tenderCount": 348,
+      "bidderCount": 388
     }
   ],
   "sectorDist": [
     {
       "name": "其他工程",
-      "count": 2037,
+      "count": 2038,
       "pct": 21.3
     },
     {
       "name": "市政道路 & 园区基建",
-      "count": 1922,
+      "count": 1925,
       "pct": 20.1
     },
     {
       "name": "供排水及污水处理",
-      "count": 1772,
+      "count": 1773,
       "pct": 18.5
     },
     {
@@ -92,13 +92,13 @@
     },
     {
       "name": "房屋建筑（房建）",
-      "count": 1034,
+      "count": 1036,
       "pct": 10.8
     },
     {
       "name": "生态环保 & 农林水利",
-      "count": 682,
-      "pct": 7.1
+      "count": 688,
+      "pct": 7.2
     },
     {
       "name": "电力 & 能源工程",
@@ -129,8 +129,8 @@
   "sixNetDist": [
     {
       "name": "非六张网",
-      "count": 3661,
-      "pct": 73.2
+      "count": 3666,
+      "pct": 73.3
     },
     {
       "name": "水网",
@@ -209,12 +209,12 @@
       "count": 18
     },
     {
-      "name": "辽宁辽河水利工程有限公司",
+      "name": "辽宁盛泰建设工程有限公司",
       "count": 17
     },
     {
-      "name": "辽宁盛泰建设工程有限公司",
-      "count": 16
+      "name": "辽宁辽河水利工程有限公司",
+      "count": 17
     },
     {
       "name": "大连市勘察测绘研究院集团有限公司",
@@ -248,8 +248,8 @@
   "cityDist": [
     {
       "name": "沈阳",
-      "count": 2485,
-      "pct": 26.6
+      "count": 2486,
+      "pct": 26.5
     },
     {
       "name": "大连",
@@ -258,27 +258,27 @@
     },
     {
       "name": "未知",
-      "count": 851,
+      "count": 852,
       "pct": 9.1
     },
     {
       "name": "朝阳",
-      "count": 781,
+      "count": 782,
       "pct": 8.4
     },
     {
       "name": "锦州",
-      "count": 592,
-      "pct": 6.3
+      "count": 595,
+      "pct": 6.4
     },
     {
       "name": "丹东",
-      "count": 520,
+      "count": 521,
       "pct": 5.6
     },
     {
       "name": "葫芦岛",
-      "count": 487,
+      "count": 489,
       "pct": 5.2
     },
     {
@@ -288,12 +288,12 @@
     },
     {
       "name": "本溪",
-      "count": 360,
-      "pct": 3.8
+      "count": 363,
+      "pct": 3.9
     },
     {
       "name": "抚顺",
-      "count": 331,
+      "count": 332,
       "pct": 3.5
     },
     {
@@ -325,12 +325,12 @@
   "typeDist": [
     {
       "name": "施工",
-      "count": 2228,
-      "pct": 49.2
+      "count": 2230,
+      "pct": 49.1
     },
     {
       "name": "监理",
-      "count": 701,
+      "count": 704,
       "pct": 15.5
     },
     {
@@ -345,13 +345,13 @@
     },
     {
       "name": "材料设备采购",
-      "count": 297,
+      "count": 298,
       "pct": 6.6
     },
     {
       "name": "其他",
-      "count": 179,
-      "pct": 3.9
+      "count": 181,
+      "pct": 4.0
     },
     {
       "name": "检验检测",
@@ -403,7 +403,7 @@
     {
       "name": "铁西区",
       "count": 276,
-      "pct": 12.2
+      "pct": 12.1
     },
     {
       "name": "于洪区",
@@ -431,14 +431,14 @@
       "pct": 6.2
     },
     {
-      "name": "大东区",
-      "count": 136,
+      "name": "建昌县",
+      "count": 137,
       "pct": 6.0
     },
     {
-      "name": "建昌县",
-      "count": 135,
-      "pct": 5.9
+      "name": "大东区",
+      "count": 136,
+      "pct": 6.0
     },
     {
       "name": "金普新区",
@@ -456,13 +456,13 @@
       "pct": 5.6
     },
     {
-      "name": "宽甸县",
+      "name": "凤城市",
       "count": 126,
-      "pct": 5.6
+      "pct": 5.5
     },
     {
-      "name": "凤城市",
-      "count": 125,
+      "name": "宽甸县",
+      "count": 126,
       "pct": 5.5
     },
     {
