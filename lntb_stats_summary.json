@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-22 17:34:37",
+  "generatedAt": "2026-08-23 17:19:35",
   "overview": {
-    "tenderTotal": 4590,
+    "tenderTotal": 4600,
     "bidderTotal": 5013,
-    "total": 9603,
+    "total": 9613,
     "cityCount": 15,
-    "totalInvestment": 33579.5,
+    "totalInvestment": 33589.8,
     "todayNew": 0,
-    "tendersWithInvest": 4583,
+    "tendersWithInvest": 4593,
     "biddersWithPrice": 4322,
     "investCoverage": 99.8,
     "priceCoverage": 86.2
@@ -65,14 +65,14 @@
     },
     {
       "month": "2026-08",
-      "tenderCount": 372,
+      "tenderCount": 382,
       "bidderCount": 398
     }
   ],
   "sectorDist": [
     {
       "name": "其他工程",
-      "count": 2051,
+      "count": 2056,
       "pct": 21.4
     },
     {
@@ -82,12 +82,12 @@
     },
     {
       "name": "供排水及污水处理",
-      "count": 1777,
+      "count": 1779,
       "pct": 18.5
     },
     {
       "name": "城市更新 & 老旧改造",
-      "count": 1239,
+      "count": 1240,
       "pct": 12.9
     },
     {
@@ -97,7 +97,7 @@
     },
     {
       "name": "生态环保 & 农林水利",
-      "count": 691,
+      "count": 693,
       "pct": 7.2
     },
     {
@@ -253,17 +253,17 @@
     },
     {
       "name": "大连",
-      "count": 1245,
+      "count": 1246,
       "pct": 13.2
     },
     {
       "name": "未知",
-      "count": 854,
+      "count": 855,
       "pct": 9.1
     },
     {
       "name": "朝阳",
-      "count": 782,
+      "count": 783,
       "pct": 8.3
     },
     {
@@ -274,7 +274,7 @@
     {
       "name": "丹东",
       "count": 522,
-      "pct": 5.6
+      "pct": 5.5
     },
     {
       "name": "葫芦岛",
@@ -293,7 +293,7 @@
     },
     {
       "name": "抚顺",
-      "count": 338,
+      "count": 342,
       "pct": 3.6
     },
     {
@@ -303,7 +303,7 @@
     },
     {
       "name": "阜新",
-      "count": 307,
+      "count": 310,
       "pct": 3.3
     },
     {
@@ -325,12 +325,12 @@
   "typeDist": [
     {
       "name": "施工",
-      "count": 2238,
-      "pct": 49.0
+      "count": 2245,
+      "pct": 49.1
     },
     {
       "name": "监理",
-      "count": 715,
+      "count": 718,
       "pct": 15.7
     },
     {
@@ -467,8 +467,8 @@
     },
     {
       "name": "北票市",
-      "count": 119,
-      "pct": 5.2
+      "count": 120,
+      "pct": 5.3
     },
     {
       "name": "瓦房店市",
