@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-08-24 19:16:40",
+  "generatedAt": "2026-08-25 09:44:03",
   "overview": {
     "tenderTotal": 4619,
-    "bidderTotal": 5023,
-    "total": 9642,
+    "bidderTotal": 5033,
+    "total": 9652,
     "cityCount": 15,
     "totalInvestment": 33604.1,
-    "todayNew": 29,
+    "todayNew": 8,
     "tendersWithInvest": 4612,
-    "biddersWithPrice": 4332,
+    "biddersWithPrice": 4342,
     "investCoverage": 99.8,
-    "priceCoverage": 86.2
+    "priceCoverage": 86.3
   },
   "monthlyTrend": [
     {
@@ -66,44 +66,44 @@
     {
       "month": "2026-08",
       "tenderCount": 401,
-      "bidderCount": 408
+      "bidderCount": 418
     }
   ],
   "sectorDist": [
     {
       "name": "其他工程",
-      "count": 2060,
+      "count": 2062,
       "pct": 21.4
     },
     {
       "name": "市政道路 & 园区基建",
-      "count": 1935,
+      "count": 1938,
       "pct": 20.1
     },
     {
       "name": "供排水及污水处理",
-      "count": 1786,
+      "count": 1787,
       "pct": 18.5
     },
     {
       "name": "城市更新 & 老旧改造",
       "count": 1240,
-      "pct": 12.9
+      "pct": 12.8
     },
     {
       "name": "房屋建筑（房建）",
-      "count": 1047,
+      "count": 1049,
       "pct": 10.9
     },
     {
       "name": "生态环保 & 农林水利",
-      "count": 696,
+      "count": 697,
       "pct": 7.2
     },
     {
       "name": "电力 & 能源工程",
-      "count": 332,
-      "pct": 3.4
+      "count": 333,
+      "pct": 3.5
     },
     {
       "name": "供热工程",
@@ -129,23 +129,23 @@
   "sixNetDist": [
     {
       "name": "非六张网",
-      "count": 3681,
+      "count": 3688,
       "pct": 73.3
     },
     {
       "name": "水网",
-      "count": 638,
+      "count": 640,
       "pct": 12.7
     },
     {
       "name": "城市地下管网",
-      "count": 546,
+      "count": 547,
       "pct": 10.9
     },
     {
       "name": "新型电网",
       "count": 98,
-      "pct": 2.0
+      "pct": 1.9
     },
     {
       "name": "物流网",
@@ -253,7 +253,7 @@
     },
     {
       "name": "大连",
-      "count": 1251,
+      "count": 1252,
       "pct": 13.3
     },
     {
@@ -268,22 +268,22 @@
     },
     {
       "name": "锦州",
-      "count": 601,
+      "count": 603,
       "pct": 6.4
     },
     {
       "name": "丹东",
-      "count": 523,
+      "count": 524,
       "pct": 5.5
     },
     {
       "name": "葫芦岛",
-      "count": 492,
+      "count": 494,
       "pct": 5.2
     },
     {
       "name": "铁岭",
-      "count": 416,
+      "count": 418,
       "pct": 4.4
     },
     {
@@ -308,12 +308,12 @@
     },
     {
       "name": "辽阳",
-      "count": 299,
+      "count": 300,
       "pct": 3.2
     },
     {
       "name": "省级",
-      "count": 206,
+      "count": 207,
       "pct": 2.2
     },
     {
@@ -432,8 +432,8 @@
     },
     {
       "name": "建昌县",
-      "count": 138,
-      "pct": 6.0
+      "count": 139,
+      "pct": 6.1
     },
     {
       "name": "大东区",
@@ -456,12 +456,12 @@
       "pct": 5.6
     },
     {
-      "name": "凤城市",
-      "count": 126,
-      "pct": 5.5
+      "name": "宽甸县",
+      "count": 127,
+      "pct": 5.6
     },
     {
-      "name": "宽甸县",
+      "name": "凤城市",
       "count": 126,
       "pct": 5.5
     },
