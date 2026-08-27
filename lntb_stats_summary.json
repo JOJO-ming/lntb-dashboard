@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-08-26 09:44:54",
+  "generatedAt": "2026-08-27 09:23:33",
   "overview": {
-    "tenderTotal": 4683,
-    "bidderTotal": 5076,
-    "total": 9759,
+    "tenderTotal": 4717,
+    "bidderTotal": 5084,
+    "total": 9801,
     "cityCount": 15,
-    "totalInvestment": 34387.3,
+    "totalInvestment": 34452.4,
     "todayNew": 1,
-    "tendersWithInvest": 4676,
-    "biddersWithPrice": 4385,
+    "tendersWithInvest": 4710,
+    "biddersWithPrice": 4393,
     "investCoverage": 99.9,
     "priceCoverage": 86.4
   },
@@ -65,55 +65,55 @@
     },
     {
       "month": "2026-08",
-      "tenderCount": 465,
-      "bidderCount": 461
+      "tenderCount": 499,
+      "bidderCount": 469
     }
   ],
   "sectorDist": [
     {
       "name": "其他工程",
-      "count": 2088,
-      "pct": 21.4
+      "count": 2090,
+      "pct": 21.3
     },
     {
       "name": "市政道路 & 园区基建",
-      "count": 1953,
+      "count": 1958,
       "pct": 20.0
     },
     {
       "name": "供排水及污水处理",
-      "count": 1795,
+      "count": 1803,
       "pct": 18.4
     },
     {
       "name": "城市更新 & 老旧改造",
-      "count": 1249,
+      "count": 1250,
       "pct": 12.8
     },
     {
       "name": "房屋建筑（房建）",
-      "count": 1064,
+      "count": 1072,
       "pct": 10.9
     },
     {
       "name": "生态环保 & 农林水利",
-      "count": 721,
-      "pct": 7.4
+      "count": 738,
+      "pct": 7.5
     },
     {
       "name": "电力 & 能源工程",
       "count": 338,
-      "pct": 3.5
+      "pct": 3.4
     },
     {
       "name": "供热工程",
-      "count": 203,
+      "count": 204,
       "pct": 2.1
     },
     {
       "name": "智能化 & 城市安全",
       "count": 142,
-      "pct": 1.5
+      "pct": 1.4
     },
     {
       "name": "燃气工程",
@@ -129,23 +129,23 @@
   "sixNetDist": [
     {
       "name": "非六张网",
-      "count": 3726,
+      "count": 3730,
       "pct": 73.4
     },
     {
       "name": "水网",
-      "count": 643,
+      "count": 645,
       "pct": 12.7
     },
     {
       "name": "城市地下管网",
-      "count": 548,
+      "count": 550,
       "pct": 10.8
     },
     {
       "name": "新型电网",
       "count": 99,
-      "pct": 2.0
+      "pct": 1.9
     },
     {
       "name": "物流网",
@@ -166,7 +166,7 @@
   "winnerRanking": [
     {
       "name": "大连泛华建设咨询管理有限公司",
-      "count": 44
+      "count": 45
     },
     {
       "name": "辽宁城建设计院有限公司",
@@ -248,27 +248,27 @@
   "cityDist": [
     {
       "name": "沈阳",
-      "count": 2527,
-      "pct": 26.5
+      "count": 2531,
+      "pct": 26.4
     },
     {
       "name": "大连",
-      "count": 1260,
+      "count": 1264,
       "pct": 13.2
     },
     {
       "name": "未知",
-      "count": 866,
-      "pct": 9.1
+      "count": 867,
+      "pct": 9.0
     },
     {
       "name": "朝阳",
-      "count": 793,
+      "count": 796,
       "pct": 8.3
     },
     {
       "name": "锦州",
-      "count": 617,
+      "count": 621,
       "pct": 6.5
     },
     {
@@ -278,32 +278,32 @@
     },
     {
       "name": "葫芦岛",
-      "count": 502,
-      "pct": 5.3
+      "count": 503,
+      "pct": 5.2
     },
     {
       "name": "铁岭",
-      "count": 419,
+      "count": 421,
       "pct": 4.4
     },
     {
       "name": "本溪",
-      "count": 368,
-      "pct": 3.9
+      "count": 369,
+      "pct": 3.8
     },
     {
       "name": "抚顺",
-      "count": 344,
+      "count": 345,
       "pct": 3.6
     },
     {
-      "name": "鞍山",
-      "count": 320,
+      "name": "阜新",
+      "count": 325,
       "pct": 3.4
     },
     {
-      "name": "阜新",
-      "count": 319,
+      "name": "鞍山",
+      "count": 321,
       "pct": 3.3
     },
     {
@@ -318,35 +318,35 @@
     },
     {
       "name": "盘锦",
-      "count": 180,
-      "pct": 1.9
+      "count": 193,
+      "pct": 2.0
     }
   ],
   "typeDist": [
     {
       "name": "施工",
-      "count": 2279,
-      "pct": 48.9
+      "count": 2297,
+      "pct": 49.0
     },
     {
       "name": "监理",
-      "count": 731,
+      "count": 737,
       "pct": 15.7
     },
     {
       "name": "设计",
-      "count": 380,
-      "pct": 8.2
+      "count": 382,
+      "pct": 8.1
     },
     {
       "name": "工程总承包（EPC）",
-      "count": 331,
+      "count": 332,
       "pct": 7.1
     },
     {
       "name": "材料设备采购",
-      "count": 309,
-      "pct": 6.6
+      "count": 314,
+      "pct": 6.7
     },
     {
       "name": "其他",
@@ -355,7 +355,7 @@
     },
     {
       "name": "检验检测",
-      "count": 141,
+      "count": 142,
       "pct": 3.0
     },
     {
@@ -366,7 +366,7 @@
     {
       "name": "造价咨询",
       "count": 68,
-      "pct": 1.5
+      "pct": 1.4
     },
     {
       "name": "项目管理 （含代建）",
@@ -375,13 +375,13 @@
     },
     {
       "name": "项目管理(含代建)",
-      "count": 26,
+      "count": 27,
       "pct": 0.6
     },
     {
       "name": "设计施工总承包(EPC)",
       "count": 21,
-      "pct": 0.5
+      "pct": 0.4
     },
     {
       "name": "项目管理 （含代建） ",
@@ -403,7 +403,7 @@
     {
       "name": "铁西区",
       "count": 277,
-      "pct": 12.1
+      "pct": 12.0
     },
     {
       "name": "于洪区",
@@ -452,8 +452,8 @@
     },
     {
       "name": "长兴岛",
-      "count": 128,
-      "pct": 5.6
+      "count": 130,
+      "pct": 5.7
     },
     {
       "name": "宽甸县",
