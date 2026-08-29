@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-28 17:10:25",
+  "generatedAt": "2026-08-29 09:54:16",
   "overview": {
     "tenderTotal": 4813,
     "bidderTotal": 5102,
     "total": 9915,
     "cityCount": 15,
     "totalInvestment": 34729.8,
-    "todayNew": 50,
+    "todayNew": 0,
     "tendersWithInvest": 4806,
     "biddersWithPrice": 4411,
     "investCoverage": 99.9,
