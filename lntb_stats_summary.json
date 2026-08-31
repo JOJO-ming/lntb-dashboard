@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-08-30 16:52:54",
+  "generatedAt": "2026-08-31 09:53:24",
   "overview": {
     "tenderTotal": 4813,
-    "bidderTotal": 5102,
-    "total": 9915,
+    "bidderTotal": 5104,
+    "total": 9917,
     "cityCount": 15,
     "totalInvestment": 34729.8,
-    "todayNew": 0,
+    "todayNew": 2,
     "tendersWithInvest": 4806,
-    "biddersWithPrice": 4411,
+    "biddersWithPrice": 4413,
     "investCoverage": 99.9,
     "priceCoverage": 86.5
   },
@@ -66,18 +66,18 @@
     {
       "month": "2026-08",
       "tenderCount": 595,
-      "bidderCount": 487
+      "bidderCount": 489
     }
   ],
   "sectorDist": [
     {
       "name": "其他工程",
-      "count": 2116,
+      "count": 2117,
       "pct": 21.3
     },
     {
       "name": "市政道路 & 园区基建",
-      "count": 1973,
+      "count": 1974,
       "pct": 19.9
     },
     {
@@ -129,7 +129,7 @@
   "sixNetDist": [
     {
       "name": "非六张网",
-      "count": 3745,
+      "count": 3747,
       "pct": 73.4
     },
     {
@@ -263,12 +263,12 @@
     },
     {
       "name": "朝阳",
-      "count": 802,
+      "count": 803,
       "pct": 8.3
     },
     {
       "name": "锦州",
-      "count": 633,
+      "count": 634,
       "pct": 6.5
     },
     {
