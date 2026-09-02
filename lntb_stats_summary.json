@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-02 09:56:57",
+  "generatedAt": "2026-09-02 10:08:11",
   "overview": {
     "tenderTotal": 4865,
-    "bidderTotal": 5151,
-    "total": 10016,
+    "bidderTotal": 5162,
+    "total": 10027,
     "cityCount": 15,
     "totalInvestment": 35083.6,
-    "todayNew": 0,
+    "todayNew": 1,
     "tendersWithInvest": 4858,
-    "biddersWithPrice": 4460,
+    "biddersWithPrice": 4471,
     "investCoverage": 99.9,
     "priceCoverage": 86.6
   },
@@ -71,19 +71,19 @@
     {
       "month": "2026-09",
       "tenderCount": 24,
-      "bidderCount": 37
+      "bidderCount": 48
     }
   ],
   "sectorDist": [
     {
       "name": "其他工程",
-      "count": 2147,
+      "count": 2150,
       "pct": 21.4
     },
     {
       "name": "市政道路 & 园区基建",
-      "count": 1996,
-      "pct": 19.9
+      "count": 2001,
+      "pct": 20.0
     },
     {
       "name": "供排水及污水处理",
@@ -92,13 +92,13 @@
     },
     {
       "name": "城市更新 & 老旧改造",
-      "count": 1265,
+      "count": 1267,
       "pct": 12.6
     },
     {
       "name": "房屋建筑（房建）",
       "count": 1087,
-      "pct": 10.9
+      "pct": 10.8
     },
     {
       "name": "生态环保 & 农林水利",
@@ -112,7 +112,7 @@
     },
     {
       "name": "供热工程",
-      "count": 209,
+      "count": 210,
       "pct": 2.1
     },
     {
@@ -134,13 +134,13 @@
   "sixNetDist": [
     {
       "name": "非六张网",
-      "count": 3788,
-      "pct": 73.5
+      "count": 3799,
+      "pct": 73.6
     },
     {
       "name": "水网",
       "count": 647,
-      "pct": 12.6
+      "pct": 12.5
     },
     {
       "name": "城市地下管网",
@@ -183,7 +183,7 @@
     },
     {
       "name": "沈阳市市政工程设计研究院有限公司",
-      "count": 19
+      "count": 20
     },
     {
       "name": "沈阳中天水利工程有限公司",
@@ -253,7 +253,7 @@
   "cityDist": [
     {
       "name": "沈阳",
-      "count": 2559,
+      "count": 2563,
       "pct": 26.1
     },
     {
@@ -278,12 +278,12 @@
     },
     {
       "name": "丹东",
-      "count": 531,
+      "count": 532,
       "pct": 5.4
     },
     {
       "name": "葫芦岛",
-      "count": 519,
+      "count": 520,
       "pct": 5.3
     },
     {
@@ -313,13 +313,13 @@
     },
     {
       "name": "辽阳",
-      "count": 304,
+      "count": 308,
       "pct": 3.1
     },
     {
       "name": "省级",
-      "count": 220,
-      "pct": 2.2
+      "count": 221,
+      "pct": 2.3
     },
     {
       "name": "盘锦",
@@ -407,7 +407,7 @@
   "districtDist": [
     {
       "name": "铁西区",
-      "count": 278,
+      "count": 279,
       "pct": 12.0
     },
     {
@@ -428,7 +428,7 @@
     {
       "name": "皇姑区",
       "count": 161,
-      "pct": 7.0
+      "pct": 6.9
     },
     {
       "name": "浑南区",
