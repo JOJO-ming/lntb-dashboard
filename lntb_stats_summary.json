@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-04 09:41:08",
+  "generatedAt": "2026-09-04 09:51:53",
   "overview": {
-    "tenderTotal": 4916,
-    "bidderTotal": 5166,
-    "total": 10082,
+    "tenderTotal": 4918,
+    "bidderTotal": 5167,
+    "total": 10085,
     "cityCount": 15,
-    "totalInvestment": 35761.4,
-    "todayNew": 0,
-    "tendersWithInvest": 4909,
-    "biddersWithPrice": 4475,
+    "totalInvestment": 35761.8,
+    "todayNew": 1,
+    "tendersWithInvest": 4911,
+    "biddersWithPrice": 4476,
     "investCoverage": 99.9,
     "priceCoverage": 86.6
   },
@@ -70,19 +70,19 @@
     },
     {
       "month": "2026-09",
-      "tenderCount": 75,
-      "bidderCount": 52
+      "tenderCount": 77,
+      "bidderCount": 53
     }
   ],
   "sectorDist": [
     {
       "name": "其他工程",
-      "count": 2161,
+      "count": 2162,
       "pct": 21.4
     },
     {
       "name": "市政道路 & 园区基建",
-      "count": 2005,
+      "count": 2007,
       "pct": 19.9
     },
     {
@@ -134,7 +134,7 @@
   "sixNetDist": [
     {
       "name": "非六张网",
-      "count": 3801,
+      "count": 3802,
       "pct": 73.6
     },
     {
@@ -253,7 +253,7 @@
   "cityDist": [
     {
       "name": "沈阳",
-      "count": 2571,
+      "count": 2572,
       "pct": 26.1
     },
     {
@@ -268,7 +268,7 @@
     },
     {
       "name": "朝阳",
-      "count": 816,
+      "count": 817,
       "pct": 8.3
     },
     {
@@ -293,7 +293,7 @@
     },
     {
       "name": "本溪",
-      "count": 376,
+      "count": 377,
       "pct": 3.8
     },
     {
@@ -330,7 +330,7 @@
   "typeDist": [
     {
       "name": "施工",
-      "count": 2396,
+      "count": 2397,
       "pct": 49.0
     },
     {
@@ -356,11 +356,11 @@
     {
       "name": "其他",
       "count": 198,
-      "pct": 4.1
+      "pct": 4.0
     },
     {
       "name": "检验检测",
-      "count": 148,
+      "count": 149,
       "pct": 3.0
     },
     {
