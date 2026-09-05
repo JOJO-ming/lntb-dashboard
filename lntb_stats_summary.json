@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05 12:20:35",
+  "generatedAt": "2026-09-05 13:41:15",
   "overview": {
     "tenderTotal": 4956,
     "bidderTotal": 5176,
@@ -8,7 +8,7 @@
     "totalInvestment": 35855.6,
     "todayNew": 0,
     "tendersWithInvest": 4949,
-    "biddersWithPrice": 4484,
+    "biddersWithPrice": 4485,
     "investCoverage": 99.9,
     "priceCoverage": 86.6
   },
