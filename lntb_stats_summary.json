@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-05 13:41:15",
+  "generatedAt": "2026-09-06 10:25:12",
   "overview": {
-    "tenderTotal": 4956,
+    "tenderTotal": 4957,
     "bidderTotal": 5176,
-    "total": 10132,
+    "total": 10133,
     "cityCount": 15,
-    "totalInvestment": 35855.6,
+    "totalInvestment": 35860.5,
     "todayNew": 0,
-    "tendersWithInvest": 4949,
+    "tendersWithInvest": 4950,
     "biddersWithPrice": 4485,
     "investCoverage": 99.9,
     "priceCoverage": 86.6
@@ -70,7 +70,7 @@
     },
     {
       "month": "2026-09",
-      "tenderCount": 115,
+      "tenderCount": 116,
       "bidderCount": 62
     }
   ],
@@ -97,7 +97,7 @@
     },
     {
       "name": "房屋建筑（房建）",
-      "count": 1098,
+      "count": 1099,
       "pct": 10.8
     },
     {
@@ -253,7 +253,7 @@
   "cityDist": [
     {
       "name": "沈阳",
-      "count": 2582,
+      "count": 2583,
       "pct": 26.0
     },
     {
@@ -330,8 +330,8 @@
   "typeDist": [
     {
       "name": "施工",
-      "count": 2417,
-      "pct": 49.0
+      "count": 2418,
+      "pct": 49.1
     },
     {
       "name": "监理",
