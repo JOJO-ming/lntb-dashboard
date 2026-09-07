@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-07 09:42:53",
+  "generatedAt": "2026-09-07 13:40:52",
   "overview": {
-    "tenderTotal": 4957,
-    "bidderTotal": 5179,
-    "total": 10136,
+    "tenderTotal": 4970,
+    "bidderTotal": 5185,
+    "total": 10155,
     "cityCount": 15,
-    "totalInvestment": 35860.5,
-    "todayNew": 3,
-    "tendersWithInvest": 4950,
-    "biddersWithPrice": 4488,
+    "totalInvestment": 35880.5,
+    "todayNew": 22,
+    "tendersWithInvest": 4963,
+    "biddersWithPrice": 4494,
     "investCoverage": 99.9,
     "priceCoverage": 86.7
   },
@@ -70,39 +70,39 @@
     },
     {
       "month": "2026-09",
-      "tenderCount": 116,
-      "bidderCount": 65
+      "tenderCount": 129,
+      "bidderCount": 71
     }
   ],
   "sectorDist": [
     {
       "name": "其他工程",
-      "count": 2172,
+      "count": 2174,
       "pct": 21.4
     },
     {
       "name": "市政道路 & 园区基建",
-      "count": 2016,
+      "count": 2019,
       "pct": 19.9
     },
     {
       "name": "供排水及污水处理",
       "count": 1852,
-      "pct": 18.3
+      "pct": 18.2
     },
     {
       "name": "城市更新 & 老旧改造",
-      "count": 1269,
+      "count": 1271,
       "pct": 12.5
     },
     {
       "name": "房屋建筑（房建）",
-      "count": 1099,
-      "pct": 10.8
+      "count": 1103,
+      "pct": 10.9
     },
     {
       "name": "生态环保 & 农林水利",
-      "count": 806,
+      "count": 812,
       "pct": 8.0
     },
     {
@@ -112,12 +112,12 @@
     },
     {
       "name": "供热工程",
-      "count": 211,
+      "count": 212,
       "pct": 2.1
     },
     {
       "name": "智能化 & 城市安全",
-      "count": 146,
+      "count": 147,
       "pct": 1.4
     },
     {
@@ -134,7 +134,7 @@
   "sixNetDist": [
     {
       "name": "非六张网",
-      "count": 3812,
+      "count": 3816,
       "pct": 73.6
     },
     {
@@ -144,7 +144,7 @@
     },
     {
       "name": "城市地下管网",
-      "count": 557,
+      "count": 558,
       "pct": 10.8
     },
     {
@@ -154,7 +154,7 @@
     },
     {
       "name": "物流网",
-      "count": 39,
+      "count": 40,
       "pct": 0.8
     },
     {
@@ -253,32 +253,32 @@
   "cityDist": [
     {
       "name": "沈阳",
-      "count": 2583,
+      "count": 2584,
       "pct": 26.0
     },
     {
       "name": "大连",
-      "count": 1285,
-      "pct": 13.0
+      "count": 1287,
+      "pct": 12.9
     },
     {
       "name": "未知",
-      "count": 907,
+      "count": 909,
       "pct": 9.1
     },
     {
       "name": "朝阳",
-      "count": 818,
-      "pct": 8.2
+      "count": 821,
+      "pct": 8.3
     },
     {
       "name": "锦州",
       "count": 650,
-      "pct": 6.6
+      "pct": 6.5
     },
     {
       "name": "葫芦岛",
-      "count": 534,
+      "count": 541,
       "pct": 5.4
     },
     {
@@ -298,12 +298,12 @@
     },
     {
       "name": "抚顺",
-      "count": 351,
+      "count": 352,
       "pct": 3.5
     },
     {
       "name": "阜新",
-      "count": 346,
+      "count": 347,
       "pct": 3.5
     },
     {
@@ -313,7 +313,7 @@
     },
     {
       "name": "辽阳",
-      "count": 313,
+      "count": 315,
       "pct": 3.2
     },
     {
@@ -330,17 +330,17 @@
   "typeDist": [
     {
       "name": "施工",
-      "count": 2418,
+      "count": 2426,
       "pct": 49.1
     },
     {
       "name": "监理",
-      "count": 778,
+      "count": 782,
       "pct": 15.8
     },
     {
       "name": "设计",
-      "count": 388,
+      "count": 389,
       "pct": 7.9
     },
     {
@@ -356,7 +356,7 @@
     {
       "name": "其他",
       "count": 200,
-      "pct": 4.1
+      "pct": 4.0
     },
     {
       "name": "检验检测",
@@ -417,12 +417,12 @@
     },
     {
       "name": "和平区",
-      "count": 175,
+      "count": 176,
       "pct": 7.5
     },
     {
       "name": "朝阳县",
-      "count": 174,
+      "count": 175,
       "pct": 7.5
     },
     {
@@ -443,7 +443,7 @@
     {
       "name": "大东区",
       "count": 141,
-      "pct": 6.1
+      "pct": 6.0
     },
     {
       "name": "普兰店区",
@@ -468,12 +468,12 @@
     {
       "name": "凤城市",
       "count": 127,
-      "pct": 5.5
+      "pct": 5.4
     },
     {
       "name": "北票市",
-      "count": 123,
-      "pct": 5.3
+      "count": 125,
+      "pct": 5.4
     },
     {
       "name": "瓦房店市",
