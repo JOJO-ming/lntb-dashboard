@@ -1,7 +1,7 @@
 {
   "tenderLatestDate": "2026-09-04",
-  "staleDays": 2,
+  "staleDays": 3,
   "alert": true,
   "thresholdDays": 2,
-  "checkedAt": "2026-09-06"
+  "checkedAt": "2026-09-07"
 }

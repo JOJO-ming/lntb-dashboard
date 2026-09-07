@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-09-06 17:21:51",
+  "generatedAt": "2026-09-07 09:42:53",
   "overview": {
     "tenderTotal": 4957,
-    "bidderTotal": 5176,
-    "total": 10133,
+    "bidderTotal": 5179,
+    "total": 10136,
     "cityCount": 15,
     "totalInvestment": 35860.5,
-    "todayNew": 0,
+    "todayNew": 3,
     "tendersWithInvest": 4950,
-    "biddersWithPrice": 4485,
+    "biddersWithPrice": 4488,
     "investCoverage": 99.9,
-    "priceCoverage": 86.6
+    "priceCoverage": 86.7
   },
   "monthlyTrend": [
     {
@@ -71,7 +71,7 @@
     {
       "month": "2026-09",
       "tenderCount": 116,
-      "bidderCount": 62
+      "bidderCount": 65
     }
   ],
   "sectorDist": [
@@ -82,12 +82,12 @@
     },
     {
       "name": "市政道路 & 园区基建",
-      "count": 2014,
+      "count": 2016,
       "pct": 19.9
     },
     {
       "name": "供排水及污水处理",
-      "count": 1851,
+      "count": 1852,
       "pct": 18.3
     },
     {
@@ -134,7 +134,7 @@
   "sixNetDist": [
     {
       "name": "非六张网",
-      "count": 3810,
+      "count": 3812,
       "pct": 73.6
     },
     {
@@ -154,8 +154,8 @@
     },
     {
       "name": "物流网",
-      "count": 38,
-      "pct": 0.7
+      "count": 39,
+      "pct": 0.8
     },
     {
       "name": "算力网",
@@ -263,7 +263,7 @@
     },
     {
       "name": "未知",
-      "count": 906,
+      "count": 907,
       "pct": 9.1
     },
     {
@@ -278,12 +278,12 @@
     },
     {
       "name": "葫芦岛",
-      "count": 533,
+      "count": 534,
       "pct": 5.4
     },
     {
       "name": "丹东",
-      "count": 533,
+      "count": 534,
       "pct": 5.4
     },
     {
