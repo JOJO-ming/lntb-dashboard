@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-08 16:44:26",
+  "generatedAt": "2026-09-09 09:44:41",
   "overview": {
-    "tenderTotal": 5021,
+    "tenderTotal": 5036,
     "bidderTotal": 5257,
-    "total": 10278,
+    "total": 10293,
     "cityCount": 15,
-    "totalInvestment": 36122.0,
-    "todayNew": 95,
-    "tendersWithInvest": 5014,
+    "totalInvestment": 36245.9,
+    "todayNew": 0,
+    "tendersWithInvest": 5029,
     "biddersWithPrice": 4566,
     "investCoverage": 99.9,
     "priceCoverage": 86.9
@@ -70,39 +70,39 @@
     },
     {
       "month": "2026-09",
-      "tenderCount": 180,
+      "tenderCount": 195,
       "bidderCount": 143
     }
   ],
   "sectorDist": [
     {
       "name": "其他工程",
-      "count": 2206,
+      "count": 2210,
       "pct": 21.5
     },
     {
       "name": "市政道路 & 园区基建",
-      "count": 2046,
+      "count": 2051,
       "pct": 19.9
     },
     {
       "name": "供排水及污水处理",
-      "count": 1873,
+      "count": 1876,
       "pct": 18.2
     },
     {
       "name": "城市更新 & 老旧改造",
-      "count": 1278,
+      "count": 1279,
       "pct": 12.4
     },
     {
       "name": "房屋建筑（房建）",
       "count": 1116,
-      "pct": 10.9
+      "pct": 10.8
     },
     {
       "name": "生态环保 & 农林水利",
-      "count": 823,
+      "count": 824,
       "pct": 8.0
     },
     {
@@ -127,7 +127,7 @@
     },
     {
       "name": "文旅 & 公服配套",
-      "count": 88,
+      "count": 89,
       "pct": 0.9
     }
   ],
@@ -253,27 +253,27 @@
   "cityDist": [
     {
       "name": "沈阳",
-      "count": 2605,
+      "count": 2608,
       "pct": 25.9
     },
     {
       "name": "大连",
-      "count": 1294,
+      "count": 1296,
       "pct": 12.9
     },
     {
       "name": "未知",
-      "count": 921,
+      "count": 926,
       "pct": 9.2
     },
     {
       "name": "朝阳",
-      "count": 838,
+      "count": 839,
       "pct": 8.3
     },
     {
       "name": "锦州",
-      "count": 659,
+      "count": 660,
       "pct": 6.5
     },
     {
@@ -284,16 +284,16 @@
     {
       "name": "丹东",
       "count": 539,
-      "pct": 5.4
+      "pct": 5.3
     },
     {
       "name": "铁岭",
-      "count": 469,
+      "count": 470,
       "pct": 4.7
     },
     {
       "name": "本溪",
-      "count": 390,
+      "count": 391,
       "pct": 3.9
     },
     {
@@ -330,12 +330,12 @@
   "typeDist": [
     {
       "name": "施工",
-      "count": 2457,
+      "count": 2462,
       "pct": 49.2
     },
     {
       "name": "监理",
-      "count": 787,
+      "count": 791,
       "pct": 15.8
     },
     {
@@ -345,12 +345,12 @@
     },
     {
       "name": "工程总承包（EPC）",
-      "count": 344,
+      "count": 346,
       "pct": 6.9
     },
     {
       "name": "材料设备采购",
-      "count": 339,
+      "count": 341,
       "pct": 6.8
     },
     {
@@ -360,7 +360,7 @@
     },
     {
       "name": "检验检测",
-      "count": 151,
+      "count": 152,
       "pct": 3.0
     },
     {
@@ -399,7 +399,7 @@
       "pct": 0.3
     },
     {
-      "name": "工程总承包(EPC)",
+      "name": "项目管理",
       "count": 12,
       "pct": 0.2
     }
@@ -417,8 +417,8 @@
     },
     {
       "name": "朝阳县",
-      "count": 179,
-      "pct": 7.6
+      "count": 180,
+      "pct": 7.7
     },
     {
       "name": "和平区",
