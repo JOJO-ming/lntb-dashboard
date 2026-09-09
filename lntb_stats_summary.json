@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-09 09:44:41",
+  "generatedAt": "2026-09-09 13:36:38",
   "overview": {
     "tenderTotal": 5036,
-    "bidderTotal": 5257,
-    "total": 10293,
+    "bidderTotal": 5262,
+    "total": 10298,
     "cityCount": 15,
     "totalInvestment": 36245.9,
-    "todayNew": 0,
+    "todayNew": 5,
     "tendersWithInvest": 5029,
-    "biddersWithPrice": 4566,
+    "biddersWithPrice": 4571,
     "investCoverage": 99.9,
     "priceCoverage": 86.9
   },
@@ -71,18 +71,18 @@
     {
       "month": "2026-09",
       "tenderCount": 195,
-      "bidderCount": 143
+      "bidderCount": 148
     }
   ],
   "sectorDist": [
     {
       "name": "其他工程",
-      "count": 2210,
+      "count": 2212,
       "pct": 21.5
     },
     {
       "name": "市政道路 & 园区基建",
-      "count": 2051,
+      "count": 2052,
       "pct": 19.9
     },
     {
@@ -97,7 +97,7 @@
     },
     {
       "name": "房屋建筑（房建）",
-      "count": 1116,
+      "count": 1117,
       "pct": 10.8
     },
     {
@@ -112,7 +112,7 @@
     },
     {
       "name": "供热工程",
-      "count": 216,
+      "count": 217,
       "pct": 2.1
     },
     {
@@ -134,7 +134,7 @@
   "sixNetDist": [
     {
       "name": "非六张网",
-      "count": 3875,
+      "count": 3878,
       "pct": 73.7
     },
     {
@@ -144,7 +144,7 @@
     },
     {
       "name": "城市地下管网",
-      "count": 564,
+      "count": 565,
       "pct": 10.7
     },
     {
@@ -154,7 +154,7 @@
     },
     {
       "name": "物流网",
-      "count": 41,
+      "count": 42,
       "pct": 0.8
     },
     {
@@ -253,12 +253,12 @@
   "cityDist": [
     {
       "name": "沈阳",
-      "count": 2608,
+      "count": 2610,
       "pct": 25.9
     },
     {
       "name": "大连",
-      "count": 1296,
+      "count": 1299,
       "pct": 12.9
     },
     {
@@ -432,7 +432,7 @@
     },
     {
       "name": "浑南区",
-      "count": 148,
+      "count": 149,
       "pct": 6.3
     },
     {
@@ -446,14 +446,14 @@
       "pct": 6.0
     },
     {
-      "name": "普兰店区",
+      "name": "长兴岛",
       "count": 136,
       "pct": 5.8
     },
     {
-      "name": "长兴岛",
-      "count": 135,
-      "pct": 5.7
+      "name": "普兰店区",
+      "count": 136,
+      "pct": 5.8
     },
     {
       "name": "金普新区",
