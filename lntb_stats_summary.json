@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-11 16:42:47",
+  "generatedAt": "2026-09-12 10:39:20",
   "overview": {
-    "tenderTotal": 5111,
-    "bidderTotal": 5288,
-    "total": 10399,
+    "tenderTotal": 5112,
+    "bidderTotal": 5289,
+    "total": 10401,
     "cityCount": 15,
-    "totalInvestment": 36412.7,
-    "todayNew": 39,
-    "tendersWithInvest": 5104,
-    "biddersWithPrice": 4597,
+    "totalInvestment": 36413.0,
+    "todayNew": 0,
+    "tendersWithInvest": 5105,
+    "biddersWithPrice": 4598,
     "investCoverage": 99.9,
     "priceCoverage": 86.9
   },
@@ -70,8 +70,8 @@
     },
     {
       "month": "2026-09",
-      "tenderCount": 270,
-      "bidderCount": 174
+      "tenderCount": 271,
+      "bidderCount": 175
     }
   ],
   "sectorDist": [
@@ -83,11 +83,11 @@
     {
       "name": "市政道路 & 园区基建",
       "count": 2054,
-      "pct": 19.8
+      "pct": 19.7
     },
     {
       "name": "供排水及污水处理",
-      "count": 1895,
+      "count": 1896,
       "pct": 18.2
     },
     {
@@ -102,7 +102,7 @@
     },
     {
       "name": "生态环保 & 农林水利",
-      "count": 853,
+      "count": 854,
       "pct": 8.2
     },
     {
@@ -144,8 +144,8 @@
     },
     {
       "name": "城市地下管网",
-      "count": 568,
-      "pct": 10.7
+      "count": 569,
+      "pct": 10.8
     },
     {
       "name": "新型电网",
@@ -258,12 +258,12 @@
     },
     {
       "name": "大连",
-      "count": 1312,
+      "count": 1313,
       "pct": 12.9
     },
     {
       "name": "未知",
-      "count": 937,
+      "count": 938,
       "pct": 9.2
     },
     {
@@ -330,7 +330,7 @@
   "typeDist": [
     {
       "name": "施工",
-      "count": 2500,
+      "count": 2501,
       "pct": 49.2
     },
     {
@@ -477,7 +477,7 @@
     },
     {
       "name": "瓦房店市",
-      "count": 125,
+      "count": 126,
       "pct": 5.3
     }
   ]
