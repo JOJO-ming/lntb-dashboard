@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-13 17:45:47",
+  "generatedAt": "2026-09-14 09:44:15",
   "overview": {
     "tenderTotal": 5112,
-    "bidderTotal": 5289,
-    "total": 10401,
+    "bidderTotal": 5292,
+    "total": 10404,
     "cityCount": 15,
     "totalInvestment": 36413.0,
-    "todayNew": 0,
+    "todayNew": 3,
     "tendersWithInvest": 5105,
-    "biddersWithPrice": 4598,
+    "biddersWithPrice": 4601,
     "investCoverage": 99.9,
     "priceCoverage": 86.9
   },
@@ -71,7 +71,7 @@
     {
       "month": "2026-09",
       "tenderCount": 271,
-      "bidderCount": 175
+      "bidderCount": 178
     }
   ],
   "sectorDist": [
@@ -82,8 +82,8 @@
     },
     {
       "name": "市政道路 & 园区基建",
-      "count": 2054,
-      "pct": 19.7
+      "count": 2057,
+      "pct": 19.8
     },
     {
       "name": "供排水及污水处理",
@@ -134,7 +134,7 @@
   "sixNetDist": [
     {
       "name": "非六张网",
-      "count": 3898,
+      "count": 3901,
       "pct": 73.7
     },
     {
@@ -268,7 +268,7 @@
     },
     {
       "name": "朝阳",
-      "count": 854,
+      "count": 855,
       "pct": 8.4
     },
     {
@@ -278,7 +278,7 @@
     },
     {
       "name": "葫芦岛",
-      "count": 553,
+      "count": 555,
       "pct": 5.4
     },
     {
@@ -431,14 +431,14 @@
       "pct": 6.9
     },
     {
-      "name": "浑南区",
+      "name": "建昌县",
       "count": 149,
       "pct": 6.3
     },
     {
-      "name": "建昌县",
-      "count": 148,
-      "pct": 6.2
+      "name": "浑南区",
+      "count": 149,
+      "pct": 6.3
     },
     {
       "name": "大东区",
