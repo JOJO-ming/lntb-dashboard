@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-14 16:42:32",
+  "generatedAt": "2026-09-15 09:46:20",
   "overview": {
-    "tenderTotal": 5135,
-    "bidderTotal": 5315,
-    "total": 10450,
+    "tenderTotal": 5138,
+    "bidderTotal": 5335,
+    "total": 10473,
     "cityCount": 15,
-    "totalInvestment": 36602.5,
-    "todayNew": 49,
-    "tendersWithInvest": 5128,
-    "biddersWithPrice": 4624,
+    "totalInvestment": 36814.4,
+    "todayNew": 20,
+    "tendersWithInvest": 5131,
+    "biddersWithPrice": 4644,
     "investCoverage": 99.9,
     "priceCoverage": 87.0
   },
@@ -70,24 +70,24 @@
     },
     {
       "month": "2026-09",
-      "tenderCount": 294,
-      "bidderCount": 201
+      "tenderCount": 297,
+      "bidderCount": 221
     }
   ],
   "sectorDist": [
     {
       "name": "其他工程",
-      "count": 2251,
-      "pct": 21.5
+      "count": 2257,
+      "pct": 21.6
     },
     {
       "name": "市政道路 & 园区基建",
-      "count": 2065,
+      "count": 2072,
       "pct": 19.8
     },
     {
       "name": "供排水及污水处理",
-      "count": 1900,
+      "count": 1906,
       "pct": 18.2
     },
     {
@@ -97,17 +97,17 @@
     },
     {
       "name": "房屋建筑（房建）",
-      "count": 1132,
+      "count": 1133,
       "pct": 10.8
     },
     {
       "name": "生态环保 & 农林水利",
-      "count": 863,
-      "pct": 8.3
+      "count": 864,
+      "pct": 8.2
     },
     {
       "name": "电力 & 能源工程",
-      "count": 357,
+      "count": 359,
       "pct": 3.4
     },
     {
@@ -128,18 +128,18 @@
     {
       "name": "文旅 & 公服配套",
       "count": 89,
-      "pct": 0.9
+      "pct": 0.8
     }
   ],
   "sixNetDist": [
     {
       "name": "非六张网",
-      "count": 3919,
+      "count": 3933,
       "pct": 73.7
     },
     {
       "name": "水网",
-      "count": 657,
+      "count": 661,
       "pct": 12.4
     },
     {
@@ -149,7 +149,7 @@
     },
     {
       "name": "新型电网",
-      "count": 100,
+      "count": 102,
       "pct": 1.9
     },
     {
@@ -160,7 +160,7 @@
     {
       "name": "算力网",
       "count": 24,
-      "pct": 0.5
+      "pct": 0.4
     },
     {
       "name": "新一代通信网",
@@ -253,17 +253,17 @@
   "cityDist": [
     {
       "name": "沈阳",
-      "count": 2641,
+      "count": 2645,
       "pct": 25.8
     },
     {
       "name": "大连",
-      "count": 1314,
+      "count": 1317,
       "pct": 12.8
     },
     {
       "name": "未知",
-      "count": 940,
+      "count": 941,
       "pct": 9.2
     },
     {
@@ -273,12 +273,12 @@
     },
     {
       "name": "锦州",
-      "count": 663,
+      "count": 664,
       "pct": 6.5
     },
     {
       "name": "葫芦岛",
-      "count": 557,
+      "count": 558,
       "pct": 5.4
     },
     {
@@ -288,13 +288,13 @@
     },
     {
       "name": "铁岭",
-      "count": 491,
+      "count": 496,
       "pct": 4.8
     },
     {
       "name": "本溪",
-      "count": 398,
-      "pct": 3.9
+      "count": 406,
+      "pct": 4.0
     },
     {
       "name": "抚顺",
@@ -304,7 +304,7 @@
     {
       "name": "阜新",
       "count": 353,
-      "pct": 3.5
+      "pct": 3.4
     },
     {
       "name": "鞍山",
@@ -330,12 +330,12 @@
   "typeDist": [
     {
       "name": "施工",
-      "count": 2513,
+      "count": 2514,
       "pct": 49.2
     },
     {
       "name": "监理",
-      "count": 810,
+      "count": 811,
       "pct": 15.9
     },
     {
@@ -355,7 +355,7 @@
     },
     {
       "name": "其他",
-      "count": 208,
+      "count": 209,
       "pct": 4.1
     },
     {
@@ -428,7 +428,7 @@
     {
       "name": "皇姑区",
       "count": 166,
-      "pct": 7.0
+      "pct": 6.9
     },
     {
       "name": "建昌县",
@@ -442,22 +442,22 @@
     },
     {
       "name": "大东区",
-      "count": 141,
+      "count": 142,
       "pct": 5.9
     },
     {
       "name": "普兰店区",
+      "count": 138,
+      "pct": 5.8
+    },
+    {
+      "name": "长兴岛",
       "count": 137,
       "pct": 5.7
     },
     {
       "name": "金普新区",
       "count": 137,
-      "pct": 5.7
-    },
-    {
-      "name": "长兴岛",
-      "count": 136,
       "pct": 5.7
     },
     {
