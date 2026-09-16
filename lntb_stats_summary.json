@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-16 10:26:16",
+  "generatedAt": "2026-09-16 13:39:14",
   "overview": {
-    "tenderTotal": 5166,
-    "bidderTotal": 5392,
-    "total": 10558,
+    "tenderTotal": 5177,
+    "bidderTotal": 5398,
+    "total": 10575,
     "cityCount": 15,
-    "totalInvestment": 36936.7,
-    "todayNew": 1,
-    "tendersWithInvest": 5159,
-    "biddersWithPrice": 4701,
+    "totalInvestment": 36969.4,
+    "todayNew": 18,
+    "tendersWithInvest": 5170,
+    "biddersWithPrice": 4707,
     "investCoverage": 99.9,
     "priceCoverage": 87.2
   },
@@ -70,39 +70,39 @@
     },
     {
       "month": "2026-09",
-      "tenderCount": 325,
-      "bidderCount": 278
+      "tenderCount": 336,
+      "bidderCount": 284
     }
   ],
   "sectorDist": [
     {
       "name": "其他工程",
-      "count": 2277,
+      "count": 2280,
       "pct": 21.6
     },
     {
       "name": "市政道路 & 园区基建",
-      "count": 2085,
+      "count": 2088,
       "pct": 19.7
     },
     {
       "name": "供排水及污水处理",
-      "count": 1925,
+      "count": 1926,
       "pct": 18.2
     },
     {
       "name": "城市更新 & 老旧改造",
-      "count": 1292,
-      "pct": 12.2
+      "count": 1297,
+      "pct": 12.3
     },
     {
       "name": "房屋建筑（房建）",
-      "count": 1144,
+      "count": 1147,
       "pct": 10.8
     },
     {
       "name": "生态环保 & 农林水利",
-      "count": 868,
+      "count": 870,
       "pct": 8.2
     },
     {
@@ -134,7 +134,7 @@
   "sixNetDist": [
     {
       "name": "非六张网",
-      "count": 3980,
+      "count": 3986,
       "pct": 73.8
     },
     {
@@ -179,7 +179,7 @@
     },
     {
       "name": "中国建筑第八工程局有限公司",
-      "count": 22
+      "count": 23
     },
     {
       "name": "辽宁方圆建设项目管理有限公司",
@@ -253,22 +253,22 @@
   "cityDist": [
     {
       "name": "沈阳",
-      "count": 2666,
+      "count": 2674,
       "pct": 25.8
     },
     {
       "name": "大连",
-      "count": 1324,
+      "count": 1327,
       "pct": 12.8
     },
     {
       "name": "未知",
       "count": 957,
-      "pct": 9.3
+      "pct": 9.2
     },
     {
       "name": "朝阳",
-      "count": 865,
+      "count": 867,
       "pct": 8.4
     },
     {
@@ -293,12 +293,12 @@
     },
     {
       "name": "本溪",
-      "count": 409,
+      "count": 410,
       "pct": 4.0
     },
     {
       "name": "抚顺",
-      "count": 360,
+      "count": 361,
       "pct": 3.5
     },
     {
@@ -323,24 +323,24 @@
     },
     {
       "name": "盘锦",
-      "count": 220,
+      "count": 221,
       "pct": 2.1
     }
   ],
   "typeDist": [
     {
       "name": "施工",
-      "count": 2526,
+      "count": 2534,
       "pct": 49.2
     },
     {
       "name": "监理",
-      "count": 813,
+      "count": 814,
       "pct": 15.8
     },
     {
       "name": "设计",
-      "count": 401,
+      "count": 402,
       "pct": 7.8
     },
     {
@@ -350,7 +350,7 @@
     },
     {
       "name": "材料设备采购",
-      "count": 347,
+      "count": 348,
       "pct": 6.8
     },
     {
@@ -407,13 +407,13 @@
   "districtDist": [
     {
       "name": "铁西区",
-      "count": 282,
+      "count": 283,
       "pct": 11.8
     },
     {
       "name": "于洪区",
       "count": 208,
-      "pct": 8.7
+      "pct": 8.6
     },
     {
       "name": "朝阳县",
@@ -427,16 +427,16 @@
     },
     {
       "name": "皇姑区",
-      "count": 166,
-      "pct": 6.9
-    },
-    {
-      "name": "建昌县",
-      "count": 149,
-      "pct": 6.2
+      "count": 170,
+      "pct": 7.1
     },
     {
       "name": "浑南区",
+      "count": 150,
+      "pct": 6.2
+    },
+    {
+      "name": "建昌县",
       "count": 149,
       "pct": 6.2
     },
@@ -453,7 +453,7 @@
     {
       "name": "普兰店区",
       "count": 138,
-      "pct": 5.8
+      "pct": 5.7
     },
     {
       "name": "金普新区",
@@ -462,8 +462,8 @@
     },
     {
       "name": "北票市",
-      "count": 130,
-      "pct": 5.4
+      "count": 132,
+      "pct": 5.5
     },
     {
       "name": "凤城市",
@@ -478,7 +478,7 @@
     {
       "name": "瓦房店市",
       "count": 126,
-      "pct": 5.3
+      "pct": 5.2
     }
   ]
 }
