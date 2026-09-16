@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-16 10:02:03",
+  "generatedAt": "2026-09-16 10:13:45",
   "overview": {
     "tenderTotal": 5166,
-    "bidderTotal": 5389,
-    "total": 10555,
+    "bidderTotal": 5392,
+    "total": 10558,
     "cityCount": 15,
     "totalInvestment": 36936.7,
-    "todayNew": 0,
+    "todayNew": 1,
     "tendersWithInvest": 5159,
-    "biddersWithPrice": 4698,
+    "biddersWithPrice": 4701,
     "investCoverage": 99.9,
     "priceCoverage": 87.2
   },
@@ -71,7 +71,7 @@
     {
       "month": "2026-09",
       "tenderCount": 325,
-      "bidderCount": 275
+      "bidderCount": 278
     }
   ],
   "sectorDist": [
@@ -83,11 +83,11 @@
     {
       "name": "市政道路 & 园区基建",
       "count": 2085,
-      "pct": 19.8
+      "pct": 19.7
     },
     {
       "name": "供排水及污水处理",
-      "count": 1924,
+      "count": 1925,
       "pct": 18.2
     },
     {
@@ -107,7 +107,7 @@
     },
     {
       "name": "电力 & 能源工程",
-      "count": 361,
+      "count": 362,
       "pct": 3.4
     },
     {
@@ -117,7 +117,7 @@
     },
     {
       "name": "智能化 & 城市安全",
-      "count": 152,
+      "count": 153,
       "pct": 1.4
     },
     {
@@ -134,7 +134,7 @@
   "sixNetDist": [
     {
       "name": "非六张网",
-      "count": 3978,
+      "count": 3980,
       "pct": 73.8
     },
     {
@@ -159,7 +159,7 @@
     },
     {
       "name": "算力网",
-      "count": 26,
+      "count": 27,
       "pct": 0.5
     },
     {
@@ -253,7 +253,7 @@
   "cityDist": [
     {
       "name": "沈阳",
-      "count": 2663,
+      "count": 2666,
       "pct": 25.8
     },
     {
