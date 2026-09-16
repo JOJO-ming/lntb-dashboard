@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-15 16:47:59",
+  "generatedAt": "2026-09-16 09:46:41",
   "overview": {
-    "tenderTotal": 5158,
+    "tenderTotal": 5166,
     "bidderTotal": 5389,
-    "total": 10547,
+    "total": 10555,
     "cityCount": 15,
-    "totalInvestment": 36920.7,
-    "todayNew": 94,
-    "tendersWithInvest": 5151,
+    "totalInvestment": 36936.7,
+    "todayNew": 0,
+    "tendersWithInvest": 5159,
     "biddersWithPrice": 4698,
     "investCoverage": 99.9,
     "priceCoverage": 87.2
@@ -70,14 +70,14 @@
     },
     {
       "month": "2026-09",
-      "tenderCount": 317,
+      "tenderCount": 325,
       "bidderCount": 275
     }
   ],
   "sectorDist": [
     {
       "name": "其他工程",
-      "count": 2275,
+      "count": 2277,
       "pct": 21.6
     },
     {
@@ -87,7 +87,7 @@
     },
     {
       "name": "供排水及污水处理",
-      "count": 1922,
+      "count": 1924,
       "pct": 18.2
     },
     {
@@ -102,7 +102,7 @@
     },
     {
       "name": "生态环保 & 农林水利",
-      "count": 865,
+      "count": 868,
       "pct": 8.2
     },
     {
@@ -112,7 +112,7 @@
     },
     {
       "name": "供热工程",
-      "count": 229,
+      "count": 230,
       "pct": 2.2
     },
     {
@@ -253,7 +253,7 @@
   "cityDist": [
     {
       "name": "沈阳",
-      "count": 2662,
+      "count": 2663,
       "pct": 25.8
     },
     {
@@ -263,7 +263,7 @@
     },
     {
       "name": "未知",
-      "count": 956,
+      "count": 957,
       "pct": 9.3
     },
     {
@@ -274,7 +274,7 @@
     {
       "name": "锦州",
       "count": 666,
-      "pct": 6.5
+      "pct": 6.4
     },
     {
       "name": "葫芦岛",
@@ -288,12 +288,12 @@
     },
     {
       "name": "铁岭",
-      "count": 503,
+      "count": 506,
       "pct": 4.9
     },
     {
       "name": "本溪",
-      "count": 408,
+      "count": 409,
       "pct": 4.0
     },
     {
@@ -308,7 +308,7 @@
     },
     {
       "name": "辽阳",
-      "count": 338,
+      "count": 340,
       "pct": 3.3
     },
     {
@@ -330,17 +330,17 @@
   "typeDist": [
     {
       "name": "施工",
-      "count": 2523,
+      "count": 2526,
       "pct": 49.2
     },
     {
       "name": "监理",
       "count": 813,
-      "pct": 15.9
+      "pct": 15.8
     },
     {
       "name": "设计",
-      "count": 400,
+      "count": 401,
       "pct": 7.8
     },
     {
@@ -350,17 +350,17 @@
     },
     {
       "name": "材料设备采购",
-      "count": 346,
-      "pct": 6.7
+      "count": 347,
+      "pct": 6.8
     },
     {
       "name": "其他",
-      "count": 209,
+      "count": 210,
       "pct": 4.1
     },
     {
       "name": "检验检测",
-      "count": 157,
+      "count": 158,
       "pct": 3.1
     },
     {
@@ -380,7 +380,7 @@
     },
     {
       "name": "项目管理(含代建)",
-      "count": 35,
+      "count": 36,
       "pct": 0.7
     },
     {
