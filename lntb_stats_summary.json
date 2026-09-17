@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-17 10:25:27",
+  "generatedAt": "2026-09-17 10:37:25",
   "overview": {
     "tenderTotal": 5188,
-    "bidderTotal": 5398,
-    "total": 10586,
+    "bidderTotal": 5401,
+    "total": 10589,
     "cityCount": 15,
     "totalInvestment": 37073.6,
     "todayNew": 0,
     "tendersWithInvest": 5181,
-    "biddersWithPrice": 4707,
+    "biddersWithPrice": 4710,
     "investCoverage": 99.9,
     "priceCoverage": 87.2
   },
@@ -71,19 +71,19 @@
     {
       "month": "2026-09",
       "tenderCount": 347,
-      "bidderCount": 284
+      "bidderCount": 287
     }
   ],
   "sectorDist": [
     {
       "name": "其他工程",
-      "count": 2282,
+      "count": 2283,
       "pct": 21.6
     },
     {
       "name": "市政道路 & 园区基建",
       "count": 2091,
-      "pct": 19.8
+      "pct": 19.7
     },
     {
       "name": "供排水及污水处理",
@@ -92,7 +92,7 @@
     },
     {
       "name": "城市更新 & 老旧改造",
-      "count": 1297,
+      "count": 1298,
       "pct": 12.3
     },
     {
@@ -112,7 +112,7 @@
     },
     {
       "name": "供热工程",
-      "count": 231,
+      "count": 232,
       "pct": 2.2
     },
     {
@@ -134,8 +134,8 @@
   "sixNetDist": [
     {
       "name": "非六张网",
-      "count": 3986,
-      "pct": 73.8
+      "count": 3989,
+      "pct": 73.9
     },
     {
       "name": "水网",
@@ -263,8 +263,8 @@
     },
     {
       "name": "未知",
-      "count": 958,
-      "pct": 9.2
+      "count": 959,
+      "pct": 9.3
     },
     {
       "name": "朝阳",
@@ -278,7 +278,7 @@
     },
     {
       "name": "葫芦岛",
-      "count": 559,
+      "count": 560,
       "pct": 5.4
     },
     {
