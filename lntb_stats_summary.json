@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-17 10:37:25",
+  "generatedAt": "2026-09-17 13:37:06",
   "overview": {
-    "tenderTotal": 5188,
+    "tenderTotal": 5192,
     "bidderTotal": 5401,
-    "total": 10589,
+    "total": 10593,
     "cityCount": 15,
-    "totalInvestment": 37073.6,
-    "todayNew": 0,
-    "tendersWithInvest": 5181,
+    "totalInvestment": 37094.7,
+    "todayNew": 4,
+    "tendersWithInvest": 5185,
     "biddersWithPrice": 4710,
     "investCoverage": 99.9,
     "priceCoverage": 87.2
@@ -70,14 +70,14 @@
     },
     {
       "month": "2026-09",
-      "tenderCount": 347,
+      "tenderCount": 351,
       "bidderCount": 287
     }
   ],
   "sectorDist": [
     {
       "name": "其他工程",
-      "count": 2283,
+      "count": 2285,
       "pct": 21.6
     },
     {
@@ -87,7 +87,7 @@
     },
     {
       "name": "供排水及污水处理",
-      "count": 1928,
+      "count": 1929,
       "pct": 18.2
     },
     {
@@ -102,7 +102,7 @@
     },
     {
       "name": "生态环保 & 农林水利",
-      "count": 871,
+      "count": 872,
       "pct": 8.2
     },
     {
@@ -263,7 +263,7 @@
     },
     {
       "name": "未知",
-      "count": 959,
+      "count": 960,
       "pct": 9.3
     },
     {
@@ -293,7 +293,7 @@
     },
     {
       "name": "本溪",
-      "count": 411,
+      "count": 412,
       "pct": 4.0
     },
     {
@@ -313,8 +313,8 @@
     },
     {
       "name": "鞍山",
-      "count": 335,
-      "pct": 3.2
+      "count": 337,
+      "pct": 3.3
     },
     {
       "name": "省级",
@@ -335,12 +335,12 @@
     },
     {
       "name": "监理",
-      "count": 814,
+      "count": 816,
       "pct": 15.8
     },
     {
       "name": "设计",
-      "count": 403,
+      "count": 404,
       "pct": 7.8
     },
     {
@@ -355,7 +355,7 @@
     },
     {
       "name": "其他",
-      "count": 210,
+      "count": 211,
       "pct": 4.1
     },
     {
