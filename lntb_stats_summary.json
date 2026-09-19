@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-18 16:40:32",
+  "generatedAt": "2026-09-19 17:21:19",
   "overview": {
-    "tenderTotal": 5251,
+    "tenderTotal": 5254,
     "bidderTotal": 5431,
-    "total": 10682,
+    "total": 10685,
     "cityCount": 15,
-    "totalInvestment": 37822.0,
-    "todayNew": 61,
-    "tendersWithInvest": 5244,
+    "totalInvestment": 37835.1,
+    "todayNew": 0,
+    "tendersWithInvest": 5247,
     "biddersWithPrice": 4740,
     "investCoverage": 99.9,
     "priceCoverage": 87.3
@@ -70,19 +70,19 @@
     },
     {
       "month": "2026-09",
-      "tenderCount": 410,
+      "tenderCount": 413,
       "bidderCount": 317
     }
   ],
   "sectorDist": [
     {
       "name": "其他工程",
-      "count": 2312,
+      "count": 2313,
       "pct": 21.6
     },
     {
       "name": "市政道路 & 园区基建",
-      "count": 2100,
+      "count": 2102,
       "pct": 19.7
     },
     {
@@ -258,7 +258,7 @@
     },
     {
       "name": "大连",
-      "count": 1340,
+      "count": 1341,
       "pct": 12.8
     },
     {
@@ -268,7 +268,7 @@
     },
     {
       "name": "朝阳",
-      "count": 881,
+      "count": 882,
       "pct": 8.4
     },
     {
@@ -313,7 +313,7 @@
     },
     {
       "name": "鞍山",
-      "count": 338,
+      "count": 339,
       "pct": 3.2
     },
     {
@@ -330,12 +330,12 @@
   "typeDist": [
     {
       "name": "施工",
-      "count": 2572,
+      "count": 2573,
       "pct": 49.3
     },
     {
       "name": "监理",
-      "count": 823,
+      "count": 824,
       "pct": 15.8
     },
     {
@@ -345,8 +345,8 @@
     },
     {
       "name": "工程总承包（EPC）",
-      "count": 357,
-      "pct": 6.8
+      "count": 358,
+      "pct": 6.9
     },
     {
       "name": "材料设备采购",
@@ -417,8 +417,8 @@
     },
     {
       "name": "朝阳县",
-      "count": 200,
-      "pct": 8.2
+      "count": 201,
+      "pct": 8.3
     },
     {
       "name": "和平区",
