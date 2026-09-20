@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-19 17:21:19",
+  "generatedAt": "2026-09-20 09:42:09",
   "overview": {
     "tenderTotal": 5254,
-    "bidderTotal": 5431,
-    "total": 10685,
+    "bidderTotal": 5432,
+    "total": 10686,
     "cityCount": 15,
     "totalInvestment": 37835.1,
-    "todayNew": 0,
+    "todayNew": 1,
     "tendersWithInvest": 5247,
-    "biddersWithPrice": 4740,
+    "biddersWithPrice": 4741,
     "investCoverage": 99.9,
     "priceCoverage": 87.3
   },
@@ -71,7 +71,7 @@
     {
       "month": "2026-09",
       "tenderCount": 413,
-      "bidderCount": 317
+      "bidderCount": 318
     }
   ],
   "sectorDist": [
@@ -112,7 +112,7 @@
     },
     {
       "name": "供热工程",
-      "count": 233,
+      "count": 234,
       "pct": 2.2
     },
     {
@@ -135,7 +135,7 @@
     {
       "name": "非六张网",
       "count": 4011,
-      "pct": 73.9
+      "pct": 73.8
     },
     {
       "name": "水网",
@@ -144,8 +144,8 @@
     },
     {
       "name": "城市地下管网",
-      "count": 578,
-      "pct": 10.6
+      "count": 579,
+      "pct": 10.7
     },
     {
       "name": "新型电网",
@@ -283,7 +283,7 @@
     },
     {
       "name": "丹东",
-      "count": 544,
+      "count": 545,
       "pct": 5.2
     },
     {
