@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-03 16:19:33",
+  "generatedAt": "2026-10-03 17:25:40",
   "overview": {
-    "tenderTotal": 5565,
+    "tenderTotal": 5575,
     "bidderTotal": 5761,
-    "total": 11326,
+    "total": 11336,
     "cityCount": 15,
-    "totalInvestment": 39192.0,
+    "totalInvestment": 39227.8,
     "todayNew": 0,
-    "tendersWithInvest": 5558,
+    "tendersWithInvest": 5568,
     "biddersWithPrice": 5070,
     "investCoverage": 99.9,
     "priceCoverage": 88.0
@@ -70,14 +70,14 @@
     },
     {
       "month": "2026-09",
-      "tenderCount": 724,
+      "tenderCount": 734,
       "bidderCount": 647
     }
   ],
   "sectorDist": [
     {
       "name": "其他工程",
-      "count": 2448,
+      "count": 2450,
       "pct": 21.6
     },
     {
@@ -87,12 +87,12 @@
     },
     {
       "name": "供排水及污水处理",
-      "count": 2080,
+      "count": 2085,
       "pct": 18.4
     },
     {
       "name": "城市更新 & 老旧改造",
-      "count": 1340,
+      "count": 1343,
       "pct": 11.8
     },
     {
@@ -258,12 +258,12 @@
     },
     {
       "name": "大连",
-      "count": 1408,
+      "count": 1409,
       "pct": 12.7
     },
     {
       "name": "未知",
-      "count": 1041,
+      "count": 1042,
       "pct": 9.4
     },
     {
@@ -273,12 +273,12 @@
     },
     {
       "name": "锦州",
-      "count": 701,
+      "count": 702,
       "pct": 6.3
     },
     {
       "name": "葫芦岛",
-      "count": 595,
+      "count": 597,
       "pct": 5.4
     },
     {
@@ -308,7 +308,7 @@
     },
     {
       "name": "辽阳",
-      "count": 352,
+      "count": 355,
       "pct": 3.2
     },
     {
@@ -318,7 +318,7 @@
     },
     {
       "name": "盘锦",
-      "count": 264,
+      "count": 265,
       "pct": 2.4
     },
     {
@@ -330,8 +330,8 @@
   "typeDist": [
     {
       "name": "施工",
-      "count": 2722,
-      "pct": 49.2
+      "count": 2730,
+      "pct": 49.3
     },
     {
       "name": "监理",
@@ -340,8 +340,8 @@
     },
     {
       "name": "设计",
-      "count": 428,
-      "pct": 7.7
+      "count": 430,
+      "pct": 7.8
     },
     {
       "name": "材料设备采购",
@@ -366,7 +366,7 @@
     {
       "name": "勘察",
       "count": 108,
-      "pct": 2.0
+      "pct": 1.9
     },
     {
       "name": "造价咨询",
