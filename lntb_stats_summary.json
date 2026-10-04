@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-03 17:25:40",
+  "generatedAt": "2026-10-04 11:26:56",
   "overview": {
-    "tenderTotal": 5575,
+    "tenderTotal": 5579,
     "bidderTotal": 5761,
-    "total": 11336,
+    "total": 11340,
     "cityCount": 15,
-    "totalInvestment": 39227.8,
+    "totalInvestment": 39235.6,
     "todayNew": 0,
-    "tendersWithInvest": 5568,
+    "tendersWithInvest": 5572,
     "biddersWithPrice": 5070,
     "investCoverage": 99.9,
     "priceCoverage": 88.0
@@ -70,14 +70,14 @@
     },
     {
       "month": "2026-09",
-      "tenderCount": 734,
+      "tenderCount": 738,
       "bidderCount": 647
     }
   ],
   "sectorDist": [
     {
       "name": "其他工程",
-      "count": 2450,
+      "count": 2451,
       "pct": 21.6
     },
     {
@@ -97,12 +97,12 @@
     },
     {
       "name": "房屋建筑（房建）",
-      "count": 1217,
+      "count": 1218,
       "pct": 10.7
     },
     {
       "name": "生态环保 & 农林水利",
-      "count": 1023,
+      "count": 1025,
       "pct": 9.0
     },
     {
@@ -254,7 +254,7 @@
     {
       "name": "沈阳",
       "count": 2800,
-      "pct": 25.3
+      "pct": 25.2
     },
     {
       "name": "大连",
@@ -263,7 +263,7 @@
     },
     {
       "name": "未知",
-      "count": 1042,
+      "count": 1044,
       "pct": 9.4
     },
     {
@@ -278,7 +278,7 @@
     },
     {
       "name": "葫芦岛",
-      "count": 597,
+      "count": 598,
       "pct": 5.4
     },
     {
@@ -298,7 +298,7 @@
     },
     {
       "name": "阜新",
-      "count": 428,
+      "count": 429,
       "pct": 3.9
     },
     {
@@ -330,7 +330,7 @@
   "typeDist": [
     {
       "name": "施工",
-      "count": 2730,
+      "count": 2732,
       "pct": 49.3
     },
     {
@@ -380,7 +380,7 @@
     },
     {
       "name": "项目管理(含代建)",
-      "count": 40,
+      "count": 41,
       "pct": 0.7
     },
     {
