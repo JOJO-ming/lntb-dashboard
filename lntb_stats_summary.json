@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-07 17:03:10",
+  "generatedAt": "2026-10-08 13:38:02",
   "overview": {
-    "tenderTotal": 5579,
+    "tenderTotal": 5588,
     "bidderTotal": 5761,
-    "total": 11340,
+    "total": 11349,
     "cityCount": 15,
-    "totalInvestment": 39235.6,
-    "todayNew": 0,
-    "tendersWithInvest": 5572,
+    "totalInvestment": 39248.8,
+    "todayNew": 9,
+    "tendersWithInvest": 5581,
     "biddersWithPrice": 5070,
     "investCoverage": 99.9,
     "priceCoverage": 88.0
@@ -72,12 +72,17 @@
       "month": "2026-09",
       "tenderCount": 738,
       "bidderCount": 647
+    },
+    {
+      "month": "2026-10",
+      "tenderCount": 9,
+      "bidderCount": 0
     }
   ],
   "sectorDist": [
     {
       "name": "其他工程",
-      "count": 2451,
+      "count": 2452,
       "pct": 21.6
     },
     {
@@ -87,12 +92,12 @@
     },
     {
       "name": "供排水及污水处理",
-      "count": 2085,
+      "count": 2090,
       "pct": 18.4
     },
     {
       "name": "城市更新 & 老旧改造",
-      "count": 1343,
+      "count": 1344,
       "pct": 11.8
     },
     {
@@ -102,7 +107,7 @@
     },
     {
       "name": "生态环保 & 农林水利",
-      "count": 1025,
+      "count": 1027,
       "pct": 9.0
     },
     {
@@ -258,7 +263,7 @@
     },
     {
       "name": "大连",
-      "count": 1409,
+      "count": 1412,
       "pct": 12.7
     },
     {
@@ -268,12 +273,12 @@
     },
     {
       "name": "朝阳",
-      "count": 930,
+      "count": 932,
       "pct": 8.4
     },
     {
       "name": "锦州",
-      "count": 702,
+      "count": 703,
       "pct": 6.3
     },
     {
@@ -283,7 +288,7 @@
     },
     {
       "name": "铁岭",
-      "count": 567,
+      "count": 570,
       "pct": 5.1
     },
     {
@@ -330,27 +335,27 @@
   "typeDist": [
     {
       "name": "施工",
-      "count": 2732,
+      "count": 2736,
       "pct": 49.3
     },
     {
       "name": "监理",
       "count": 863,
-      "pct": 15.6
+      "pct": 15.5
     },
     {
       "name": "设计",
-      "count": 430,
+      "count": 432,
       "pct": 7.8
     },
     {
       "name": "材料设备采购",
-      "count": 392,
+      "count": 394,
       "pct": 7.1
     },
     {
       "name": "工程总承包（EPC）",
-      "count": 375,
+      "count": 376,
       "pct": 6.8
     },
     {
@@ -412,7 +417,7 @@
     },
     {
       "name": "朝阳县",
-      "count": 223,
+      "count": 224,
       "pct": 8.8
     },
     {
@@ -452,13 +457,13 @@
     },
     {
       "name": "长兴岛",
-      "count": 145,
+      "count": 146,
       "pct": 5.7
     },
     {
       "name": "金普新区",
-      "count": 143,
-      "pct": 5.6
+      "count": 144,
+      "pct": 5.7
     },
     {
       "name": "北票市",
@@ -473,10 +478,10 @@
     {
       "name": "瓦房店市",
       "count": 131,
-      "pct": 5.2
+      "pct": 5.1
     },
     {
-      "name": "凤城市",
+      "name": "昌图县",
       "count": 129,
       "pct": 5.1
     }
