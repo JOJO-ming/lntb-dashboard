@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-10-15 16:44:46",
+  "generatedAt": "2026-10-16 09:45:26",
   "overview": {
     "tenderTotal": 5723,
-    "bidderTotal": 5980,
-    "total": 11703,
+    "bidderTotal": 5986,
+    "total": 11709,
     "cityCount": 15,
     "totalInvestment": 39797.9,
-    "todayNew": 21,
+    "todayNew": 3,
     "tendersWithInvest": 5716,
-    "biddersWithPrice": 5289,
+    "biddersWithPrice": 5295,
     "investCoverage": 99.9,
-    "priceCoverage": 88.4
+    "priceCoverage": 88.5
   },
   "monthlyTrend": [
     {
@@ -76,23 +76,23 @@
     {
       "month": "2026-10",
       "tenderCount": 144,
-      "bidderCount": 219
+      "bidderCount": 225
     }
   ],
   "sectorDist": [
     {
       "name": "其他工程",
-      "count": 2534,
+      "count": 2535,
       "pct": 21.7
     },
     {
       "name": "市政道路 & 园区基建",
-      "count": 2236,
+      "count": 2237,
       "pct": 19.1
     },
     {
       "name": "供排水及污水处理",
-      "count": 2139,
+      "count": 2140,
       "pct": 18.3
     },
     {
@@ -102,7 +102,7 @@
     },
     {
       "name": "房屋建筑（房建）",
-      "count": 1261,
+      "count": 1264,
       "pct": 10.8
     },
     {
@@ -139,7 +139,7 @@
   "sixNetDist": [
     {
       "name": "非六张网",
-      "count": 4325,
+      "count": 4330,
       "pct": 72.3
     },
     {
@@ -149,7 +149,7 @@
     },
     {
       "name": "城市地下管网",
-      "count": 620,
+      "count": 621,
       "pct": 10.4
     },
     {
@@ -258,8 +258,8 @@
   "cityDist": [
     {
       "name": "沈阳",
-      "count": 2866,
-      "pct": 25.0
+      "count": 2868,
+      "pct": 25.1
     },
     {
       "name": "大连",
@@ -273,7 +273,7 @@
     },
     {
       "name": "朝阳",
-      "count": 970,
+      "count": 971,
       "pct": 8.5
     },
     {
@@ -293,7 +293,7 @@
     },
     {
       "name": "丹东",
-      "count": 564,
+      "count": 565,
       "pct": 4.9
     },
     {
@@ -318,7 +318,7 @@
     },
     {
       "name": "鞍山",
-      "count": 362,
+      "count": 364,
       "pct": 3.2
     },
     {
