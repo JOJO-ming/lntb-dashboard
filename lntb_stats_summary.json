@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-16 09:45:26",
+  "generatedAt": "2026-10-16 13:40:58",
   "overview": {
     "tenderTotal": 5723,
-    "bidderTotal": 5986,
-    "total": 11709,
+    "bidderTotal": 6013,
+    "total": 11736,
     "cityCount": 15,
     "totalInvestment": 39797.9,
-    "todayNew": 3,
+    "todayNew": 30,
     "tendersWithInvest": 5716,
-    "biddersWithPrice": 5295,
+    "biddersWithPrice": 5322,
     "investCoverage": 99.9,
     "priceCoverage": 88.5
   },
@@ -76,14 +76,14 @@
     {
       "month": "2026-10",
       "tenderCount": 144,
-      "bidderCount": 225
+      "bidderCount": 252
     }
   ],
   "sectorDist": [
     {
       "name": "其他工程",
-      "count": 2535,
-      "pct": 21.7
+      "count": 2540,
+      "pct": 21.6
     },
     {
       "name": "市政道路 & 园区基建",
@@ -92,7 +92,7 @@
     },
     {
       "name": "供排水及污水处理",
-      "count": 2140,
+      "count": 2145,
       "pct": 18.3
     },
     {
@@ -102,13 +102,13 @@
     },
     {
       "name": "房屋建筑（房建）",
-      "count": 1264,
+      "count": 1266,
       "pct": 10.8
     },
     {
       "name": "生态环保 & 农林水利",
-      "count": 1113,
-      "pct": 9.5
+      "count": 1126,
+      "pct": 9.6
     },
     {
       "name": "电力 & 能源工程",
@@ -117,7 +117,7 @@
     },
     {
       "name": "供热工程",
-      "count": 250,
+      "count": 252,
       "pct": 2.1
     },
     {
@@ -139,17 +139,17 @@
   "sixNetDist": [
     {
       "name": "非六张网",
-      "count": 4330,
-      "pct": 72.3
+      "count": 4342,
+      "pct": 72.2
     },
     {
       "name": "水网",
-      "count": 854,
-      "pct": 14.3
+      "count": 867,
+      "pct": 14.4
     },
     {
       "name": "城市地下管网",
-      "count": 621,
+      "count": 623,
       "pct": 10.4
     },
     {
@@ -165,7 +165,7 @@
     {
       "name": "算力网",
       "count": 27,
-      "pct": 0.5
+      "pct": 0.4
     },
     {
       "name": "新一代通信网",
@@ -199,6 +199,10 @@
       "count": 20
     },
     {
+      "name": "辽宁盛泰建设工程有限公司",
+      "count": 19
+    },
+    {
       "name": "北京兴电国际工程管理有限公司",
       "count": 19
     },
@@ -215,11 +219,11 @@
       "count": 19
     },
     {
-      "name": "辽宁恒旺建设工程有限公司",
+      "name": "沈阳市振东建设工程监理股份有限公司",
       "count": 18
     },
     {
-      "name": "辽宁盛泰建设工程有限公司",
+      "name": "辽宁恒旺建设工程有限公司",
       "count": 18
     },
     {
@@ -233,10 +237,6 @@
     {
       "name": "辽宁紫光建筑工程有限公司",
       "count": 18
-    },
-    {
-      "name": "沈阳市振东建设工程监理股份有限公司",
-      "count": 17
     },
     {
       "name": "祥泰（辽宁）建设工程管理有限公司",
@@ -258,22 +258,22 @@
   "cityDist": [
     {
       "name": "沈阳",
-      "count": 2868,
-      "pct": 25.1
+      "count": 2872,
+      "pct": 25.0
     },
     {
       "name": "大连",
-      "count": 1454,
+      "count": 1455,
       "pct": 12.7
     },
     {
       "name": "未知",
-      "count": 1086,
+      "count": 1087,
       "pct": 9.5
     },
     {
       "name": "朝阳",
-      "count": 971,
+      "count": 981,
       "pct": 8.5
     },
     {
@@ -288,8 +288,8 @@
     },
     {
       "name": "铁岭",
-      "count": 600,
-      "pct": 5.2
+      "count": 604,
+      "pct": 5.3
     },
     {
       "name": "丹东",
@@ -298,7 +298,7 @@
     },
     {
       "name": "本溪",
-      "count": 466,
+      "count": 467,
       "pct": 4.1
     },
     {
@@ -313,23 +313,23 @@
     },
     {
       "name": "辽阳",
-      "count": 367,
+      "count": 372,
       "pct": 3.2
     },
     {
       "name": "鞍山",
-      "count": 364,
+      "count": 365,
       "pct": 3.2
     },
     {
       "name": "盘锦",
       "count": 281,
-      "pct": 2.5
+      "pct": 2.4
     },
     {
       "name": "省级",
       "count": 235,
-      "pct": 2.1
+      "pct": 2.0
     }
   ],
   "typeDist": [
@@ -413,12 +413,12 @@
     {
       "name": "铁西区",
       "count": 291,
-      "pct": 11.1
+      "pct": 11.0
     },
     {
       "name": "朝阳县",
-      "count": 239,
-      "pct": 9.1
+      "count": 248,
+      "pct": 9.4
     },
     {
       "name": "于洪区",
@@ -451,13 +451,13 @@
       "pct": 6.1
     },
     {
-      "name": "开原市",
+      "name": "普兰店区",
       "count": 155,
       "pct": 5.9
     },
     {
-      "name": "普兰店区",
-      "count": 154,
+      "name": "开原市",
+      "count": 155,
       "pct": 5.9
     },
     {
