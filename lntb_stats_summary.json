@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-20 14:55:54",
+  "generatedAt": "2026-10-20 16:43:18",
   "overview": {
-    "tenderTotal": 5771,
-    "bidderTotal": 6167,
-    "total": 11938,
+    "tenderTotal": 5782,
+    "bidderTotal": 6180,
+    "total": 11962,
     "cityCount": 15,
-    "totalInvestment": 39999.4,
-    "todayNew": 98,
-    "tendersWithInvest": 5764,
-    "biddersWithPrice": 5476,
+    "totalInvestment": 40013.2,
+    "todayNew": 122,
+    "tendersWithInvest": 5775,
+    "biddersWithPrice": 5489,
     "investCoverage": 99.9,
     "priceCoverage": 88.8
   },
@@ -75,39 +75,39 @@
     },
     {
       "month": "2026-10",
-      "tenderCount": 192,
-      "bidderCount": 406
+      "tenderCount": 203,
+      "bidderCount": 419
     }
   ],
   "sectorDist": [
     {
       "name": "其他工程",
-      "count": 2583,
+      "count": 2587,
       "pct": 21.6
     },
     {
       "name": "市政道路 & 园区基建",
-      "count": 2266,
+      "count": 2270,
       "pct": 19.0
     },
     {
       "name": "供排水及污水处理",
-      "count": 2175,
+      "count": 2183,
       "pct": 18.2
     },
     {
       "name": "城市更新 & 老旧改造",
-      "count": 1366,
+      "count": 1369,
       "pct": 11.4
     },
     {
       "name": "房屋建筑（房建）",
-      "count": 1285,
+      "count": 1286,
       "pct": 10.8
     },
     {
       "name": "生态环保 & 农林水利",
-      "count": 1182,
+      "count": 1186,
       "pct": 9.9
     },
     {
@@ -139,18 +139,18 @@
   "sixNetDist": [
     {
       "name": "非六张网",
-      "count": 4411,
+      "count": 4417,
       "pct": 71.5
     },
     {
       "name": "水网",
-      "count": 931,
+      "count": 934,
       "pct": 15.1
     },
     {
       "name": "城市地下管网",
-      "count": 637,
-      "pct": 10.3
+      "count": 641,
+      "pct": 10.4
     },
     {
       "name": "新型电网",
@@ -199,6 +199,10 @@
       "count": 21
     },
     {
+      "name": "北京兴电国际工程管理有限公司",
+      "count": 20
+    },
+    {
       "name": "辽宁润泽建设工程有限公司",
       "count": 20
     },
@@ -212,10 +216,6 @@
     },
     {
       "name": "辽宁盛泰建设工程有限公司",
-      "count": 19
-    },
-    {
-      "name": "北京兴电国际工程管理有限公司",
       "count": 19
     },
     {
@@ -258,28 +258,33 @@
   "cityDist": [
     {
       "name": "沈阳",
-      "count": 2907,
+      "count": 2910,
       "pct": 24.9
     },
     {
       "name": "大连",
-      "count": 1477,
-      "pct": 12.7
+      "count": 1478,
+      "pct": 12.6
     },
     {
       "name": "未知",
-      "count": 1108,
+      "count": 1114,
       "pct": 9.5
     },
     {
       "name": "朝阳",
-      "count": 1019,
-      "pct": 8.7
+      "count": 1024,
+      "pct": 8.8
     },
     {
       "name": "锦州",
-      "count": 731,
+      "count": 732,
       "pct": 6.3
+    },
+    {
+      "name": "铁岭",
+      "count": 636,
+      "pct": 5.4
     },
     {
       "name": "葫芦岛",
@@ -287,14 +292,9 @@
       "pct": 5.4
     },
     {
-      "name": "铁岭",
-      "count": 633,
-      "pct": 5.4
-    },
-    {
       "name": "丹东",
       "count": 567,
-      "pct": 4.9
+      "pct": 4.8
     },
     {
       "name": "本溪",
@@ -323,19 +323,19 @@
     },
     {
       "name": "盘锦",
-      "count": 289,
+      "count": 292,
       "pct": 2.5
     },
     {
       "name": "省级",
-      "count": 237,
+      "count": 238,
       "pct": 2.0
     }
   ],
   "typeDist": [
     {
       "name": "施工",
-      "count": 2815,
+      "count": 2821,
       "pct": 49.1
     },
     {
@@ -345,7 +345,7 @@
     },
     {
       "name": "设计",
-      "count": 447,
+      "count": 448,
       "pct": 7.8
     },
     {
@@ -360,12 +360,12 @@
     },
     {
       "name": "其他",
-      "count": 237,
+      "count": 238,
       "pct": 4.1
     },
     {
       "name": "检验检测",
-      "count": 176,
+      "count": 177,
       "pct": 3.1
     },
     {
@@ -375,7 +375,7 @@
     },
     {
       "name": "造价咨询",
-      "count": 78,
+      "count": 79,
       "pct": 1.4
     },
     {
@@ -395,7 +395,7 @@
     },
     {
       "name": "工程总承包(EPC)",
-      "count": 18,
+      "count": 19,
       "pct": 0.3
     },
     {
@@ -452,13 +452,13 @@
     },
     {
       "name": "开原市",
-      "count": 161,
-      "pct": 5.9
+      "count": 163,
+      "pct": 6.0
     },
     {
       "name": "普兰店区",
       "count": 156,
-      "pct": 5.8
+      "pct": 5.7
     },
     {
       "name": "北票市",
@@ -467,8 +467,8 @@
     },
     {
       "name": "昌图县",
-      "count": 153,
-      "pct": 5.6
+      "count": 154,
+      "pct": 5.7
     },
     {
       "name": "长兴岛",
