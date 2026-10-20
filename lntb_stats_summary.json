@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-20 14:39:33",
+  "generatedAt": "2026-10-20 14:55:54",
   "overview": {
     "tenderTotal": 5771,
-    "bidderTotal": 6150,
-    "total": 11921,
+    "bidderTotal": 6167,
+    "total": 11938,
     "cityCount": 15,
     "totalInvestment": 39999.4,
-    "todayNew": 82,
+    "todayNew": 98,
     "tendersWithInvest": 5764,
-    "biddersWithPrice": 5459,
+    "biddersWithPrice": 5476,
     "investCoverage": 99.9,
     "priceCoverage": 88.8
   },
@@ -76,14 +76,14 @@
     {
       "month": "2026-10",
       "tenderCount": 192,
-      "bidderCount": 389
+      "bidderCount": 406
     }
   ],
   "sectorDist": [
     {
       "name": "其他工程",
-      "count": 2581,
-      "pct": 21.7
+      "count": 2583,
+      "pct": 21.6
     },
     {
       "name": "市政道路 & 园区基建",
@@ -92,23 +92,23 @@
     },
     {
       "name": "供排水及污水处理",
-      "count": 2173,
+      "count": 2175,
       "pct": 18.2
     },
     {
       "name": "城市更新 & 老旧改造",
       "count": 1366,
-      "pct": 11.5
+      "pct": 11.4
     },
     {
       "name": "房屋建筑（房建）",
-      "count": 1284,
+      "count": 1285,
       "pct": 10.8
     },
     {
       "name": "生态环保 & 农林水利",
-      "count": 1171,
-      "pct": 9.8
+      "count": 1182,
+      "pct": 9.9
     },
     {
       "name": "电力 & 能源工程",
@@ -132,25 +132,25 @@
     },
     {
       "name": "文旅 & 公服配套",
-      "count": 109,
+      "count": 110,
       "pct": 0.9
     }
   ],
   "sixNetDist": [
     {
       "name": "非六张网",
-      "count": 4406,
-      "pct": 71.6
+      "count": 4411,
+      "pct": 71.5
     },
     {
       "name": "水网",
-      "count": 919,
-      "pct": 14.9
+      "count": 931,
+      "pct": 15.1
     },
     {
       "name": "城市地下管网",
       "count": 637,
-      "pct": 10.4
+      "pct": 10.3
     },
     {
       "name": "新型电网",
@@ -263,8 +263,8 @@
     },
     {
       "name": "大连",
-      "count": 1472,
-      "pct": 12.6
+      "count": 1477,
+      "pct": 12.7
     },
     {
       "name": "未知",
@@ -283,12 +283,12 @@
     },
     {
       "name": "葫芦岛",
-      "count": 633,
+      "count": 634,
       "pct": 5.4
     },
     {
       "name": "铁岭",
-      "count": 624,
+      "count": 633,
       "pct": 5.4
     },
     {
@@ -413,7 +413,7 @@
     {
       "name": "铁西区",
       "count": 291,
-      "pct": 10.8
+      "pct": 10.7
     },
     {
       "name": "朝阳县",
@@ -423,7 +423,7 @@
     {
       "name": "于洪区",
       "count": 226,
-      "pct": 8.4
+      "pct": 8.3
     },
     {
       "name": "皇姑区",
@@ -433,7 +433,7 @@
     {
       "name": "和平区",
       "count": 177,
-      "pct": 6.6
+      "pct": 6.5
     },
     {
       "name": "浑南区",
@@ -442,8 +442,8 @@
     },
     {
       "name": "建昌县",
-      "count": 166,
-      "pct": 6.1
+      "count": 167,
+      "pct": 6.2
     },
     {
       "name": "大东区",
@@ -453,7 +453,7 @@
     {
       "name": "开原市",
       "count": 161,
-      "pct": 6.0
+      "pct": 5.9
     },
     {
       "name": "普兰店区",
@@ -466,9 +466,14 @@
       "pct": 5.7
     },
     {
+      "name": "昌图县",
+      "count": 153,
+      "pct": 5.6
+    },
+    {
       "name": "长兴岛",
       "count": 153,
-      "pct": 5.7
+      "pct": 5.6
     },
     {
       "name": "金普新区",
@@ -476,14 +481,9 @@
       "pct": 5.4
     },
     {
-      "name": "昌图县",
-      "count": 145,
-      "pct": 5.4
-    },
-    {
       "name": "瓦房店市",
-      "count": 136,
-      "pct": 5.0
+      "count": 138,
+      "pct": 5.1
     }
   ]
 }
