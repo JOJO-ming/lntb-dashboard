@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-21 16:46:38",
+  "generatedAt": "2026-10-22 09:47:49",
   "overview": {
     "tenderTotal": 5803,
-    "bidderTotal": 6195,
-    "total": 11998,
+    "bidderTotal": 6196,
+    "total": 11999,
     "cityCount": 15,
     "totalInvestment": 40139.4,
-    "todayNew": 34,
+    "todayNew": 1,
     "tendersWithInvest": 5796,
-    "biddersWithPrice": 5504,
+    "biddersWithPrice": 5505,
     "investCoverage": 99.9,
     "priceCoverage": 88.8
   },
@@ -76,7 +76,7 @@
     {
       "month": "2026-10",
       "tenderCount": 224,
-      "bidderCount": 434
+      "bidderCount": 435
     }
   ],
   "sectorDist": [
@@ -112,7 +112,7 @@
     },
     {
       "name": "电力 & 能源工程",
-      "count": 393,
+      "count": 394,
       "pct": 3.3
     },
     {
@@ -139,7 +139,7 @@
   "sixNetDist": [
     {
       "name": "非六张网",
-      "count": 4422,
+      "count": 4423,
       "pct": 71.4
     },
     {
@@ -263,7 +263,7 @@
     },
     {
       "name": "大连",
-      "count": 1480,
+      "count": 1481,
       "pct": 12.6
     },
     {
