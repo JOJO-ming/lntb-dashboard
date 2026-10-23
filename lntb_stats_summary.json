@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-23 09:42:09",
+  "generatedAt": "2026-10-23 13:39:36",
   "overview": {
-    "tenderTotal": 5830,
-    "bidderTotal": 6202,
-    "total": 12032,
+    "tenderTotal": 5838,
+    "bidderTotal": 6208,
+    "total": 12046,
     "cityCount": 15,
-    "totalInvestment": 40175.4,
-    "todayNew": 2,
-    "tendersWithInvest": 5823,
-    "biddersWithPrice": 5511,
+    "totalInvestment": 40190.7,
+    "todayNew": 16,
+    "tendersWithInvest": 5831,
+    "biddersWithPrice": 5517,
     "investCoverage": 99.9,
     "priceCoverage": 88.9
   },
@@ -75,14 +75,14 @@
     },
     {
       "month": "2026-10",
-      "tenderCount": 251,
-      "bidderCount": 441
+      "tenderCount": 259,
+      "bidderCount": 447
     }
   ],
   "sectorDist": [
     {
       "name": "其他工程",
-      "count": 2610,
+      "count": 2615,
       "pct": 21.7
     },
     {
@@ -92,7 +92,7 @@
     },
     {
       "name": "供排水及污水处理",
-      "count": 2194,
+      "count": 2197,
       "pct": 18.2
     },
     {
@@ -102,12 +102,12 @@
     },
     {
       "name": "房屋建筑（房建）",
-      "count": 1288,
+      "count": 1289,
       "pct": 10.7
     },
     {
       "name": "生态环保 & 农林水利",
-      "count": 1193,
+      "count": 1196,
       "pct": 9.9
     },
     {
@@ -122,7 +122,7 @@
     },
     {
       "name": "智能化 & 城市安全",
-      "count": 178,
+      "count": 180,
       "pct": 1.5
     },
     {
@@ -139,12 +139,12 @@
   "sixNetDist": [
     {
       "name": "非六张网",
-      "count": 4427,
+      "count": 4430,
       "pct": 71.4
     },
     {
       "name": "水网",
-      "count": 937,
+      "count": 940,
       "pct": 15.1
     },
     {
@@ -258,28 +258,28 @@
   "cityDist": [
     {
       "name": "沈阳",
-      "count": 2922,
+      "count": 2923,
       "pct": 24.8
     },
     {
       "name": "大连",
-      "count": 1487,
+      "count": 1488,
       "pct": 12.6
     },
     {
       "name": "未知",
-      "count": 1119,
+      "count": 1123,
       "pct": 9.5
     },
     {
       "name": "朝阳",
-      "count": 1042,
+      "count": 1046,
       "pct": 8.9
     },
     {
       "name": "锦州",
       "count": 736,
-      "pct": 6.3
+      "pct": 6.2
     },
     {
       "name": "葫芦岛",
@@ -288,7 +288,7 @@
     },
     {
       "name": "铁岭",
-      "count": 638,
+      "count": 639,
       "pct": 5.4
     },
     {
@@ -323,7 +323,7 @@
     },
     {
       "name": "盘锦",
-      "count": 292,
+      "count": 294,
       "pct": 2.5
     },
     {
@@ -335,18 +335,18 @@
   "typeDist": [
     {
       "name": "施工",
-      "count": 2852,
+      "count": 2856,
       "pct": 49.2
     },
     {
       "name": "监理",
-      "count": 902,
+      "count": 903,
       "pct": 15.6
     },
     {
       "name": "设计",
-      "count": 449,
-      "pct": 7.7
+      "count": 450,
+      "pct": 7.8
     },
     {
       "name": "材料设备采购",
@@ -375,7 +375,7 @@
     },
     {
       "name": "造价咨询",
-      "count": 81,
+      "count": 82,
       "pct": 1.4
     },
     {
@@ -395,7 +395,7 @@
     },
     {
       "name": "工程总承包(EPC)",
-      "count": 19,
+      "count": 20,
       "pct": 0.3
     },
     {
@@ -413,12 +413,12 @@
     {
       "name": "铁西区",
       "count": 291,
-      "pct": 10.7
+      "pct": 10.6
     },
     {
       "name": "朝阳县",
-      "count": 276,
-      "pct": 10.1
+      "count": 279,
+      "pct": 10.2
     },
     {
       "name": "于洪区",
