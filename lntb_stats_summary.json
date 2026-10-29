@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-29 10:00:12",
+  "generatedAt": "2026-10-29 13:40:29",
   "overview": {
-    "tenderTotal": 5926,
-    "bidderTotal": 6325,
-    "total": 12251,
+    "tenderTotal": 5934,
+    "bidderTotal": 6345,
+    "total": 12279,
     "cityCount": 15,
-    "totalInvestment": 40583.4,
-    "todayNew": 1,
-    "tendersWithInvest": 5919,
-    "biddersWithPrice": 5634,
+    "totalInvestment": 40591.9,
+    "todayNew": 6,
+    "tendersWithInvest": 5927,
+    "biddersWithPrice": 5654,
     "investCoverage": 99.9,
     "priceCoverage": 89.1
   },
@@ -75,24 +75,24 @@
     },
     {
       "month": "2026-10",
-      "tenderCount": 347,
-      "bidderCount": 564
+      "tenderCount": 355,
+      "bidderCount": 584
     }
   ],
   "sectorDist": [
     {
       "name": "其他工程",
-      "count": 2665,
+      "count": 2674,
       "pct": 21.8
     },
     {
       "name": "市政道路 & 园区基建",
       "count": 2302,
-      "pct": 18.8
+      "pct": 18.7
     },
     {
       "name": "供排水及污水处理",
-      "count": 2244,
+      "count": 2250,
       "pct": 18.3
     },
     {
@@ -102,12 +102,12 @@
     },
     {
       "name": "房屋建筑（房建）",
-      "count": 1305,
+      "count": 1309,
       "pct": 10.7
     },
     {
       "name": "生态环保 & 农林水利",
-      "count": 1237,
+      "count": 1245,
       "pct": 10.1
     },
     {
@@ -117,7 +117,7 @@
     },
     {
       "name": "供热工程",
-      "count": 256,
+      "count": 257,
       "pct": 2.1
     },
     {
@@ -139,17 +139,17 @@
   "sixNetDist": [
     {
       "name": "非六张网",
-      "count": 4492,
+      "count": 4504,
       "pct": 71.0
     },
     {
       "name": "水网",
-      "count": 980,
-      "pct": 15.5
+      "count": 987,
+      "pct": 15.6
     },
     {
       "name": "城市地下管网",
-      "count": 658,
+      "count": 659,
       "pct": 10.4
     },
     {
@@ -188,7 +188,7 @@
     },
     {
       "name": "沈阳市市政工程设计研究院有限公司",
-      "count": 22
+      "count": 23
     },
     {
       "name": "辽宁润泽建设工程有限公司",
@@ -243,43 +243,48 @@
       "count": 18
     },
     {
+      "name": "中鸿亿博集团有限公司",
+      "count": 17
+    },
+    {
       "name": "辽宁恒润建设工程有限公司",
       "count": 17
     },
     {
       "name": "辽宁弘晟项目管理有限公司",
       "count": 16
-    },
-    {
-      "name": "中鸿亿博集团有限公司",
-      "count": 16
     }
   ],
   "cityDist": [
     {
       "name": "沈阳",
-      "count": 2960,
+      "count": 2964,
       "pct": 24.7
     },
     {
       "name": "大连",
-      "count": 1506,
+      "count": 1509,
       "pct": 12.6
     },
     {
       "name": "未知",
-      "count": 1144,
-      "pct": 9.6
+      "count": 1145,
+      "pct": 9.5
     },
     {
       "name": "朝阳",
-      "count": 1093,
+      "count": 1094,
       "pct": 9.1
     },
     {
       "name": "锦州",
-      "count": 744,
+      "count": 747,
       "pct": 6.2
+    },
+    {
+      "name": "铁岭",
+      "count": 658,
+      "pct": 5.5
     },
     {
       "name": "葫芦岛",
@@ -287,13 +292,8 @@
       "pct": 5.5
     },
     {
-      "name": "铁岭",
-      "count": 655,
-      "pct": 5.5
-    },
-    {
       "name": "丹东",
-      "count": 570,
+      "count": 573,
       "pct": 4.8
     },
     {
@@ -303,12 +303,12 @@
     },
     {
       "name": "阜新",
-      "count": 449,
+      "count": 450,
       "pct": 3.7
     },
     {
       "name": "抚顺",
-      "count": 416,
+      "count": 419,
       "pct": 3.5
     },
     {
@@ -318,12 +318,12 @@
     },
     {
       "name": "鞍山",
-      "count": 374,
+      "count": 375,
       "pct": 3.1
     },
     {
       "name": "盘锦",
-      "count": 300,
+      "count": 305,
       "pct": 2.5
     },
     {
@@ -335,13 +335,13 @@
   "typeDist": [
     {
       "name": "施工",
-      "count": 2907,
-      "pct": 49.4
+      "count": 2910,
+      "pct": 49.3
     },
     {
       "name": "监理",
-      "count": 915,
-      "pct": 15.5
+      "count": 919,
+      "pct": 15.6
     },
     {
       "name": "设计",
@@ -355,7 +355,7 @@
     },
     {
       "name": "工程总承包（EPC）",
-      "count": 397,
+      "count": 398,
       "pct": 6.7
     },
     {
@@ -381,7 +381,7 @@
     {
       "name": "项目管理 （含代建）",
       "count": 56,
-      "pct": 1.0
+      "pct": 0.9
     },
     {
       "name": "项目管理(含代建)",
@@ -447,16 +447,16 @@
     },
     {
       "name": "大东区",
+      "count": 170,
+      "pct": 6.1
+    },
+    {
+      "name": "浑南区",
       "count": 169,
       "pct": 6.0
     },
     {
       "name": "北票市",
-      "count": 168,
-      "pct": 6.0
-    },
-    {
-      "name": "浑南区",
       "count": 168,
       "pct": 6.0
     },
@@ -472,13 +472,13 @@
     },
     {
       "name": "昌图县",
-      "count": 157,
+      "count": 158,
       "pct": 5.6
     },
     {
       "name": "金普新区",
       "count": 150,
-      "pct": 5.4
+      "pct": 5.3
     },
     {
       "name": "瓦房店市",
