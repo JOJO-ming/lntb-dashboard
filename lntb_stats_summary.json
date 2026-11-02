@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-02 19:40:10",
+  "generatedAt": "2026-11-02 19:50:06",
   "overview": {
     "tenderTotal": 5993,
-    "bidderTotal": 6389,
-    "total": 12382,
+    "bidderTotal": 6399,
+    "total": 12392,
     "cityCount": 15,
     "totalInvestment": 40883.0,
-    "todayNew": 45,
+    "todayNew": 55,
     "tendersWithInvest": 5986,
-    "biddersWithPrice": 5698,
+    "biddersWithPrice": 5708,
     "investCoverage": 99.9,
     "priceCoverage": 89.2
   },
@@ -81,18 +81,18 @@
     {
       "month": "2026-11",
       "tenderCount": 25,
-      "bidderCount": 20
+      "bidderCount": 30
     }
   ],
   "sectorDist": [
     {
       "name": "其他工程",
-      "count": 2694,
+      "count": 2700,
       "pct": 21.8
     },
     {
       "name": "市政道路 & 园区基建",
-      "count": 2313,
+      "count": 2314,
       "pct": 18.7
     },
     {
@@ -102,7 +102,7 @@
     },
     {
       "name": "城市更新 & 老旧改造",
-      "count": 1397,
+      "count": 1398,
       "pct": 11.3
     },
     {
@@ -112,7 +112,7 @@
     },
     {
       "name": "生态环保 & 农林水利",
-      "count": 1267,
+      "count": 1268,
       "pct": 10.2
     },
     {
@@ -127,7 +127,7 @@
     },
     {
       "name": "智能化 & 城市安全",
-      "count": 184,
+      "count": 185,
       "pct": 1.5
     },
     {
@@ -144,12 +144,12 @@
   "sixNetDist": [
     {
       "name": "非六张网",
-      "count": 4525,
-      "pct": 70.8
+      "count": 4534,
+      "pct": 70.9
     },
     {
       "name": "水网",
-      "count": 1007,
+      "count": 1008,
       "pct": 15.8
     },
     {
@@ -263,22 +263,22 @@
   "cityDist": [
     {
       "name": "沈阳",
-      "count": 2977,
+      "count": 2980,
       "pct": 24.6
     },
     {
       "name": "大连",
-      "count": 1523,
+      "count": 1525,
       "pct": 12.6
     },
     {
       "name": "未知",
-      "count": 1154,
+      "count": 1156,
       "pct": 9.5
     },
     {
       "name": "朝阳",
-      "count": 1106,
+      "count": 1107,
       "pct": 9.1
     },
     {
@@ -293,12 +293,12 @@
     },
     {
       "name": "铁岭",
-      "count": 665,
+      "count": 666,
       "pct": 5.5
     },
     {
       "name": "丹东",
-      "count": 579,
+      "count": 580,
       "pct": 4.8
     },
     {
@@ -427,12 +427,12 @@
     },
     {
       "name": "于洪区",
-      "count": 236,
+      "count": 237,
       "pct": 8.4
     },
     {
       "name": "皇姑区",
-      "count": 184,
+      "count": 185,
       "pct": 6.5
     },
     {
@@ -442,18 +442,18 @@
     },
     {
       "name": "开原市",
-      "count": 172,
+      "count": 173,
       "pct": 6.1
     },
     {
       "name": "大东区",
       "count": 171,
-      "pct": 6.1
+      "pct": 6.0
     },
     {
       "name": "建昌县",
       "count": 171,
-      "pct": 6.1
+      "pct": 6.0
     },
     {
       "name": "浑南区",
@@ -463,11 +463,11 @@
     {
       "name": "北票市",
       "count": 168,
-      "pct": 6.0
+      "pct": 5.9
     },
     {
       "name": "长兴岛",
-      "count": 160,
+      "count": 161,
       "pct": 5.7
     },
     {
