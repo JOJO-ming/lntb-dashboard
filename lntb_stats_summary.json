@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-03 16:58:52",
+  "generatedAt": "2026-11-04 10:00:35",
   "overview": {
-    "tenderTotal": 6004,
-    "bidderTotal": 6461,
-    "total": 12465,
+    "tenderTotal": 6006,
+    "bidderTotal": 6468,
+    "total": 12474,
     "cityCount": 15,
-    "totalInvestment": 41056.7,
-    "todayNew": 73,
-    "tendersWithInvest": 5997,
-    "biddersWithPrice": 5770,
+    "totalInvestment": 41059.9,
+    "todayNew": 6,
+    "tendersWithInvest": 5999,
+    "biddersWithPrice": 5777,
     "investCoverage": 99.9,
     "priceCoverage": 89.3
   },
@@ -80,8 +80,8 @@
     },
     {
       "month": "2026-11",
-      "tenderCount": 36,
-      "bidderCount": 92
+      "tenderCount": 38,
+      "bidderCount": 99
     }
   ],
   "sectorDist": [
@@ -92,12 +92,12 @@
     },
     {
       "name": "市政道路 & 园区基建",
-      "count": 2322,
+      "count": 2324,
       "pct": 18.6
     },
     {
       "name": "供排水及污水处理",
-      "count": 2278,
+      "count": 2283,
       "pct": 18.3
     },
     {
@@ -107,12 +107,12 @@
     },
     {
       "name": "房屋建筑（房建）",
-      "count": 1326,
+      "count": 1327,
       "pct": 10.6
     },
     {
       "name": "生态环保 & 农林水利",
-      "count": 1290,
+      "count": 1291,
       "pct": 10.3
     },
     {
@@ -144,18 +144,18 @@
   "sixNetDist": [
     {
       "name": "非六张网",
-      "count": 4558,
+      "count": 4559,
       "pct": 70.5
     },
     {
       "name": "水网",
-      "count": 1040,
+      "count": 1042,
       "pct": 16.1
     },
     {
       "name": "城市地下管网",
-      "count": 666,
-      "pct": 10.3
+      "count": 670,
+      "pct": 10.4
     },
     {
       "name": "新型电网",
@@ -264,16 +264,16 @@
     {
       "name": "沈阳",
       "count": 2994,
-      "pct": 24.6
+      "pct": 24.5
     },
     {
       "name": "大连",
-      "count": 1532,
+      "count": 1536,
       "pct": 12.6
     },
     {
       "name": "未知",
-      "count": 1165,
+      "count": 1169,
       "pct": 9.6
     },
     {
@@ -288,7 +288,7 @@
     },
     {
       "name": "葫芦岛",
-      "count": 672,
+      "count": 673,
       "pct": 5.5
     },
     {
