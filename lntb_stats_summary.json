@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-04 10:00:35",
+  "generatedAt": "2026-11-04 13:38:00",
   "overview": {
-    "tenderTotal": 6006,
-    "bidderTotal": 6468,
-    "total": 12474,
+    "tenderTotal": 6009,
+    "bidderTotal": 6471,
+    "total": 12480,
     "cityCount": 15,
-    "totalInvestment": 41059.9,
-    "todayNew": 6,
-    "tendersWithInvest": 5999,
-    "biddersWithPrice": 5777,
+    "totalInvestment": 41068.2,
+    "todayNew": 12,
+    "tendersWithInvest": 6002,
+    "biddersWithPrice": 5780,
     "investCoverage": 99.9,
     "priceCoverage": 89.3
   },
@@ -80,19 +80,19 @@
     },
     {
       "month": "2026-11",
-      "tenderCount": 38,
-      "bidderCount": 99
+      "tenderCount": 41,
+      "bidderCount": 102
     }
   ],
   "sectorDist": [
     {
       "name": "其他工程",
-      "count": 2715,
+      "count": 2718,
       "pct": 21.8
     },
     {
       "name": "市政道路 & 园区基建",
-      "count": 2324,
+      "count": 2326,
       "pct": 18.6
     },
     {
@@ -107,7 +107,7 @@
     },
     {
       "name": "房屋建筑（房建）",
-      "count": 1327,
+      "count": 1328,
       "pct": 10.6
     },
     {
@@ -144,7 +144,7 @@
   "sixNetDist": [
     {
       "name": "非六张网",
-      "count": 4559,
+      "count": 4562,
       "pct": 70.5
     },
     {
@@ -268,12 +268,12 @@
     },
     {
       "name": "大连",
-      "count": 1536,
+      "count": 1537,
       "pct": 12.6
     },
     {
       "name": "未知",
-      "count": 1169,
+      "count": 1172,
       "pct": 9.6
     },
     {
@@ -288,7 +288,7 @@
     },
     {
       "name": "葫芦岛",
-      "count": 673,
+      "count": 674,
       "pct": 5.5
     },
     {
@@ -303,7 +303,7 @@
     },
     {
       "name": "本溪",
-      "count": 496,
+      "count": 497,
       "pct": 4.1
     },
     {
@@ -314,7 +314,7 @@
     {
       "name": "抚顺",
       "count": 421,
-      "pct": 3.5
+      "pct": 3.4
     },
     {
       "name": "辽阳",
@@ -340,7 +340,7 @@
   "typeDist": [
     {
       "name": "施工",
-      "count": 2950,
+      "count": 2952,
       "pct": 49.4
     },
     {
@@ -361,11 +361,11 @@
     {
       "name": "工程总承包（EPC）",
       "count": 403,
-      "pct": 6.8
+      "pct": 6.7
     },
     {
       "name": "其他",
-      "count": 244,
+      "count": 245,
       "pct": 4.1
     },
     {
@@ -446,6 +446,11 @@
       "pct": 6.1
     },
     {
+      "name": "建昌县",
+      "count": 173,
+      "pct": 6.0
+    },
+    {
       "name": "开原市",
       "count": 173,
       "pct": 6.0
@@ -456,18 +461,13 @@
       "pct": 6.0
     },
     {
-      "name": "建昌县",
-      "count": 172,
-      "pct": 6.0
-    },
-    {
       "name": "浑南区",
       "count": 170,
       "pct": 5.9
     },
     {
       "name": "长兴岛",
-      "count": 162,
+      "count": 163,
       "pct": 5.7
     },
     {
