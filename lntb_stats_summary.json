@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-04 16:43:21",
+  "generatedAt": "2026-11-05 09:55:08",
   "overview": {
-    "tenderTotal": 6018,
-    "bidderTotal": 6480,
-    "total": 12498,
+    "tenderTotal": 6020,
+    "bidderTotal": 6481,
+    "total": 12501,
     "cityCount": 15,
-    "totalInvestment": 41092.0,
-    "todayNew": 30,
-    "tendersWithInvest": 6011,
-    "biddersWithPrice": 5789,
+    "totalInvestment": 41092.7,
+    "todayNew": 0,
+    "tendersWithInvest": 6013,
+    "biddersWithPrice": 5790,
     "investCoverage": 99.9,
     "priceCoverage": 89.3
   },
@@ -80,19 +80,19 @@
     },
     {
       "month": "2026-11",
-      "tenderCount": 50,
-      "bidderCount": 111
+      "tenderCount": 52,
+      "bidderCount": 112
     }
   ],
   "sectorDist": [
     {
       "name": "其他工程",
-      "count": 2718,
-      "pct": 21.7
+      "count": 2719,
+      "pct": 21.8
     },
     {
       "name": "市政道路 & 园区基建",
-      "count": 2332,
+      "count": 2333,
       "pct": 18.7
     },
     {
@@ -107,7 +107,7 @@
     },
     {
       "name": "房屋建筑（房建）",
-      "count": 1329,
+      "count": 1330,
       "pct": 10.6
     },
     {
@@ -144,7 +144,7 @@
   "sixNetDist": [
     {
       "name": "非六张网",
-      "count": 4562,
+      "count": 4563,
       "pct": 70.4
     },
     {
@@ -288,12 +288,12 @@
     },
     {
       "name": "葫芦岛",
-      "count": 674,
+      "count": 675,
       "pct": 5.5
     },
     {
       "name": "铁岭",
-      "count": 672,
+      "count": 673,
       "pct": 5.5
     },
     {
@@ -333,14 +333,14 @@
     },
     {
       "name": "省级",
-      "count": 240,
+      "count": 241,
       "pct": 2.0
     }
   ],
   "typeDist": [
     {
       "name": "施工",
-      "count": 2958,
+      "count": 2959,
       "pct": 49.5
     },
     {
@@ -355,7 +355,7 @@
     },
     {
       "name": "材料设备采购",
-      "count": 423,
+      "count": 424,
       "pct": 7.1
     },
     {
