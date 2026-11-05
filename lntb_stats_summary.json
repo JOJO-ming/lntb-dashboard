@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-05 09:55:08",
+  "generatedAt": "2026-11-05 13:38:24",
   "overview": {
-    "tenderTotal": 6020,
-    "bidderTotal": 6481,
-    "total": 12501,
+    "tenderTotal": 6025,
+    "bidderTotal": 6483,
+    "total": 12508,
     "cityCount": 15,
-    "totalInvestment": 41092.7,
-    "todayNew": 0,
-    "tendersWithInvest": 6013,
-    "biddersWithPrice": 5790,
+    "totalInvestment": 41094.3,
+    "todayNew": 7,
+    "tendersWithInvest": 6018,
+    "biddersWithPrice": 5792,
     "investCoverage": 99.9,
     "priceCoverage": 89.3
   },
@@ -80,29 +80,29 @@
     },
     {
       "month": "2026-11",
-      "tenderCount": 52,
-      "bidderCount": 112
+      "tenderCount": 57,
+      "bidderCount": 114
     }
   ],
   "sectorDist": [
     {
       "name": "其他工程",
       "count": 2719,
-      "pct": 21.8
+      "pct": 21.7
     },
     {
       "name": "市政道路 & 园区基建",
-      "count": 2333,
+      "count": 2334,
       "pct": 18.7
     },
     {
       "name": "供排水及污水处理",
-      "count": 2287,
+      "count": 2289,
       "pct": 18.3
     },
     {
       "name": "城市更新 & 老旧改造",
-      "count": 1401,
+      "count": 1402,
       "pct": 11.2
     },
     {
@@ -112,7 +112,7 @@
     },
     {
       "name": "生态环保 & 农林水利",
-      "count": 1295,
+      "count": 1298,
       "pct": 10.4
     },
     {
@@ -149,8 +149,8 @@
     },
     {
       "name": "水网",
-      "count": 1046,
-      "pct": 16.1
+      "count": 1048,
+      "pct": 16.2
     },
     {
       "name": "城市地下管网",
@@ -256,24 +256,24 @@
       "count": 17
     },
     {
-      "name": "辽宁宁通建工有限公司",
+      "name": "辽宁屹轩工程咨询有限公司",
       "count": 16
     }
   ],
   "cityDist": [
     {
       "name": "沈阳",
-      "count": 2995,
+      "count": 2997,
       "pct": 24.5
     },
     {
       "name": "大连",
-      "count": 1540,
+      "count": 1541,
       "pct": 12.6
     },
     {
       "name": "未知",
-      "count": 1173,
+      "count": 1174,
       "pct": 9.6
     },
     {
@@ -288,7 +288,7 @@
     },
     {
       "name": "葫芦岛",
-      "count": 675,
+      "count": 676,
       "pct": 5.5
     },
     {
@@ -318,7 +318,7 @@
     },
     {
       "name": "辽阳",
-      "count": 393,
+      "count": 395,
       "pct": 3.2
     },
     {
@@ -340,12 +340,12 @@
   "typeDist": [
     {
       "name": "施工",
-      "count": 2959,
-      "pct": 49.5
+      "count": 2960,
+      "pct": 49.4
     },
     {
       "name": "监理",
-      "count": 928,
+      "count": 929,
       "pct": 15.5
     },
     {
@@ -355,7 +355,7 @@
     },
     {
       "name": "材料设备采购",
-      "count": 424,
+      "count": 426,
       "pct": 7.1
     },
     {
@@ -375,7 +375,7 @@
     },
     {
       "name": "勘察",
-      "count": 111,
+      "count": 112,
       "pct": 1.9
     },
     {
@@ -427,13 +427,13 @@
     },
     {
       "name": "于洪区",
-      "count": 244,
-      "pct": 8.5
+      "count": 246,
+      "pct": 8.6
     },
     {
       "name": "皇姑区",
       "count": 185,
-      "pct": 6.5
+      "pct": 6.4
     },
     {
       "name": "北票市",
@@ -482,7 +482,7 @@
     },
     {
       "name": "金普新区",
-      "count": 152,
+      "count": 153,
       "pct": 5.3
     },
     {
