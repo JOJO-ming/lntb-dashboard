@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-11-05 16:39:43",
+  "generatedAt": "2026-11-06 09:55:25",
   "overview": {
-    "tenderTotal": 6040,
-    "bidderTotal": 6486,
-    "total": 12526,
+    "tenderTotal": 6041,
+    "bidderTotal": 6489,
+    "total": 12530,
     "cityCount": 15,
-    "totalInvestment": 41107.1,
-    "todayNew": 25,
-    "tendersWithInvest": 6033,
-    "biddersWithPrice": 5795,
+    "totalInvestment": 41107.4,
+    "todayNew": 3,
+    "tendersWithInvest": 6034,
+    "biddersWithPrice": 5798,
     "investCoverage": 99.9,
-    "priceCoverage": 89.3
+    "priceCoverage": 89.4
   },
   "monthlyTrend": [
     {
@@ -80,14 +80,14 @@
     },
     {
       "month": "2026-11",
-      "tenderCount": 72,
-      "bidderCount": 117
+      "tenderCount": 73,
+      "bidderCount": 120
     }
   ],
   "sectorDist": [
     {
       "name": "其他工程",
-      "count": 2722,
+      "count": 2723,
       "pct": 21.7
     },
     {
@@ -97,7 +97,7 @@
     },
     {
       "name": "供排水及污水处理",
-      "count": 2294,
+      "count": 2296,
       "pct": 18.3
     },
     {
@@ -117,7 +117,7 @@
     },
     {
       "name": "电力 & 能源工程",
-      "count": 414,
+      "count": 415,
       "pct": 3.3
     },
     {
@@ -144,7 +144,7 @@
   "sixNetDist": [
     {
       "name": "非六张网",
-      "count": 4563,
+      "count": 4566,
       "pct": 70.4
     },
     {
@@ -196,12 +196,12 @@
       "count": 23
     },
     {
-      "name": "辽宁润泽建设工程有限公司",
+      "name": "辽宁盛泰建设工程有限公司",
       "count": 22
     },
     {
-      "name": "辽宁盛泰建设工程有限公司",
-      "count": 21
+      "name": "辽宁润泽建设工程有限公司",
+      "count": 22
     },
     {
       "name": "辽宁中天建设（集团）有限公司",
@@ -278,8 +278,8 @@
     },
     {
       "name": "朝阳",
-      "count": 1132,
-      "pct": 9.2
+      "count": 1134,
+      "pct": 9.3
     },
     {
       "name": "锦州",
@@ -288,8 +288,8 @@
     },
     {
       "name": "葫芦岛",
-      "count": 679,
-      "pct": 5.5
+      "count": 681,
+      "pct": 5.6
     },
     {
       "name": "铁岭",
@@ -340,7 +340,7 @@
   "typeDist": [
     {
       "name": "施工",
-      "count": 2973,
+      "count": 2974,
       "pct": 49.5
     },
     {
@@ -447,8 +447,8 @@
     },
     {
       "name": "建昌县",
-      "count": 173,
-      "pct": 6.0
+      "count": 175,
+      "pct": 6.1
     },
     {
       "name": "开原市",
