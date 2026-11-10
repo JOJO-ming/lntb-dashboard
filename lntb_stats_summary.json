@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-11-09 16:44:18",
+  "generatedAt": "2026-11-10 09:49:02",
   "overview": {
-    "tenderTotal": 6069,
-    "bidderTotal": 6545,
-    "total": 12614,
+    "tenderTotal": 6075,
+    "bidderTotal": 6551,
+    "total": 12626,
     "cityCount": 15,
-    "totalInvestment": 41288.1,
-    "todayNew": 35,
-    "tendersWithInvest": 6062,
-    "biddersWithPrice": 5854,
+    "totalInvestment": 41302.0,
+    "todayNew": 5,
+    "tendersWithInvest": 6068,
+    "biddersWithPrice": 5860,
     "investCoverage": 99.9,
-    "priceCoverage": 89.4
+    "priceCoverage": 89.5
   },
   "monthlyTrend": [
     {
@@ -80,24 +80,24 @@
     },
     {
       "month": "2026-11",
-      "tenderCount": 101,
-      "bidderCount": 176
+      "tenderCount": 107,
+      "bidderCount": 182
     }
   ],
   "sectorDist": [
     {
       "name": "其他工程",
-      "count": 2734,
+      "count": 2738,
       "pct": 21.7
     },
     {
       "name": "市政道路 & 园区基建",
-      "count": 2341,
+      "count": 2345,
       "pct": 18.6
     },
     {
       "name": "供排水及污水处理",
-      "count": 2307,
+      "count": 2308,
       "pct": 18.3
     },
     {
@@ -106,13 +106,13 @@
       "pct": 11.2
     },
     {
-      "name": "生态环保 & 农林水利",
+      "name": "房屋建筑（房建）",
       "count": 1342,
       "pct": 10.6
     },
     {
-      "name": "房屋建筑（房建）",
-      "count": 1339,
+      "name": "生态环保 & 农林水利",
+      "count": 1342,
       "pct": 10.6
     },
     {
@@ -144,7 +144,7 @@
   "sixNetDist": [
     {
       "name": "非六张网",
-      "count": 4581,
+      "count": 4587,
       "pct": 70.0
     },
     {
@@ -160,7 +160,7 @@
     {
       "name": "新型电网",
       "count": 108,
-      "pct": 1.7
+      "pct": 1.6
     },
     {
       "name": "物流网",
@@ -268,17 +268,17 @@
     },
     {
       "name": "大连",
-      "count": 1551,
+      "count": 1555,
       "pct": 12.6
     },
     {
       "name": "未知",
-      "count": 1186,
+      "count": 1188,
       "pct": 9.6
     },
     {
       "name": "朝阳",
-      "count": 1168,
+      "count": 1169,
       "pct": 9.5
     },
     {
@@ -287,12 +287,12 @@
       "pct": 6.2
     },
     {
-      "name": "铁岭",
-      "count": 684,
+      "name": "葫芦岛",
+      "count": 685,
       "pct": 5.5
     },
     {
-      "name": "葫芦岛",
+      "name": "铁岭",
       "count": 684,
       "pct": 5.5
     },
@@ -313,7 +313,7 @@
     },
     {
       "name": "抚顺",
-      "count": 422,
+      "count": 424,
       "pct": 3.4
     },
     {
@@ -333,19 +333,19 @@
     },
     {
       "name": "省级",
-      "count": 241,
+      "count": 242,
       "pct": 2.0
     }
   ],
   "typeDist": [
     {
       "name": "施工",
-      "count": 2985,
+      "count": 2987,
       "pct": 49.5
     },
     {
       "name": "监理",
-      "count": 936,
+      "count": 937,
       "pct": 15.5
     },
     {
@@ -355,12 +355,12 @@
     },
     {
       "name": "材料设备采购",
-      "count": 433,
+      "count": 435,
       "pct": 7.2
     },
     {
       "name": "工程总承包（EPC）",
-      "count": 404,
+      "count": 405,
       "pct": 6.7
     },
     {
@@ -472,7 +472,7 @@
     },
     {
       "name": "普兰店区",
-      "count": 163,
+      "count": 164,
       "pct": 5.6
     },
     {
@@ -482,8 +482,8 @@
     },
     {
       "name": "金普新区",
-      "count": 156,
-      "pct": 5.3
+      "count": 158,
+      "pct": 5.4
     },
     {
       "name": "瓦房店市",
