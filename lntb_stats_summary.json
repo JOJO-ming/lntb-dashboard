@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-10 16:44:17",
+  "generatedAt": "2026-11-11 10:04:19",
   "overview": {
     "tenderTotal": 6094,
-    "bidderTotal": 6616,
-    "total": 12710,
+    "bidderTotal": 6619,
+    "total": 12713,
     "cityCount": 15,
     "totalInvestment": 41441.5,
-    "todayNew": 89,
+    "todayNew": 3,
     "tendersWithInvest": 6087,
-    "biddersWithPrice": 5925,
+    "biddersWithPrice": 5928,
     "investCoverage": 99.9,
     "priceCoverage": 89.6
   },
@@ -81,13 +81,13 @@
     {
       "month": "2026-11",
       "tenderCount": 126,
-      "bidderCount": 247
+      "bidderCount": 250
     }
   ],
   "sectorDist": [
     {
       "name": "其他工程",
-      "count": 2754,
+      "count": 2755,
       "pct": 21.7
     },
     {
@@ -97,7 +97,7 @@
     },
     {
       "name": "供排水及污水处理",
-      "count": 2320,
+      "count": 2321,
       "pct": 18.3
     },
     {
@@ -107,7 +107,7 @@
     },
     {
       "name": "生态环保 & 农林水利",
-      "count": 1361,
+      "count": 1362,
       "pct": 10.7
     },
     {
@@ -144,17 +144,17 @@
   "sixNetDist": [
     {
       "name": "非六张网",
-      "count": 4622,
-      "pct": 69.9
+      "count": 4623,
+      "pct": 69.8
     },
     {
       "name": "水网",
-      "count": 1109,
+      "count": 1110,
       "pct": 16.8
     },
     {
       "name": "城市地下管网",
-      "count": 686,
+      "count": 687,
       "pct": 10.4
     },
     {
@@ -279,7 +279,7 @@
     {
       "name": "朝阳",
       "count": 1187,
-      "pct": 9.6
+      "pct": 9.5
     },
     {
       "name": "锦州",
@@ -293,7 +293,7 @@
     },
     {
       "name": "铁岭",
-      "count": 688,
+      "count": 689,
       "pct": 5.5
     },
     {
@@ -308,7 +308,7 @@
     },
     {
       "name": "阜新",
-      "count": 454,
+      "count": 455,
       "pct": 3.7
     },
     {
@@ -318,7 +318,7 @@
     },
     {
       "name": "辽阳",
-      "count": 400,
+      "count": 401,
       "pct": 3.2
     },
     {
@@ -472,7 +472,7 @@
     },
     {
       "name": "昌图县",
-      "count": 164,
+      "count": 165,
       "pct": 5.6
     },
     {
@@ -488,7 +488,7 @@
     {
       "name": "瓦房店市",
       "count": 143,
-      "pct": 4.9
+      "pct": 4.8
     }
   ]
 }
