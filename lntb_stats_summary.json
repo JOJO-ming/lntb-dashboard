@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-11 10:04:19",
+  "generatedAt": "2026-11-11 13:39:05",
   "overview": {
-    "tenderTotal": 6094,
-    "bidderTotal": 6619,
-    "total": 12713,
+    "tenderTotal": 6099,
+    "bidderTotal": 6626,
+    "total": 12725,
     "cityCount": 15,
-    "totalInvestment": 41441.5,
-    "todayNew": 3,
-    "tendersWithInvest": 6087,
-    "biddersWithPrice": 5928,
+    "totalInvestment": 41748.7,
+    "todayNew": 15,
+    "tendersWithInvest": 6092,
+    "biddersWithPrice": 5935,
     "investCoverage": 99.9,
     "priceCoverage": 89.6
   },
@@ -80,8 +80,8 @@
     },
     {
       "month": "2026-11",
-      "tenderCount": 126,
-      "bidderCount": 250
+      "tenderCount": 131,
+      "bidderCount": 257
     }
   ],
   "sectorDist": [
@@ -97,17 +97,17 @@
     },
     {
       "name": "供排水及污水处理",
-      "count": 2321,
+      "count": 2325,
       "pct": 18.3
     },
     {
       "name": "城市更新 & 老旧改造",
-      "count": 1424,
+      "count": 1425,
       "pct": 11.2
     },
     {
       "name": "生态环保 & 农林水利",
-      "count": 1362,
+      "count": 1367,
       "pct": 10.7
     },
     {
@@ -137,19 +137,19 @@
     },
     {
       "name": "文旅 & 公服配套",
-      "count": 120,
-      "pct": 0.9
+      "count": 122,
+      "pct": 1.0
     }
   ],
   "sixNetDist": [
     {
       "name": "非六张网",
-      "count": 4623,
+      "count": 4624,
       "pct": 69.8
     },
     {
       "name": "水网",
-      "count": 1110,
+      "count": 1116,
       "pct": 16.8
     },
     {
@@ -216,12 +216,12 @@
       "count": 21
     },
     {
-      "name": "北京兴电国际工程管理有限公司",
+      "name": "辽宁恒旺建设工程有限公司",
       "count": 20
     },
     {
-      "name": "辽宁恒旺建设工程有限公司",
-      "count": 19
+      "name": "北京兴电国际工程管理有限公司",
+      "count": 20
     },
     {
       "name": "沈阳市振东建设工程监理股份有限公司",
@@ -230,6 +230,10 @@
     {
       "name": "沈阳中天水利工程有限公司",
       "count": 19
+    },
+    {
+      "name": "辽宁宁通建工有限公司",
+      "count": 18
     },
     {
       "name": "辽宁恒润建设工程有限公司",
@@ -254,32 +258,28 @@
     {
       "name": "辽宁屹轩工程咨询有限公司",
       "count": 17
-    },
-    {
-      "name": "辽宁宁通建工有限公司",
-      "count": 17
     }
   ],
   "cityDist": [
     {
       "name": "沈阳",
-      "count": 3028,
+      "count": 3031,
       "pct": 24.4
     },
     {
       "name": "大连",
-      "count": 1566,
+      "count": 1567,
       "pct": 12.6
     },
     {
       "name": "未知",
-      "count": 1196,
+      "count": 1198,
       "pct": 9.6
     },
     {
       "name": "朝阳",
-      "count": 1187,
-      "pct": 9.5
+      "count": 1192,
+      "pct": 9.6
     },
     {
       "name": "锦州",
@@ -303,7 +303,7 @@
     },
     {
       "name": "本溪",
-      "count": 510,
+      "count": 511,
       "pct": 4.1
     },
     {
@@ -340,7 +340,7 @@
   "typeDist": [
     {
       "name": "施工",
-      "count": 2997,
+      "count": 2999,
       "pct": 49.5
     },
     {
@@ -350,7 +350,7 @@
     },
     {
       "name": "设计",
-      "count": 464,
+      "count": 465,
       "pct": 7.7
     },
     {
@@ -360,7 +360,7 @@
     },
     {
       "name": "工程总承包（EPC）",
-      "count": 405,
+      "count": 407,
       "pct": 6.7
     },
     {
@@ -432,8 +432,8 @@
     },
     {
       "name": "北票市",
-      "count": 196,
-      "pct": 6.6
+      "count": 201,
+      "pct": 6.8
     },
     {
       "name": "皇姑区",
@@ -457,8 +457,8 @@
     },
     {
       "name": "大东区",
-      "count": 175,
-      "pct": 5.9
+      "count": 176,
+      "pct": 6.0
     },
     {
       "name": "开原市",
@@ -478,11 +478,11 @@
     {
       "name": "普兰店区",
       "count": 164,
-      "pct": 5.6
+      "pct": 5.5
     },
     {
       "name": "金普新区",
-      "count": 159,
+      "count": 160,
       "pct": 5.4
     },
     {
