@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-12 14:16:21",
+  "generatedAt": "2026-11-12 16:43:07",
   "overview": {
-    "tenderTotal": 6119,
-    "bidderTotal": 6638,
-    "total": 12757,
+    "tenderTotal": 6124,
+    "bidderTotal": 6640,
+    "total": 12764,
     "cityCount": 15,
-    "totalInvestment": 41837.8,
-    "todayNew": 12,
-    "tendersWithInvest": 6112,
-    "biddersWithPrice": 5947,
+    "totalInvestment": 41897.5,
+    "todayNew": 19,
+    "tendersWithInvest": 6117,
+    "biddersWithPrice": 5949,
     "investCoverage": 99.9,
     "priceCoverage": 89.6
   },
@@ -80,24 +80,24 @@
     },
     {
       "month": "2026-11",
-      "tenderCount": 151,
-      "bidderCount": 269
+      "tenderCount": 156,
+      "bidderCount": 271
     }
   ],
   "sectorDist": [
     {
       "name": "其他工程",
-      "count": 2763,
+      "count": 2764,
       "pct": 21.7
     },
     {
       "name": "市政道路 & 园区基建",
-      "count": 2357,
+      "count": 2361,
       "pct": 18.5
     },
     {
       "name": "供排水及污水处理",
-      "count": 2333,
+      "count": 2334,
       "pct": 18.3
     },
     {
@@ -112,7 +112,7 @@
     },
     {
       "name": "房屋建筑（房建）",
-      "count": 1357,
+      "count": 1358,
       "pct": 10.6
     },
     {
@@ -144,7 +144,7 @@
   "sixNetDist": [
     {
       "name": "非六张网",
-      "count": 4634,
+      "count": 4636,
       "pct": 69.8
     },
     {
@@ -185,7 +185,7 @@
     },
     {
       "name": "辽宁城建设计院有限公司",
-      "count": 34
+      "count": 35
     },
     {
       "name": "中国建筑第八工程局有限公司",
@@ -268,12 +268,12 @@
     },
     {
       "name": "大连",
-      "count": 1575,
+      "count": 1576,
       "pct": 12.6
     },
     {
       "name": "未知",
-      "count": 1204,
+      "count": 1207,
       "pct": 9.7
     },
     {
@@ -293,7 +293,7 @@
     },
     {
       "name": "葫芦岛",
-      "count": 689,
+      "count": 690,
       "pct": 5.5
     },
     {
@@ -308,13 +308,13 @@
     },
     {
       "name": "阜新",
-      "count": 456,
+      "count": 457,
       "pct": 3.7
     },
     {
       "name": "抚顺",
-      "count": 430,
-      "pct": 3.4
+      "count": 431,
+      "pct": 3.5
     },
     {
       "name": "辽阳",
@@ -345,7 +345,7 @@
     },
     {
       "name": "监理",
-      "count": 949,
+      "count": 950,
       "pct": 15.6
     },
     {
@@ -355,17 +355,17 @@
     },
     {
       "name": "材料设备采购",
-      "count": 438,
+      "count": 439,
       "pct": 7.2
     },
     {
       "name": "工程总承包（EPC）",
-      "count": 409,
-      "pct": 6.7
+      "count": 411,
+      "pct": 6.8
     },
     {
       "name": "其他",
-      "count": 247,
+      "count": 248,
       "pct": 4.1
     },
     {
