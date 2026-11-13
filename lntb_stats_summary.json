@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-13 09:47:15",
+  "generatedAt": "2026-11-13 13:45:33",
   "overview": {
-    "tenderTotal": 6128,
-    "bidderTotal": 6643,
-    "total": 12771,
+    "tenderTotal": 6143,
+    "bidderTotal": 6645,
+    "total": 12788,
     "cityCount": 15,
-    "totalInvestment": 41910.4,
-    "todayNew": 2,
-    "tendersWithInvest": 6121,
-    "biddersWithPrice": 5952,
+    "totalInvestment": 41995.4,
+    "todayNew": 19,
+    "tendersWithInvest": 6136,
+    "biddersWithPrice": 5954,
     "investCoverage": 99.9,
     "priceCoverage": 89.6
   },
@@ -80,24 +80,24 @@
     },
     {
       "month": "2026-11",
-      "tenderCount": 160,
-      "bidderCount": 274
+      "tenderCount": 175,
+      "bidderCount": 276
     }
   ],
   "sectorDist": [
     {
       "name": "其他工程",
-      "count": 2766,
-      "pct": 21.7
+      "count": 2767,
+      "pct": 21.6
     },
     {
       "name": "市政道路 & 园区基建",
-      "count": 2361,
+      "count": 2364,
       "pct": 18.5
     },
     {
       "name": "供排水及污水处理",
-      "count": 2335,
+      "count": 2340,
       "pct": 18.3
     },
     {
@@ -107,17 +107,17 @@
     },
     {
       "name": "生态环保 & 农林水利",
-      "count": 1372,
+      "count": 1374,
       "pct": 10.7
     },
     {
       "name": "房屋建筑（房建）",
-      "count": 1358,
-      "pct": 10.6
+      "count": 1362,
+      "pct": 10.7
     },
     {
       "name": "电力 & 能源工程",
-      "count": 421,
+      "count": 422,
       "pct": 3.3
     },
     {
@@ -127,7 +127,7 @@
     },
     {
       "name": "智能化 & 城市安全",
-      "count": 190,
+      "count": 191,
       "pct": 1.5
     },
     {
@@ -144,7 +144,7 @@
   "sixNetDist": [
     {
       "name": "非六张网",
-      "count": 4637,
+      "count": 4639,
       "pct": 69.8
     },
     {
@@ -181,7 +181,7 @@
   "winnerRanking": [
     {
       "name": "大连泛华建设咨询管理有限公司",
-      "count": 55
+      "count": 56
     },
     {
       "name": "辽宁城建设计院有限公司",
@@ -263,22 +263,22 @@
   "cityDist": [
     {
       "name": "沈阳",
-      "count": 3038,
+      "count": 3043,
       "pct": 24.3
     },
     {
       "name": "大连",
-      "count": 1578,
+      "count": 1580,
       "pct": 12.6
     },
     {
       "name": "未知",
-      "count": 1207,
+      "count": 1209,
       "pct": 9.7
     },
     {
       "name": "朝阳",
-      "count": 1196,
+      "count": 1197,
       "pct": 9.6
     },
     {
@@ -288,8 +288,8 @@
     },
     {
       "name": "铁岭",
-      "count": 692,
-      "pct": 5.5
+      "count": 695,
+      "pct": 5.6
     },
     {
       "name": "葫芦岛",
@@ -303,7 +303,7 @@
     },
     {
       "name": "本溪",
-      "count": 512,
+      "count": 515,
       "pct": 4.1
     },
     {
@@ -314,7 +314,7 @@
     {
       "name": "抚顺",
       "count": 431,
-      "pct": 3.5
+      "pct": 3.4
     },
     {
       "name": "辽阳",
@@ -333,35 +333,35 @@
     },
     {
       "name": "省级",
-      "count": 243,
-      "pct": 1.9
+      "count": 244,
+      "pct": 2.0
     }
   ],
   "typeDist": [
     {
       "name": "施工",
-      "count": 3007,
+      "count": 3013,
       "pct": 49.4
     },
     {
       "name": "监理",
-      "count": 950,
+      "count": 951,
       "pct": 15.6
     },
     {
       "name": "设计",
-      "count": 467,
+      "count": 470,
       "pct": 7.7
     },
     {
       "name": "材料设备采购",
-      "count": 439,
-      "pct": 7.2
+      "count": 443,
+      "pct": 7.3
     },
     {
       "name": "工程总承包（EPC）",
       "count": 412,
-      "pct": 6.8
+      "pct": 6.7
     },
     {
       "name": "其他",
@@ -380,7 +380,7 @@
     },
     {
       "name": "造价咨询",
-      "count": 85,
+      "count": 86,
       "pct": 1.4
     },
     {
@@ -418,7 +418,7 @@
     {
       "name": "朝阳县",
       "count": 346,
-      "pct": 11.7
+      "pct": 11.6
     },
     {
       "name": "铁西区",
@@ -441,12 +441,12 @@
       "pct": 6.3
     },
     {
-      "name": "建昌县",
-      "count": 179,
-      "pct": 6.0
+      "name": "浑南区",
+      "count": 180,
+      "pct": 6.1
     },
     {
-      "name": "浑南区",
+      "name": "建昌县",
       "count": 179,
       "pct": 6.0
     },
@@ -467,6 +467,11 @@
     },
     {
       "name": "长兴岛",
+      "count": 168,
+      "pct": 5.7
+    },
+    {
+      "name": "昌图县",
       "count": 167,
       "pct": 5.6
     },
@@ -476,18 +481,13 @@
       "pct": 5.6
     },
     {
-      "name": "昌图县",
-      "count": 165,
-      "pct": 5.6
-    },
-    {
       "name": "金普新区",
       "count": 160,
       "pct": 5.4
     },
     {
       "name": "瓦房店市",
-      "count": 146,
+      "count": 147,
       "pct": 4.9
     }
   ]
