@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-16 11:17:51",
+  "generatedAt": "2026-11-16 11:32:18",
   "overview": {
     "tenderTotal": 6157,
-    "bidderTotal": 6662,
-    "total": 12819,
+    "bidderTotal": 6663,
+    "total": 12820,
     "cityCount": 15,
     "totalInvestment": 42013.7,
-    "todayNew": 7,
+    "todayNew": 8,
     "tendersWithInvest": 6150,
-    "biddersWithPrice": 5971,
+    "biddersWithPrice": 5972,
     "investCoverage": 99.9,
     "priceCoverage": 89.6
   },
@@ -81,7 +81,7 @@
     {
       "month": "2026-11",
       "tenderCount": 189,
-      "bidderCount": 293
+      "bidderCount": 294
     }
   ],
   "sectorDist": [
@@ -107,8 +107,8 @@
     },
     {
       "name": "生态环保 & 农林水利",
-      "count": 1378,
-      "pct": 10.7
+      "count": 1379,
+      "pct": 10.8
     },
     {
       "name": "房屋建筑（房建）",
@@ -145,11 +145,11 @@
     {
       "name": "非六张网",
       "count": 4647,
-      "pct": 69.8
+      "pct": 69.7
     },
     {
       "name": "水网",
-      "count": 1125,
+      "count": 1126,
       "pct": 16.9
     },
     {
@@ -278,7 +278,7 @@
     },
     {
       "name": "朝阳",
-      "count": 1200,
+      "count": 1201,
       "pct": 9.6
     },
     {
@@ -423,7 +423,7 @@
     {
       "name": "铁西区",
       "count": 293,
-      "pct": 9.9
+      "pct": 9.8
     },
     {
       "name": "于洪区",
@@ -432,7 +432,7 @@
     },
     {
       "name": "北票市",
-      "count": 202,
+      "count": 203,
       "pct": 6.8
     },
     {
