@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-16 11:32:18",
+  "generatedAt": "2026-11-16 13:39:07",
   "overview": {
-    "tenderTotal": 6157,
+    "tenderTotal": 6165,
     "bidderTotal": 6663,
-    "total": 12820,
+    "total": 12828,
     "cityCount": 15,
-    "totalInvestment": 42013.7,
-    "todayNew": 8,
-    "tendersWithInvest": 6150,
+    "totalInvestment": 42337.2,
+    "todayNew": 16,
+    "tendersWithInvest": 6158,
     "biddersWithPrice": 5972,
     "investCoverage": 99.9,
     "priceCoverage": 89.6
@@ -80,24 +80,24 @@
     },
     {
       "month": "2026-11",
-      "tenderCount": 189,
+      "tenderCount": 197,
       "bidderCount": 294
     }
   ],
   "sectorDist": [
     {
       "name": "其他工程",
-      "count": 2777,
+      "count": 2778,
       "pct": 21.7
     },
     {
       "name": "市政道路 & 园区基建",
-      "count": 2367,
+      "count": 2370,
       "pct": 18.5
     },
     {
       "name": "供排水及污水处理",
-      "count": 2347,
+      "count": 2349,
       "pct": 18.3
     },
     {
@@ -107,7 +107,7 @@
     },
     {
       "name": "生态环保 & 农林水利",
-      "count": 1379,
+      "count": 1381,
       "pct": 10.8
     },
     {
@@ -263,33 +263,33 @@
   "cityDist": [
     {
       "name": "沈阳",
-      "count": 3050,
+      "count": 3052,
       "pct": 24.3
     },
     {
       "name": "大连",
-      "count": 1582,
+      "count": 1584,
       "pct": 12.6
     },
     {
       "name": "未知",
-      "count": 1216,
+      "count": 1217,
       "pct": 9.7
     },
     {
       "name": "朝阳",
-      "count": 1201,
+      "count": 1203,
       "pct": 9.6
     },
     {
       "name": "锦州",
-      "count": 764,
+      "count": 765,
       "pct": 6.1
     },
     {
       "name": "铁岭",
       "count": 696,
-      "pct": 5.6
+      "pct": 5.5
     },
     {
       "name": "葫芦岛",
@@ -299,7 +299,7 @@
     {
       "name": "丹东",
       "count": 583,
-      "pct": 4.7
+      "pct": 4.6
     },
     {
       "name": "本溪",
@@ -340,12 +340,12 @@
   "typeDist": [
     {
       "name": "施工",
-      "count": 3020,
+      "count": 3024,
       "pct": 49.4
     },
     {
       "name": "监理",
-      "count": 952,
+      "count": 954,
       "pct": 15.6
     },
     {
@@ -365,7 +365,7 @@
     },
     {
       "name": "其他",
-      "count": 248,
+      "count": 250,
       "pct": 4.1
     },
     {
@@ -432,17 +432,17 @@
     },
     {
       "name": "北票市",
-      "count": 203,
-      "pct": 6.8
+      "count": 204,
+      "pct": 6.9
     },
     {
       "name": "皇姑区",
       "count": 186,
-      "pct": 6.3
+      "pct": 6.2
     },
     {
       "name": "浑南区",
-      "count": 180,
+      "count": 181,
       "pct": 6.1
     },
     {
