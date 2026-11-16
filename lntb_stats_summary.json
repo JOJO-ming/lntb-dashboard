@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-13 16:40:31",
+  "generatedAt": "2026-11-16 09:57:42",
   "overview": {
     "tenderTotal": 6157,
-    "bidderTotal": 6654,
-    "total": 12811,
+    "bidderTotal": 6656,
+    "total": 12813,
     "cityCount": 15,
-    "totalInvestment": 42005.2,
-    "todayNew": 42,
-    "tendersWithInvest": 6146,
-    "biddersWithPrice": 5963,
-    "investCoverage": 99.8,
+    "totalInvestment": 42013.7,
+    "todayNew": 1,
+    "tendersWithInvest": 6150,
+    "biddersWithPrice": 5965,
+    "investCoverage": 99.9,
     "priceCoverage": 89.6
   },
   "monthlyTrend": [
@@ -81,13 +81,13 @@
     {
       "month": "2026-11",
       "tenderCount": 189,
-      "bidderCount": 285
+      "bidderCount": 287
     }
   ],
   "sectorDist": [
     {
       "name": "其他工程",
-      "count": 2775,
+      "count": 2777,
       "pct": 21.7
     },
     {
@@ -144,7 +144,7 @@
   "sixNetDist": [
     {
       "name": "非六张网",
-      "count": 4645,
+      "count": 4647,
       "pct": 69.8
     },
     {
@@ -318,12 +318,12 @@
     },
     {
       "name": "辽阳",
-      "count": 403,
+      "count": 404,
       "pct": 3.2
     },
     {
       "name": "鞍山",
-      "count": 379,
+      "count": 380,
       "pct": 3.0
     },
     {
