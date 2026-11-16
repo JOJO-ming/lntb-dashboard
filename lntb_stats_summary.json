@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-16 10:05:20",
+  "generatedAt": "2026-11-16 11:17:51",
   "overview": {
     "tenderTotal": 6157,
-    "bidderTotal": 6657,
-    "total": 12814,
+    "bidderTotal": 6662,
+    "total": 12819,
     "cityCount": 15,
     "totalInvestment": 42013.7,
-    "todayNew": 2,
+    "todayNew": 7,
     "tendersWithInvest": 6150,
-    "biddersWithPrice": 5966,
+    "biddersWithPrice": 5971,
     "investCoverage": 99.9,
     "priceCoverage": 89.6
   },
@@ -81,7 +81,7 @@
     {
       "month": "2026-11",
       "tenderCount": 189,
-      "bidderCount": 288
+      "bidderCount": 293
     }
   ],
   "sectorDist": [
@@ -97,7 +97,7 @@
     },
     {
       "name": "供排水及污水处理",
-      "count": 2346,
+      "count": 2347,
       "pct": 18.3
     },
     {
@@ -107,13 +107,13 @@
     },
     {
       "name": "生态环保 & 农林水利",
-      "count": 1375,
+      "count": 1378,
       "pct": 10.7
     },
     {
       "name": "房屋建筑（房建）",
       "count": 1365,
-      "pct": 10.7
+      "pct": 10.6
     },
     {
       "name": "电力 & 能源工程",
@@ -122,7 +122,7 @@
     },
     {
       "name": "供热工程",
-      "count": 265,
+      "count": 266,
       "pct": 2.1
     },
     {
@@ -149,12 +149,12 @@
     },
     {
       "name": "水网",
-      "count": 1121,
-      "pct": 16.8
+      "count": 1125,
+      "pct": 16.9
     },
     {
       "name": "城市地下管网",
-      "count": 689,
+      "count": 690,
       "pct": 10.4
     },
     {
@@ -204,6 +204,10 @@
       "count": 22
     },
     {
+      "name": "辽宁恒旺建设工程有限公司",
+      "count": 21
+    },
+    {
       "name": "北京兴电国际工程管理有限公司",
       "count": 21
     },
@@ -218,10 +222,6 @@
     {
       "name": "辽宁方圆建设项目管理有限公司",
       "count": 21
-    },
-    {
-      "name": "辽宁恒旺建设工程有限公司",
-      "count": 20
     },
     {
       "name": "祥泰（辽宁）建设工程管理有限公司",
@@ -263,7 +263,7 @@
   "cityDist": [
     {
       "name": "沈阳",
-      "count": 3048,
+      "count": 3050,
       "pct": 24.3
     },
     {
@@ -283,13 +283,13 @@
     },
     {
       "name": "锦州",
-      "count": 763,
+      "count": 764,
       "pct": 6.1
     },
     {
       "name": "铁岭",
-      "count": 695,
-      "pct": 5.5
+      "count": 696,
+      "pct": 5.6
     },
     {
       "name": "葫芦岛",
@@ -318,7 +318,7 @@
     },
     {
       "name": "辽阳",
-      "count": 404,
+      "count": 405,
       "pct": 3.2
     },
     {
