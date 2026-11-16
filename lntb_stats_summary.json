@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-16 09:57:42",
+  "generatedAt": "2026-11-16 10:05:20",
   "overview": {
     "tenderTotal": 6157,
-    "bidderTotal": 6656,
-    "total": 12813,
+    "bidderTotal": 6657,
+    "total": 12814,
     "cityCount": 15,
     "totalInvestment": 42013.7,
-    "todayNew": 1,
+    "todayNew": 2,
     "tendersWithInvest": 6150,
-    "biddersWithPrice": 5965,
+    "biddersWithPrice": 5966,
     "investCoverage": 99.9,
     "priceCoverage": 89.6
   },
@@ -81,7 +81,7 @@
     {
       "month": "2026-11",
       "tenderCount": 189,
-      "bidderCount": 287
+      "bidderCount": 288
     }
   ],
   "sectorDist": [
@@ -107,7 +107,7 @@
     },
     {
       "name": "生态环保 & 农林水利",
-      "count": 1374,
+      "count": 1375,
       "pct": 10.7
     },
     {
@@ -149,7 +149,7 @@
     },
     {
       "name": "水网",
-      "count": 1120,
+      "count": 1121,
       "pct": 16.8
     },
     {
@@ -224,6 +224,10 @@
       "count": 20
     },
     {
+      "name": "祥泰（辽宁）建设工程管理有限公司",
+      "count": 19
+    },
+    {
       "name": "沈阳市振东建设工程监理股份有限公司",
       "count": 19
     },
@@ -237,10 +241,6 @@
     },
     {
       "name": "辽宁恒润建设工程有限公司",
-      "count": 18
-    },
-    {
-      "name": "祥泰（辽宁）建设工程管理有限公司",
       "count": 18
     },
     {
@@ -278,7 +278,7 @@
     },
     {
       "name": "朝阳",
-      "count": 1199,
+      "count": 1200,
       "pct": 9.6
     },
     {
@@ -417,8 +417,8 @@
   "districtDist": [
     {
       "name": "朝阳县",
-      "count": 346,
-      "pct": 11.6
+      "count": 347,
+      "pct": 11.7
     },
     {
       "name": "铁西区",
@@ -468,7 +468,7 @@
     {
       "name": "长兴岛",
       "count": 168,
-      "pct": 5.7
+      "pct": 5.6
     },
     {
       "name": "昌图县",
