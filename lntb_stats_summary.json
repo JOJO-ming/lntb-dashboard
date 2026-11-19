@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-19 09:57:32",
+  "generatedAt": "2026-11-19 13:37:45",
   "overview": {
-    "tenderTotal": 6224,
+    "tenderTotal": 6231,
     "bidderTotal": 6756,
-    "total": 12980,
+    "total": 12987,
     "cityCount": 15,
-    "totalInvestment": 42717.2,
-    "todayNew": 3,
-    "tendersWithInvest": 6216,
+    "totalInvestment": 42876.2,
+    "todayNew": 10,
+    "tendersWithInvest": 6224,
     "biddersWithPrice": 6064,
     "investCoverage": 99.9,
     "priceCoverage": 89.8
@@ -80,29 +80,29 @@
     },
     {
       "month": "2026-11",
-      "tenderCount": 256,
+      "tenderCount": 263,
       "bidderCount": 387
     }
   ],
   "sectorDist": [
     {
       "name": "其他工程",
-      "count": 2803,
+      "count": 2804,
       "pct": 21.6
     },
     {
       "name": "供排水及污水处理",
-      "count": 2390,
+      "count": 2393,
       "pct": 18.4
     },
     {
       "name": "市政道路 & 园区基建",
-      "count": 2387,
+      "count": 2388,
       "pct": 18.4
     },
     {
       "name": "城市更新 & 老旧改造",
-      "count": 1432,
+      "count": 1433,
       "pct": 11.0
     },
     {
@@ -137,7 +137,7 @@
     },
     {
       "name": "文旅 & 公服配套",
-      "count": 127,
+      "count": 128,
       "pct": 1.0
     }
   ],
@@ -263,17 +263,17 @@
   "cityDist": [
     {
       "name": "沈阳",
-      "count": 3083,
+      "count": 3084,
       "pct": 24.3
     },
     {
       "name": "大连",
-      "count": 1601,
+      "count": 1603,
       "pct": 12.6
     },
     {
       "name": "未知",
-      "count": 1240,
+      "count": 1241,
       "pct": 9.8
     },
     {
@@ -293,7 +293,7 @@
     },
     {
       "name": "葫芦岛",
-      "count": 698,
+      "count": 699,
       "pct": 5.5
     },
     {
@@ -303,7 +303,7 @@
     },
     {
       "name": "本溪",
-      "count": 525,
+      "count": 526,
       "pct": 4.1
     },
     {
@@ -318,7 +318,7 @@
     },
     {
       "name": "辽阳",
-      "count": 406,
+      "count": 407,
       "pct": 3.2
     },
     {
@@ -340,12 +340,12 @@
   "typeDist": [
     {
       "name": "施工",
-      "count": 3045,
+      "count": 3047,
       "pct": 49.2
     },
     {
       "name": "监理",
-      "count": 961,
+      "count": 963,
       "pct": 15.5
     },
     {
@@ -355,12 +355,12 @@
     },
     {
       "name": "材料设备采购",
-      "count": 454,
+      "count": 455,
       "pct": 7.3
     },
     {
       "name": "工程总承包（EPC）",
-      "count": 422,
+      "count": 423,
       "pct": 6.8
     },
     {
@@ -370,7 +370,7 @@
     },
     {
       "name": "检验检测",
-      "count": 184,
+      "count": 185,
       "pct": 3.0
     },
     {
@@ -471,19 +471,19 @@
       "pct": 5.7
     },
     {
+      "name": "普兰店区",
+      "count": 169,
+      "pct": 5.6
+    },
+    {
       "name": "昌图县",
       "count": 169,
       "pct": 5.6
     },
     {
-      "name": "普兰店区",
-      "count": 168,
-      "pct": 5.6
-    },
-    {
       "name": "金普新区",
-      "count": 161,
-      "pct": 5.3
+      "count": 162,
+      "pct": 5.4
     },
     {
       "name": "瓦房店市",
