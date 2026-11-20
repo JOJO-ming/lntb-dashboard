@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-20 10:46:42",
+  "generatedAt": "2026-11-20 13:35:48",
   "overview": {
     "tenderTotal": 6239,
-    "bidderTotal": 6767,
-    "total": 13006,
+    "bidderTotal": 6769,
+    "total": 13008,
     "cityCount": 15,
     "totalInvestment": 42881.1,
-    "todayNew": 8,
+    "todayNew": 10,
     "tendersWithInvest": 6232,
-    "biddersWithPrice": 6075,
+    "biddersWithPrice": 6077,
     "investCoverage": 99.9,
     "priceCoverage": 89.8
   },
@@ -81,13 +81,13 @@
     {
       "month": "2026-11",
       "tenderCount": 271,
-      "bidderCount": 398
+      "bidderCount": 400
     }
   ],
   "sectorDist": [
     {
       "name": "其他工程",
-      "count": 2810,
+      "count": 2811,
       "pct": 21.6
     },
     {
@@ -117,7 +117,7 @@
     },
     {
       "name": "电力 & 能源工程",
-      "count": 431,
+      "count": 432,
       "pct": 3.3
     },
     {
@@ -144,13 +144,13 @@
   "sixNetDist": [
     {
       "name": "非六张网",
-      "count": 4705,
+      "count": 4706,
       "pct": 69.5
     },
     {
       "name": "水网",
       "count": 1154,
-      "pct": 17.1
+      "pct": 17.0
     },
     {
       "name": "城市地下管网",
@@ -164,8 +164,8 @@
     },
     {
       "name": "物流网",
-      "count": 57,
-      "pct": 0.8
+      "count": 58,
+      "pct": 0.9
     },
     {
       "name": "算力网",
@@ -268,7 +268,7 @@
     },
     {
       "name": "大连",
-      "count": 1609,
+      "count": 1610,
       "pct": 12.7
     },
     {
@@ -293,7 +293,7 @@
     },
     {
       "name": "葫芦岛",
-      "count": 700,
+      "count": 701,
       "pct": 5.5
     },
     {
