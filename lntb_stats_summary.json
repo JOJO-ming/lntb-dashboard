@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-19 16:41:54",
+  "generatedAt": "2026-11-20 10:46:42",
   "overview": {
-    "tenderTotal": 6237,
-    "bidderTotal": 6758,
-    "total": 12995,
+    "tenderTotal": 6239,
+    "bidderTotal": 6767,
+    "total": 13006,
     "cityCount": 15,
-    "totalInvestment": 42879.4,
-    "todayNew": 18,
-    "tendersWithInvest": 6230,
-    "biddersWithPrice": 6066,
+    "totalInvestment": 42881.1,
+    "todayNew": 8,
+    "tendersWithInvest": 6232,
+    "biddersWithPrice": 6075,
     "investCoverage": 99.9,
     "priceCoverage": 89.8
   },
@@ -80,24 +80,24 @@
     },
     {
       "month": "2026-11",
-      "tenderCount": 269,
-      "bidderCount": 389
+      "tenderCount": 271,
+      "bidderCount": 398
     }
   ],
   "sectorDist": [
     {
       "name": "其他工程",
-      "count": 2807,
+      "count": 2810,
       "pct": 21.6
     },
     {
       "name": "供排水及污水处理",
-      "count": 2395,
-      "pct": 18.4
+      "count": 2401,
+      "pct": 18.5
     },
     {
       "name": "市政道路 & 园区基建",
-      "count": 2388,
+      "count": 2389,
       "pct": 18.4
     },
     {
@@ -117,7 +117,7 @@
     },
     {
       "name": "电力 & 能源工程",
-      "count": 430,
+      "count": 431,
       "pct": 3.3
     },
     {
@@ -144,17 +144,17 @@
   "sixNetDist": [
     {
       "name": "非六张网",
-      "count": 4701,
-      "pct": 69.6
+      "count": 4705,
+      "pct": 69.5
     },
     {
       "name": "水网",
-      "count": 1152,
-      "pct": 17.0
+      "count": 1154,
+      "pct": 17.1
     },
     {
       "name": "城市地下管网",
-      "count": 696,
+      "count": 699,
       "pct": 10.3
     },
     {
@@ -263,17 +263,17 @@
   "cityDist": [
     {
       "name": "沈阳",
-      "count": 3085,
+      "count": 3087,
       "pct": 24.3
     },
     {
       "name": "大连",
-      "count": 1606,
-      "pct": 12.6
+      "count": 1609,
+      "pct": 12.7
     },
     {
       "name": "未知",
-      "count": 1243,
+      "count": 1244,
       "pct": 9.8
     },
     {
@@ -288,22 +288,22 @@
     },
     {
       "name": "铁岭",
-      "count": 707,
+      "count": 709,
       "pct": 5.6
     },
     {
       "name": "葫芦岛",
-      "count": 699,
+      "count": 700,
       "pct": 5.5
     },
     {
       "name": "丹东",
-      "count": 586,
+      "count": 587,
       "pct": 4.6
     },
     {
       "name": "本溪",
-      "count": 526,
+      "count": 527,
       "pct": 4.1
     },
     {
@@ -346,11 +346,11 @@
     {
       "name": "监理",
       "count": 964,
-      "pct": 15.6
+      "pct": 15.5
     },
     {
       "name": "设计",
-      "count": 475,
+      "count": 476,
       "pct": 7.7
     },
     {
@@ -390,8 +390,8 @@
     },
     {
       "name": "项目管理(含代建)",
-      "count": 46,
-      "pct": 0.7
+      "count": 47,
+      "pct": 0.8
     },
     {
       "name": "设计施工总承包(EPC)",
@@ -427,7 +427,7 @@
     },
     {
       "name": "于洪区",
-      "count": 250,
+      "count": 251,
       "pct": 8.3
     },
     {
@@ -467,16 +467,16 @@
     },
     {
       "name": "长兴岛",
-      "count": 173,
-      "pct": 5.7
-    },
-    {
-      "name": "普兰店区",
-      "count": 169,
-      "pct": 5.6
+      "count": 174,
+      "pct": 5.8
     },
     {
       "name": "昌图县",
+      "count": 170,
+      "pct": 5.6
+    },
+    {
+      "name": "普兰店区",
       "count": 169,
       "pct": 5.6
     },
