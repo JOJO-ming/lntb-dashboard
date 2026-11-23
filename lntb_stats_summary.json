@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-23 09:39:16",
+  "generatedAt": "2026-11-23 09:49:18",
   "overview": {
     "tenderTotal": 6253,
-    "bidderTotal": 6782,
-    "total": 13035,
+    "bidderTotal": 6784,
+    "total": 13037,
     "cityCount": 15,
     "totalInvestment": 42892.8,
-    "todayNew": 3,
+    "todayNew": 5,
     "tendersWithInvest": 6246,
-    "biddersWithPrice": 6089,
+    "biddersWithPrice": 6091,
     "investCoverage": 99.9,
     "priceCoverage": 89.8
   },
@@ -81,7 +81,7 @@
     {
       "month": "2026-11",
       "tenderCount": 285,
-      "bidderCount": 413
+      "bidderCount": 415
     }
   ],
   "sectorDist": [
@@ -92,7 +92,7 @@
     },
     {
       "name": "供排水及污水处理",
-      "count": 2409,
+      "count": 2410,
       "pct": 18.5
     },
     {
@@ -102,7 +102,7 @@
     },
     {
       "name": "城市更新 & 老旧改造",
-      "count": 1438,
+      "count": 1439,
       "pct": 11.0
     },
     {
@@ -145,7 +145,7 @@
     {
       "name": "非六张网",
       "count": 4717,
-      "pct": 69.6
+      "pct": 69.5
     },
     {
       "name": "水网",
@@ -154,7 +154,7 @@
     },
     {
       "name": "城市地下管网",
-      "count": 699,
+      "count": 701,
       "pct": 10.3
     },
     {
@@ -283,7 +283,7 @@
     },
     {
       "name": "锦州",
-      "count": 776,
+      "count": 777,
       "pct": 6.1
     },
     {
@@ -332,7 +332,7 @@
       "pct": 2.5
     },
     {
-      "name": "省级",
+      "name": "营口",
       "count": 244,
       "pct": 1.9
     }
