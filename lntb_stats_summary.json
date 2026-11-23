@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-23 13:31:16",
+  "generatedAt": "2026-11-23 13:39:11",
   "overview": {
     "tenderTotal": 6253,
-    "bidderTotal": 6784,
-    "total": 13037,
+    "bidderTotal": 6793,
+    "total": 13046,
     "cityCount": 15,
     "totalInvestment": 42892.8,
-    "todayNew": 5,
+    "todayNew": 14,
     "tendersWithInvest": 6246,
-    "biddersWithPrice": 6091,
+    "biddersWithPrice": 6100,
     "investCoverage": 99.9,
     "priceCoverage": 89.8
   },
@@ -81,18 +81,18 @@
     {
       "month": "2026-11",
       "tenderCount": 285,
-      "bidderCount": 415
+      "bidderCount": 424
     }
   ],
   "sectorDist": [
     {
       "name": "其他工程",
-      "count": 2817,
+      "count": 2820,
       "pct": 21.6
     },
     {
       "name": "供排水及污水处理",
-      "count": 2410,
+      "count": 2411,
       "pct": 18.5
     },
     {
@@ -107,7 +107,7 @@
     },
     {
       "name": "生态环保 & 农林水利",
-      "count": 1406,
+      "count": 1411,
       "pct": 10.8
     },
     {
@@ -144,12 +144,12 @@
   "sixNetDist": [
     {
       "name": "非六张网",
-      "count": 4717,
+      "count": 4724,
       "pct": 69.5
     },
     {
       "name": "水网",
-      "count": 1156,
+      "count": 1158,
       "pct": 17.0
     },
     {
@@ -273,13 +273,13 @@
     },
     {
       "name": "未知",
-      "count": 1251,
+      "count": 1252,
       "pct": 9.8
     },
     {
       "name": "朝阳",
-      "count": 1227,
-      "pct": 9.6
+      "count": 1231,
+      "pct": 9.7
     },
     {
       "name": "锦州",
@@ -293,7 +293,7 @@
     },
     {
       "name": "葫芦岛",
-      "count": 701,
+      "count": 703,
       "pct": 5.5
     },
     {
@@ -314,7 +314,7 @@
     {
       "name": "抚顺",
       "count": 440,
-      "pct": 3.5
+      "pct": 3.4
     },
     {
       "name": "辽阳",
@@ -328,12 +328,12 @@
     },
     {
       "name": "盘锦",
-      "count": 321,
+      "count": 322,
       "pct": 2.5
     },
     {
       "name": "营口",
-      "count": 244,
+      "count": 245,
       "pct": 1.9
     }
   ],
@@ -432,8 +432,8 @@
     },
     {
       "name": "北票市",
-      "count": 212,
-      "pct": 7.0
+      "count": 216,
+      "pct": 7.1
     },
     {
       "name": "皇姑区",
