@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-23 16:39:43",
+  "generatedAt": "2026-11-24 09:54:14",
   "overview": {
     "tenderTotal": 6261,
-    "bidderTotal": 6800,
-    "total": 13061,
+    "bidderTotal": 6810,
+    "total": 13071,
     "cityCount": 15,
     "totalInvestment": 42911.0,
-    "todayNew": 29,
+    "todayNew": 10,
     "tendersWithInvest": 6254,
-    "biddersWithPrice": 6107,
+    "biddersWithPrice": 6117,
     "investCoverage": 99.9,
     "priceCoverage": 89.8
   },
@@ -81,18 +81,18 @@
     {
       "month": "2026-11",
       "tenderCount": 293,
-      "bidderCount": 431
+      "bidderCount": 441
     }
   ],
   "sectorDist": [
     {
       "name": "其他工程",
-      "count": 2828,
+      "count": 2832,
       "pct": 21.7
     },
     {
       "name": "供排水及污水处理",
-      "count": 2413,
+      "count": 2417,
       "pct": 18.5
     },
     {
@@ -107,7 +107,7 @@
     },
     {
       "name": "生态环保 & 农林水利",
-      "count": 1412,
+      "count": 1414,
       "pct": 10.8
     },
     {
@@ -144,13 +144,13 @@
   "sixNetDist": [
     {
       "name": "非六张网",
-      "count": 4729,
+      "count": 4734,
       "pct": 69.5
     },
     {
       "name": "水网",
-      "count": 1159,
-      "pct": 17.0
+      "count": 1164,
+      "pct": 17.1
     },
     {
       "name": "城市地下管网",
@@ -264,7 +264,7 @@
     {
       "name": "沈阳",
       "count": 3098,
-      "pct": 24.3
+      "pct": 24.2
     },
     {
       "name": "大连",
@@ -273,22 +273,22 @@
     },
     {
       "name": "未知",
-      "count": 1253,
+      "count": 1255,
       "pct": 9.8
     },
     {
       "name": "朝阳",
-      "count": 1234,
+      "count": 1235,
       "pct": 9.7
     },
     {
       "name": "锦州",
-      "count": 777,
+      "count": 781,
       "pct": 6.1
     },
     {
       "name": "铁岭",
-      "count": 714,
+      "count": 715,
       "pct": 5.6
     },
     {
@@ -303,12 +303,12 @@
     },
     {
       "name": "本溪",
-      "count": 528,
+      "count": 529,
       "pct": 4.1
     },
     {
       "name": "阜新",
-      "count": 463,
+      "count": 464,
       "pct": 3.6
     },
     {
@@ -417,7 +417,7 @@
   "districtDist": [
     {
       "name": "朝阳县",
-      "count": 351,
+      "count": 352,
       "pct": 11.6
     },
     {
@@ -451,14 +451,14 @@
       "pct": 6.0
     },
     {
-      "name": "和平区",
+      "name": "开原市",
       "count": 178,
       "pct": 5.9
     },
     {
-      "name": "开原市",
-      "count": 177,
-      "pct": 5.8
+      "name": "和平区",
+      "count": 178,
+      "pct": 5.9
     },
     {
       "name": "大东区",
@@ -468,12 +468,12 @@
     {
       "name": "长兴岛",
       "count": 174,
-      "pct": 5.8
+      "pct": 5.7
     },
     {
       "name": "昌图县",
       "count": 171,
-      "pct": 5.7
+      "pct": 5.6
     },
     {
       "name": "普兰店区",
