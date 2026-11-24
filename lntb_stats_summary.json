@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-11-24 09:54:14",
+  "generatedAt": "2026-11-24 13:39:31",
   "overview": {
-    "tenderTotal": 6261,
-    "bidderTotal": 6810,
-    "total": 13071,
+    "tenderTotal": 6262,
+    "bidderTotal": 6834,
+    "total": 13096,
     "cityCount": 15,
-    "totalInvestment": 42911.0,
-    "todayNew": 10,
-    "tendersWithInvest": 6254,
-    "biddersWithPrice": 6117,
+    "totalInvestment": 42911.6,
+    "todayNew": 35,
+    "tendersWithInvest": 6255,
+    "biddersWithPrice": 6141,
     "investCoverage": 99.9,
-    "priceCoverage": 89.8
+    "priceCoverage": 89.9
   },
   "monthlyTrend": [
     {
@@ -80,54 +80,54 @@
     },
     {
       "month": "2026-11",
-      "tenderCount": 293,
-      "bidderCount": 441
+      "tenderCount": 294,
+      "bidderCount": 465
     }
   ],
   "sectorDist": [
     {
       "name": "其他工程",
-      "count": 2832,
+      "count": 2838,
       "pct": 21.7
     },
     {
       "name": "供排水及污水处理",
-      "count": 2417,
+      "count": 2425,
       "pct": 18.5
     },
     {
       "name": "市政道路 & 园区基建",
-      "count": 2391,
+      "count": 2392,
       "pct": 18.3
     },
     {
       "name": "城市更新 & 老旧改造",
-      "count": 1441,
+      "count": 1442,
       "pct": 11.0
     },
     {
       "name": "生态环保 & 农林水利",
-      "count": 1414,
+      "count": 1416,
       "pct": 10.8
     },
     {
       "name": "房屋建筑（房建）",
-      "count": 1393,
+      "count": 1397,
       "pct": 10.7
     },
     {
       "name": "电力 & 能源工程",
-      "count": 432,
+      "count": 433,
       "pct": 3.3
     },
     {
       "name": "供热工程",
       "count": 268,
-      "pct": 2.1
+      "pct": 2.0
     },
     {
       "name": "智能化 & 城市安全",
-      "count": 195,
+      "count": 196,
       "pct": 1.5
     },
     {
@@ -137,24 +137,24 @@
     },
     {
       "name": "文旅 & 公服配套",
-      "count": 129,
+      "count": 130,
       "pct": 1.0
     }
   ],
   "sixNetDist": [
     {
       "name": "非六张网",
-      "count": 4734,
+      "count": 4750,
       "pct": 69.5
     },
     {
       "name": "水网",
-      "count": 1164,
+      "count": 1170,
       "pct": 17.1
     },
     {
       "name": "城市地下管网",
-      "count": 702,
+      "count": 704,
       "pct": 10.3
     },
     {
@@ -165,7 +165,7 @@
     {
       "name": "物流网",
       "count": 58,
-      "pct": 0.9
+      "pct": 0.8
     },
     {
       "name": "算力网",
@@ -200,8 +200,12 @@
       "count": 24
     },
     {
+      "name": "辽宁辽河水利工程有限公司",
+      "count": 23
+    },
+    {
       "name": "辽宁盛泰建设工程有限公司",
-      "count": 22
+      "count": 23
     },
     {
       "name": "辽宁恒旺建设工程有限公司",
@@ -209,10 +213,6 @@
     },
     {
       "name": "北京兴电国际工程管理有限公司",
-      "count": 21
-    },
-    {
-      "name": "辽宁辽河水利工程有限公司",
       "count": 21
     },
     {
@@ -263,7 +263,7 @@
   "cityDist": [
     {
       "name": "沈阳",
-      "count": 3098,
+      "count": 3104,
       "pct": 24.2
     },
     {
@@ -273,27 +273,27 @@
     },
     {
       "name": "未知",
-      "count": 1255,
+      "count": 1258,
       "pct": 9.8
     },
     {
       "name": "朝阳",
-      "count": 1235,
+      "count": 1240,
       "pct": 9.7
     },
     {
       "name": "锦州",
-      "count": 781,
+      "count": 783,
       "pct": 6.1
     },
     {
       "name": "铁岭",
-      "count": 715,
+      "count": 716,
       "pct": 5.6
     },
     {
       "name": "葫芦岛",
-      "count": 704,
+      "count": 705,
       "pct": 5.5
     },
     {
@@ -308,7 +308,7 @@
     },
     {
       "name": "阜新",
-      "count": 464,
+      "count": 465,
       "pct": 3.6
     },
     {
@@ -318,7 +318,7 @@
     },
     {
       "name": "辽阳",
-      "count": 407,
+      "count": 408,
       "pct": 3.2
     },
     {
@@ -328,12 +328,12 @@
     },
     {
       "name": "盘锦",
-      "count": 322,
+      "count": 325,
       "pct": 2.5
     },
     {
       "name": "营口",
-      "count": 245,
+      "count": 246,
       "pct": 1.9
     }
   ],
@@ -350,8 +350,8 @@
     },
     {
       "name": "设计",
-      "count": 476,
-      "pct": 7.6
+      "count": 477,
+      "pct": 7.7
     },
     {
       "name": "材料设备采购",
@@ -427,7 +427,7 @@
     },
     {
       "name": "于洪区",
-      "count": 253,
+      "count": 254,
       "pct": 8.4
     },
     {
@@ -436,13 +436,13 @@
       "pct": 7.1
     },
     {
-      "name": "皇姑区",
+      "name": "浑南区",
       "count": 186,
       "pct": 6.1
     },
     {
-      "name": "浑南区",
-      "count": 185,
+      "name": "皇姑区",
+      "count": 186,
       "pct": 6.1
     },
     {
