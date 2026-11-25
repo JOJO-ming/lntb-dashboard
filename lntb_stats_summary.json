@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-25 09:50:15",
+  "generatedAt": "2026-11-25 13:36:44",
   "overview": {
-    "tenderTotal": 6278,
-    "bidderTotal": 6859,
-    "total": 13137,
+    "tenderTotal": 6279,
+    "bidderTotal": 6860,
+    "total": 13139,
     "cityCount": 15,
     "totalInvestment": 42923.2,
-    "todayNew": 2,
-    "tendersWithInvest": 6271,
-    "biddersWithPrice": 6166,
+    "todayNew": 4,
+    "tendersWithInvest": 6272,
+    "biddersWithPrice": 6167,
     "investCoverage": 99.9,
     "priceCoverage": 89.9
   },
@@ -80,19 +80,19 @@
     },
     {
       "month": "2026-11",
-      "tenderCount": 310,
-      "bidderCount": 490
+      "tenderCount": 311,
+      "bidderCount": 491
     }
   ],
   "sectorDist": [
     {
       "name": "其他工程",
-      "count": 2854,
+      "count": 2855,
       "pct": 21.7
     },
     {
       "name": "供排水及污水处理",
-      "count": 2432,
+      "count": 2433,
       "pct": 18.5
     },
     {
@@ -144,7 +144,7 @@
   "sixNetDist": [
     {
       "name": "非六张网",
-      "count": 4767,
+      "count": 4768,
       "pct": 69.5
     },
     {
@@ -268,12 +268,12 @@
     },
     {
       "name": "大连",
-      "count": 1617,
+      "count": 1618,
       "pct": 12.6
     },
     {
       "name": "未知",
-      "count": 1264,
+      "count": 1265,
       "pct": 9.8
     },
     {
@@ -340,7 +340,7 @@
   "typeDist": [
     {
       "name": "施工",
-      "count": 3071,
+      "count": 3072,
       "pct": 49.2
     },
     {
@@ -366,7 +366,7 @@
     {
       "name": "其他",
       "count": 259,
-      "pct": 4.2
+      "pct": 4.1
     },
     {
       "name": "检验检测",
@@ -418,7 +418,7 @@
     {
       "name": "朝阳县",
       "count": 354,
-      "pct": 11.7
+      "pct": 11.6
     },
     {
       "name": "铁西区",
@@ -482,7 +482,7 @@
     },
     {
       "name": "金普新区",
-      "count": 164,
+      "count": 165,
       "pct": 5.4
     },
     {
