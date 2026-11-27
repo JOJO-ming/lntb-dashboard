@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-26 16:39:36",
+  "generatedAt": "2026-11-27 09:45:18",
   "overview": {
-    "tenderTotal": 6301,
-    "bidderTotal": 6873,
-    "total": 13174,
+    "tenderTotal": 6311,
+    "bidderTotal": 6874,
+    "total": 13185,
     "cityCount": 15,
-    "totalInvestment": 42944.7,
-    "todayNew": 18,
-    "tendersWithInvest": 6294,
-    "biddersWithPrice": 6180,
+    "totalInvestment": 43020.0,
+    "todayNew": 1,
+    "tendersWithInvest": 6304,
+    "biddersWithPrice": 6181,
     "investCoverage": 99.9,
     "priceCoverage": 89.9
   },
@@ -80,14 +80,14 @@
     },
     {
       "month": "2026-11",
-      "tenderCount": 333,
-      "bidderCount": 504
+      "tenderCount": 343,
+      "bidderCount": 505
     }
   ],
   "sectorDist": [
     {
       "name": "其他工程",
-      "count": 2862,
+      "count": 2867,
       "pct": 21.7
     },
     {
@@ -97,17 +97,17 @@
     },
     {
       "name": "市政道路 & 园区基建",
-      "count": 2398,
+      "count": 2400,
       "pct": 18.2
     },
     {
       "name": "城市更新 & 老旧改造",
-      "count": 1448,
+      "count": 1449,
       "pct": 11.0
     },
     {
       "name": "生态环保 & 农林水利",
-      "count": 1422,
+      "count": 1423,
       "pct": 10.8
     },
     {
@@ -117,7 +117,7 @@
     },
     {
       "name": "电力 & 能源工程",
-      "count": 435,
+      "count": 436,
       "pct": 3.3
     },
     {
@@ -132,7 +132,7 @@
     },
     {
       "name": "燃气工程",
-      "count": 159,
+      "count": 160,
       "pct": 1.2
     },
     {
@@ -144,7 +144,7 @@
   "sixNetDist": [
     {
       "name": "非六张网",
-      "count": 4777,
+      "count": 4778,
       "pct": 69.5
     },
     {
@@ -263,22 +263,22 @@
   "cityDist": [
     {
       "name": "沈阳",
-      "count": 3117,
+      "count": 3118,
       "pct": 24.2
     },
     {
       "name": "大连",
-      "count": 1627,
+      "count": 1630,
       "pct": 12.6
     },
     {
       "name": "未知",
-      "count": 1268,
-      "pct": 9.8
+      "count": 1272,
+      "pct": 9.9
     },
     {
       "name": "朝阳",
-      "count": 1248,
+      "count": 1249,
       "pct": 9.7
     },
     {
@@ -298,7 +298,7 @@
     },
     {
       "name": "丹东",
-      "count": 592,
+      "count": 594,
       "pct": 4.6
     },
     {
@@ -340,13 +340,13 @@
   "typeDist": [
     {
       "name": "施工",
-      "count": 3081,
+      "count": 3087,
       "pct": 49.2
     },
     {
       "name": "监理",
-      "count": 974,
-      "pct": 15.6
+      "count": 975,
+      "pct": 15.5
     },
     {
       "name": "设计",
@@ -355,12 +355,12 @@
     },
     {
       "name": "材料设备采购",
-      "count": 459,
+      "count": 460,
       "pct": 7.3
     },
     {
       "name": "工程总承包（EPC）",
-      "count": 429,
+      "count": 430,
       "pct": 6.9
     },
     {
@@ -376,7 +376,7 @@
     {
       "name": "勘察",
       "count": 116,
-      "pct": 1.9
+      "pct": 1.8
     },
     {
       "name": "造价咨询",
@@ -391,7 +391,7 @@
     {
       "name": "项目管理(含代建)",
       "count": 47,
-      "pct": 0.8
+      "pct": 0.7
     },
     {
       "name": "设计施工总承包(EPC)",
