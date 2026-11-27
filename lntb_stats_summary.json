@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-27 09:45:18",
+  "generatedAt": "2026-11-27 13:39:00",
   "overview": {
-    "tenderTotal": 6311,
-    "bidderTotal": 6874,
-    "total": 13185,
+    "tenderTotal": 6320,
+    "bidderTotal": 6881,
+    "total": 13201,
     "cityCount": 15,
-    "totalInvestment": 43020.0,
-    "todayNew": 1,
-    "tendersWithInvest": 6304,
-    "biddersWithPrice": 6181,
+    "totalInvestment": 43060.1,
+    "todayNew": 17,
+    "tendersWithInvest": 6313,
+    "biddersWithPrice": 6188,
     "investCoverage": 99.9,
     "priceCoverage": 89.9
   },
@@ -80,24 +80,24 @@
     },
     {
       "month": "2026-11",
-      "tenderCount": 343,
-      "bidderCount": 505
+      "tenderCount": 352,
+      "bidderCount": 512
     }
   ],
   "sectorDist": [
     {
       "name": "其他工程",
-      "count": 2867,
+      "count": 2871,
       "pct": 21.7
     },
     {
       "name": "供排水及污水处理",
-      "count": 2448,
+      "count": 2452,
       "pct": 18.6
     },
     {
       "name": "市政道路 & 园区基建",
-      "count": 2400,
+      "count": 2401,
       "pct": 18.2
     },
     {
@@ -112,7 +112,7 @@
     },
     {
       "name": "房屋建筑（房建）",
-      "count": 1405,
+      "count": 1410,
       "pct": 10.7
     },
     {
@@ -122,8 +122,8 @@
     },
     {
       "name": "供热工程",
-      "count": 270,
-      "pct": 2.0
+      "count": 271,
+      "pct": 2.1
     },
     {
       "name": "智能化 & 城市安全",
@@ -132,7 +132,7 @@
     },
     {
       "name": "燃气工程",
-      "count": 160,
+      "count": 161,
       "pct": 1.2
     },
     {
@@ -144,7 +144,7 @@
   "sixNetDist": [
     {
       "name": "非六张网",
-      "count": 4778,
+      "count": 4783,
       "pct": 69.5
     },
     {
@@ -154,7 +154,7 @@
     },
     {
       "name": "城市地下管网",
-      "count": 708,
+      "count": 710,
       "pct": 10.3
     },
     {
@@ -185,7 +185,7 @@
     },
     {
       "name": "辽宁城建设计院有限公司",
-      "count": 35
+      "count": 36
     },
     {
       "name": "中国建筑第八工程局有限公司",
@@ -263,17 +263,17 @@
   "cityDist": [
     {
       "name": "沈阳",
-      "count": 3118,
+      "count": 3120,
       "pct": 24.2
     },
     {
       "name": "大连",
-      "count": 1630,
-      "pct": 12.6
+      "count": 1633,
+      "pct": 12.7
     },
     {
       "name": "未知",
-      "count": 1272,
+      "count": 1274,
       "pct": 9.9
     },
     {
@@ -288,7 +288,7 @@
     },
     {
       "name": "铁岭",
-      "count": 721,
+      "count": 722,
       "pct": 5.6
     },
     {
@@ -298,7 +298,7 @@
     },
     {
       "name": "丹东",
-      "count": 594,
+      "count": 595,
       "pct": 4.6
     },
     {
@@ -323,24 +323,24 @@
     },
     {
       "name": "鞍山",
-      "count": 387,
+      "count": 390,
       "pct": 3.0
     },
     {
       "name": "盘锦",
-      "count": 327,
+      "count": 328,
       "pct": 2.5
     },
     {
       "name": "营口",
-      "count": 249,
+      "count": 250,
       "pct": 1.9
     }
   ],
   "typeDist": [
     {
       "name": "施工",
-      "count": 3087,
+      "count": 3089,
       "pct": 49.2
     },
     {
@@ -350,18 +350,18 @@
     },
     {
       "name": "设计",
-      "count": 480,
+      "count": 483,
       "pct": 7.7
     },
     {
       "name": "材料设备采购",
-      "count": 460,
-      "pct": 7.3
+      "count": 464,
+      "pct": 7.4
     },
     {
       "name": "工程总承包（EPC）",
       "count": 430,
-      "pct": 6.9
+      "pct": 6.8
     },
     {
       "name": "其他",
@@ -371,7 +371,7 @@
     {
       "name": "检验检测",
       "count": 185,
-      "pct": 3.0
+      "pct": 2.9
     },
     {
       "name": "勘察",
@@ -452,8 +452,8 @@
     },
     {
       "name": "开原市",
-      "count": 178,
-      "pct": 5.8
+      "count": 179,
+      "pct": 5.9
     },
     {
       "name": "和平区",
