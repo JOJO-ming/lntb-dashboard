@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-27 13:39:00",
+  "generatedAt": "2026-11-27 16:40:51",
   "overview": {
-    "tenderTotal": 6320,
-    "bidderTotal": 6881,
-    "total": 13201,
+    "tenderTotal": 6331,
+    "bidderTotal": 6888,
+    "total": 13219,
     "cityCount": 15,
-    "totalInvestment": 43060.1,
-    "todayNew": 17,
-    "tendersWithInvest": 6313,
-    "biddersWithPrice": 6188,
+    "totalInvestment": 43079.9,
+    "todayNew": 35,
+    "tendersWithInvest": 6324,
+    "biddersWithPrice": 6195,
     "investCoverage": 99.9,
     "priceCoverage": 89.9
   },
@@ -80,34 +80,34 @@
     },
     {
       "month": "2026-11",
-      "tenderCount": 352,
-      "bidderCount": 512
+      "tenderCount": 363,
+      "bidderCount": 519
     }
   ],
   "sectorDist": [
     {
       "name": "其他工程",
-      "count": 2871,
-      "pct": 21.7
+      "count": 2878,
+      "pct": 21.8
     },
     {
       "name": "供排水及污水处理",
-      "count": 2452,
+      "count": 2454,
       "pct": 18.6
     },
     {
       "name": "市政道路 & 园区基建",
-      "count": 2401,
+      "count": 2406,
       "pct": 18.2
     },
     {
       "name": "城市更新 & 老旧改造",
-      "count": 1449,
+      "count": 1451,
       "pct": 11.0
     },
     {
       "name": "生态环保 & 农林水利",
-      "count": 1423,
+      "count": 1425,
       "pct": 10.8
     },
     {
@@ -144,7 +144,7 @@
   "sixNetDist": [
     {
       "name": "非六张网",
-      "count": 4783,
+      "count": 4790,
       "pct": 69.5
     },
     {
@@ -189,7 +189,7 @@
     },
     {
       "name": "中国建筑第八工程局有限公司",
-      "count": 28
+      "count": 30
     },
     {
       "name": "辽宁润泽建设工程有限公司",
@@ -264,16 +264,16 @@
     {
       "name": "沈阳",
       "count": 3120,
-      "pct": 24.2
+      "pct": 24.1
     },
     {
       "name": "大连",
-      "count": 1633,
+      "count": 1643,
       "pct": 12.7
     },
     {
       "name": "未知",
-      "count": 1274,
+      "count": 1275,
       "pct": 9.9
     },
     {
@@ -283,7 +283,7 @@
     },
     {
       "name": "锦州",
-      "count": 788,
+      "count": 789,
       "pct": 6.1
     },
     {
@@ -293,7 +293,7 @@
     },
     {
       "name": "葫芦岛",
-      "count": 709,
+      "count": 714,
       "pct": 5.5
     },
     {
@@ -323,7 +323,7 @@
     },
     {
       "name": "鞍山",
-      "count": 390,
+      "count": 391,
       "pct": 3.0
     },
     {
@@ -340,22 +340,22 @@
   "typeDist": [
     {
       "name": "施工",
-      "count": 3089,
+      "count": 3095,
       "pct": 49.2
     },
     {
       "name": "监理",
-      "count": 975,
+      "count": 977,
       "pct": 15.5
     },
     {
       "name": "设计",
-      "count": 483,
+      "count": 485,
       "pct": 7.7
     },
     {
       "name": "材料设备采购",
-      "count": 464,
+      "count": 465,
       "pct": 7.4
     },
     {
@@ -401,7 +401,7 @@
     {
       "name": "工程总承包(EPC)",
       "count": 22,
-      "pct": 0.4
+      "pct": 0.3
     },
     {
       "name": "项目管理",
@@ -461,13 +461,13 @@
       "pct": 5.8
     },
     {
-      "name": "大东区",
+      "name": "长兴岛",
       "count": 177,
       "pct": 5.8
     },
     {
-      "name": "长兴岛",
-      "count": 176,
+      "name": "大东区",
+      "count": 177,
       "pct": 5.8
     },
     {
